@@ -1,0 +1,223 @@
+{% extends 'base.html' %}
+
+<!-- Header -->
+{% block head %}
+    <title>Cost Estimate</title>
+
+    <!-- CDN for select2 -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.10/css/select2.min.css" rel="stylesheet" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.10/js/select2.min.js"></script>
+
+{% endblock %}
+
+<!-- Main Body -->
+{% block body %}
+
+<!-- Header Bar -->
+<nav class="navbar navbar-expand-lg bg-light static-top">
+  <div class="container">
+    <a class="navbar-brand" href="https://strandls.com/">
+          {% load static %}
+          <img src='{% static "ldtapp/img/strandls_logo.png" %}' alt="">
+        </a>
+  </div>
+</nav>
+
+<!-- Page Content -->
+<div class="container">
+  
+  <!-- Page heading -->
+  <h2 class="mt-4">Cost Estimate: Next Generation Sequencing </h2>
+
+  <!-- User entry row -->
+  <div class="row">
+    <!-- Disease-Gene Category Search box -->
+    <div class="form-group col-md-8">
+      <label for="diseaseGeneCat">Disease-Gene Category</label>
+        <select class="form-control" id="diseaseGeneCat" name="diseaseGeneCat" style="width: 100%">
+          <option></option>
+          {% for i in geneDisease %}
+          <option value="{{ i.genes }}" name='gene_list'>{{ i.disease }}</option>
+          {% endfor %}
+        </select>
+    </div>
+
+    <div class="form-group col-md-2">
+      <label for="weeklyfreq">Weekly Frequency</label>
+        <input type="weeklyfreq" class="form-control" name='weeklyfreq' id="weeklyfreq" placeholder="Samples/week" style="width: 100%; height: calc(1.7rem + 2px); border: 1px solid #495057;">
+    </div>
+
+    <div class="form-group col-md-2">
+      <label for="add">Add to cart</label>
+        <input value="Add" type="add" class="form-control btn btn-primary mb-2" id="add">
+    </div>
+
+  </div>
+
+  <!-- Add to cart table -->
+  <div class="form-group col-md-12">
+    <h4>Your cart :-</h4>
+    <table class="table" id="cart">
+      <thead>
+        <tr>
+          <th>Disease</th>
+          <th>#</th>
+          <th>Genes</th> 
+          <th>Frequency</th>
+          <th>Remove</th>
+        </tr>
+      </thead>
+       <tbody>
+          <!--data comes here from jquery append -->
+       </tbody>
+       <tfoot>
+          <tr style="font-weight:bold">
+            <td>Total</td>
+            <td id="numgenes">#Union</td>
+            <td id="union">Union of genes</td>
+            <td id="sum">Sum</td>
+            <td></td>
+          </tr>
+        </tfoot>
+    </table>
+  </div>
+  <hr>
+
+  <form action = {% url "costEstimated" %} method="get" name="myForm" onsubmit="return validateForm()">
+    {% csrf_token %}
+    <label for="tat">Enter the total turn around time for the above:- </label>
+    
+    <div class="form-group col-md-2">
+      <input type="number" class="form-control" name='tat' id="tat" placeholder=">=4" min="4" max="1000" step="1" required style="width: 100%; height: calc(1.7rem + 2px); border: 1px solid #495057;">
+    </div>
+    
+    <div class="form-group col-md-3">
+      <input type="text" name="finalvalues" id="finalvalues">
+        <label for="submit">Get the cost estimate</label>
+          <input type="submit" class="form-control btn btn-primary mb-2" id="submit">
+    </div>
+  </form>
+
+
+</div> <!-- End of container -->
+
+{% endblock %}
+
+<!-- Fotter -->
+{% block footer %}
+<script type="text/javascript">
+
+  // global variables
+    var unionArr = [];
+
+  // on page load
+    $('#finalvalues').hide()
+
+  // select2 jquery
+    $(document).ready(function() {
+    $('#diseaseGeneCat').select2({placeholder: "Search...",
+    allowClear: true});
+    });
+
+
+ 
+ //0} For control submit button for empty form
+    function validateForm() {
+    var x = document.forms["myForm"]["finalvalues"].value;
+    if (x == "") {
+      alert("Fill your cart before submiting");
+      return false;
+    }
+  }
+
+
+  //1} For adding rows with values to the table
+    $("#add").click(function(){
+    // getting all values
+    var disease = $('#diseaseGeneCat :selected').text();
+    var genes = $('#diseaseGeneCat').val();
+    var freq = $('#weeklyfreq').val();
+    var numgenes = genes.split(" ").length;
+
+    var row = '<tr><td>'+disease+'</td><td class="numgenes" >'+numgenes+'</td><td class="genes">'+genes+'</td><td class="freq" >'+freq+'</td><td class="X" ><button type="button" class="deletebtn" id="deletebtn" title="Remove row">X</button></td></tr>'
+
+    $("#cart tbody").append(row);
+
+    });
+
+
+
+  //2} For removing the rows from the table 
+    $(document).on('click', 'button.deletebtn', function () {
+    $(this).closest('tr').remove();
+    return false;
+    });
+
+  //3} updating footer row ==> ON ADD
+    // sum of the frequency column
+    $("#add").click(function(){
+      var sumfreq = 0
+      $('.freq').each(function () {
+          sumfreq += parseInt($(this).text());
+      });
+      $("#sum").text(sumfreq);
+    });
+
+    // union of the genes column & there length
+    $("#add").click(function(){
+      var genesArr = []
+      $('.genes').each(function () {
+          genesArr = genesArr.concat($(this).text().split(' '));
+      });
+      genesUnionArr = [...new Set([...genesArr])];
+      genesUnionArr.sort()
+      genesUnionArrLength = genesUnionArr.length
+
+      $('#numgenes').text(genesUnionArrLength)
+      $("#union").text(genesUnionArr.join(' '));
+    });
+
+
+  //4} updating footer row ==> ON X
+    $(document).on('click', 'button.deletebtn', function () {
+    // sum of the frequency column
+    var sumfreq = 0
+    $('.freq').each(function () {
+    sumfreq += parseInt($(this).text());
+    });
+    $("#sum").text(sumfreq);
+    });
+
+    // union of the genes column & there length
+    $(document).on('click', 'button.deletebtn', function () {
+    var genesArr = []
+    $('.genes').each(function () {
+    genesArr = genesArr.concat($(this).text().split(' '));
+    });
+    genesUnionArr = [...new Set([...genesArr])];
+    genesUnionArr.sort()
+    genesUnionArrLength = genesUnionArr.length
+
+    $('#numgenes').text(genesUnionArrLength)
+    $("#union").text(genesUnionArr.join(' '));
+    });
+
+  //5} Updating final values on Add & X
+    $("#add").click( function(){
+      var geneSet = $('#union').text();
+      var finalFrq = $('#sum').text();
+      console.log(geneSet, finalFrq);
+      var data = geneSet+":"+finalFrq
+      $("#finalvalues").val(data)
+    });
+    $(document).on('click', 'button.deletebtn', function () {
+      var geneSet = $('#union').text();
+      var finalFrq = $('#sum').text();
+      console.log(geneSet, finalFrq);
+      var data = geneSet+":"+finalFrq
+      $("#finalvalues").val(data)
+    });
+
+</script>
+
+{% endblock %}

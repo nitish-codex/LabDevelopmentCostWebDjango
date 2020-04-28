@@ -1,0 +1,169 @@
+{% extends 'base.html' %}
+
+<!-- Header -->
+{% block head %}
+    <title>Cost Estimate</title>
+
+    <!-- CDN for select2 -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.10/css/select2.min.css" rel="stylesheet" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.10/js/select2.min.js"></script>
+
+{% endblock %}
+
+<!-- Main Body -->
+{% block body %}
+
+<!-- Header Bar -->
+<nav class="navbar navbar-expand-lg bg-light static-top">
+  <div class="container">
+    <a class="navbar-brand" href="https://strandls.com/">
+          {% load static %}
+          <img src='{% static "ldtapp/img/strandls_logo.png" %}' alt="">
+        </a>
+  </div>
+</nav>
+
+<!-- Page Content -->
+<div class="container">
+  
+  <!-- Page heading -->
+  <h2 class="mt-4">Cost Estimate: Next Generation Sequencing </h2>
+
+  <!-- User entry row -->
+  <div class="row">
+    <!-- Disease-Gene Category Search box -->
+    <div class="form-group col-md-8">
+      <label for="diseaseGeneCat">Disease-Gene Category</label>
+        <select class="form-control" id="diseaseGeneCat" name="diseaseGeneCat" style="width: 100%">
+          <option></option>
+          {% for i in geneDisease %}
+          <option value="{{ i.genes }}" name='gene_list'>{{ i.disease }}</option>
+          {% endfor %}
+        </select>
+    </div>
+
+    <div class="form-group col-md-2">
+      <label for="weeklyfreq">Weekly Frequency</label>
+        <input type="weeklyfreq" class="form-control" name='weeklyfreq' id="weeklyfreq" placeholder="Samples/week" style="width: 100%; height: calc(1.7rem + 2px); border: 1px solid #495057;">
+    </div>
+
+    <div class="form-group col-md-2">
+      <label for="add">Add to cart</label>
+        <input value="Add" type="add" class="form-control btn btn-primary mb-2" id="add">
+    </div>
+
+  </div>
+
+  <!-- Add to cart table -->
+  <div class="form-group col-md-12">
+    <h4>Your cart :-</h4>
+    <table class="table" id="cart">
+      <thead>
+        <tr>
+          <th>Disease</th>
+          <th>#</th>
+          <th>Genes</th> 
+          <th>Frequency</th>
+        </tr>
+      </thead>
+       <tbody>
+          <!--data comes here from jquery append -->
+       </tbody>
+       <tfoot>
+          <tr style="font-weight:bold">
+            <td>Total</td>
+            <td id="numgenes">#Union</td>
+            <td id="union">Union of genes</td>
+            <td id="sum">Sum</td>
+          </tr>
+        </tfoot>
+    </table>
+  </div>
+  <hr>
+
+  <form action = {% url "costEstimated" %} method="get">
+    {% csrf_token %}
+    <label for="tat">Enter the total turn around time for the above:- </label>
+    
+    <div class="form-group col-md-2">
+      <input type="text" class="form-control" name='tat' id="tat" placeholder="More than 4." style="width: 100%; height: calc(1.7rem + 2px); border: 1px solid #495057;">
+    </div>
+    
+    <div class="form-group col-md-3">
+      <input type="text" name="finalvalues" id="finalvalues">
+        <label for="submit">Get the cost estimate</label>
+          <input type="submit" class="form-control btn btn-primary mb-2" id="submit">
+    </div>
+  </form>
+
+
+</div> <!-- End of container -->
+
+{% endblock %}
+
+<!-- Fotter -->
+{% block footer %}
+<script type="text/javascript">
+
+  // global variables
+  var unionArr = [];
+
+  // on page load
+    $('#finalvalues').hide()
+  
+  // select2 jquery
+    $(document).ready(function() {
+      $('#diseaseGeneCat').select2({placeholder: "Search...",
+      allowClear: true});
+    });
+
+
+  // Functions for adding row only
+    $("#add").click(function(){
+      // getting selected disease
+      var disease = $('#diseaseGeneCat :selected').text();
+      // getting selected disease related value/genes
+      var genes = $('#diseaseGeneCat').val();
+
+      //Form an array of all genes: to calculate union
+      var arrGenes = genes.split(" ");
+      var Arr1 = unionArr;
+      var Arr2 = arrGenes;
+
+      unionArr = [...new Set([...Arr1, ...Arr2])];
+      // console.log(unionArr);
+      
+      var freq = $('#weeklyfreq').val();
+      var numgenes = arrGenes.length;
+      
+      var row = '<tr><td>'+disease+'</td><td class="numgenes" >'+numgenes+'</td><td class="genes">'+genes+'</td><td class="freq" >'+freq+'</td></tr>'
+      
+      $("#cart tbody").append(row);
+
+    // finaly get the union out
+    var unionArrOut = unionArr.join(' ');
+    $('#numgenes').text(unionArr.length)
+    $("#union").text(unionArrOut);   
+    });
+
+    // then update the union & sum value
+    $("#add").click(function(){
+      var sum1 = 0
+      $('.freq').each(function () {
+          sum1 += parseInt($(this).text());
+      });
+      console.log(sum1);
+      $("#sum").text(sum1);
+    });
+
+    $("#add").click( function(){
+      var geneSet = $('#union').text();
+      var finalFrq = $('#sum').text();
+      console.log(geneSet, finalFrq);
+      var data = geneSet+":"+finalFrq
+      $("#finalvalues").val(data)
+    });
+
+</script>
+
+{% endblock %}

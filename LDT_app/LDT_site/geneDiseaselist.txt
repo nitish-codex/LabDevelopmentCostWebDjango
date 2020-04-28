@@ -1,0 +1,1239 @@
+GL-000024	NSCLC SOC Genes
+GL-000025	Colon SOC Genes
+GL-000026	Breast SOC List
+GL-000046	Neuromuscular disorders and non-syndromic intellectual disability_CE
+GL-000047	Hereditary breast and ovarian cancer predisposition test
+GL-000049	Hereditary breast cancer, ovarian cancer and inherited cancer syndrome predisposition test
+GL-000050	Hereditary gastrointestinal cancer predisposition test
+GL-000051	Hereditary cancer predisposition test (BRCA1, BRCA2 and TP53)
+GL-000053	Hereditary neurofibromatosis predisposition test
+GL-000054	Sandhoff disease_CE
+GL-000056	Hereditary breast, ovarian and gastrointestinal cancer predisposition test
+GL-000057	Muscular dystrophies and congenital myopathies_CE
+GL-000059	Microcephaly_NP
+GL-000062	Menkes disease_RD
+GL-000063	HMG CoA deficiency_CE
+GL-000065	Hereditary breast, ovarian, nervous system and inherited cancer syndrome predisposition test
+GL-000067	Disorders of sex development-v3_CE
+GL-000069	Hereditary endocrine cancer predisposition test
+GL-000070	Trichothiodystrophy_CE
+GL-000072	Best disease_CE_suspended
+GL-000073	Adrenal hyperplasia_CE
+GL-000078	Cystic fibrosis_CE
+GL-000079	Hyper-IgE syndrome_CE
+GL-000080	Tay-Sachs and Sandhoff disease_CE
+GL-000081	Ataxia and retinitis pigmentosa_CE
+GL-000082	Intellectual disability and epilepsy_CE
+GL-000083	Arrhythmias and adrenal hyperplasia_CE
+GL-000085	Leber congenital amaurosis and achromatopsia_CE
+GL-000086	Organic acidemias and Leigh syndrome_CE
+GL-000087	Neurodevelopmental disorders and lissencephaly_NP
+GL-000088	Hyper-IgE syndrome and cystic fibrosis_CE
+GL-000094	Hereditary breast, ovarian, gynecological and gastrointestinal cancer predisposition test
+GL-000095	Hereditary breast, ovarian, gastrointestinal and renal cancer predisposition test
+GL-000096	Hereditary gastrointestinal cancer, gynecological cancer and inherited cancer syndrome predisposition test
+GL-000097	Hereditary breast, ovarian, gastrointestinal and endocrine cancer predisposition test
+GL-000098	CHD_temp
+GL-000099	Hereditary retinoblastoma predisposition test
+GL-000100	Mowat Wilson syndrome, multiple epiphyseal dysplasia, Al-Gazali-Bakalinova syndrome and all neurological disorders_CE
+GL-000101	Adrenal hyperplasia and polycystic kidney disease_CE
+GL-000102	Nemaline myopathy_RD
+GL-000104	Hereditary gastrointestinal cancer, endocrine cancer and rare cancer predisposition test
+GL-000106	Hereditary gynecological cancer and inherited cancer syndrome predisposition test
+GL-000109	Cornelia de Lange syndrome_CE
+GL-000113	Surfactant metabolism dysfunction and CFTR gene
+GL-000118	Hereditary cancer predisposition test (ACMG genes)
+GL-000121	Eye disorders_CE_to be suspended
+GL-000122	All cardio-v2_CE
+GL-000123	Inherited bone disorders_CE
+GL-000125	HMG-CoA deficiency and neurological disorders_CE
+GL-000126	test
+GL-000127	ACMG genes list
+GL-000128	Hereditary rare cancers predisposition test
+GL-000129	Hereditary breast, ovarian and gynecological cancer predisposition test
+GL-000130	Glycogen storage disease_RD
+GL-000131	Retinitis pigmentosa and choroideremia_CE
+GL-000133	Cutis laxa syndrome_CE
+GL-000135	Hereditary cancer syndrome predisposition test
+GL-000137	Retinitis Pigmentosa_RD
+GL-000138	Eye disorders_RD
+GL-000139	Adrenal hyperplasia_RD
+GL-000141	Biotinidase deficiency_CE
+GL-000143	Costello syndrome_CE
+GL-000145	Noonan syndrome and Costello syndrome_CE
+GL-000149	Myotonia-v2_CE
+GL-000150	Gorlin syndrome test
+GL-000151	Epidermolysis bullosa and Ichthyosis_RD
+GL-000152	Sotos syndrome_CE
+GL-000153	Overgrowth syndromes_CE
+GL-000154	AAA syndrome_CE
+GL-000155	Adrenal insufficiency_CE
+GL-000156	Neuropathies_NP
+GL-000158	Premature ovarian failure_CE
+GL-000160	Infertility and related disorders_CE
+GL-000165	Hirschsprung disease_CE
+GL-000166	Muscular dystrophies, congenital myopathies and congenital myasthenic syndromes_CE
+GL-000167	All Neurological disorders-v3_CE
+GL-000168	Multiple epiphyseal dysplasia_CE.
+GL-000169	Hereditary gastrointestinal and prostate cancer predisposition test
+GL-000170	Cystic fibrosis_RD
+GL-000171	Wilson disease_RD
+GL-000172	Methylmalonic acidemia_RD
+GL-000173	Plagiocephaly, neuroregression and neurological disorders_CE
+GL-000177	Citrullinemia_RD
+GL-000178	Pompe disease_RD
+GL-000179	CHARGE syndrome_CE
+GL-000180	Rickets_CE
+GL-000182	Sotos syndrome and overgrowth syndrome_CE
+GL-000185	Ivemark syndrome_CE
+GL-000189	GLUT1 deficiency syndrome_CE
+GL-000190	Hereditary cancer syndrome predisposition test (NBN and WT1)
+GL-000192	Spinocerebellar ataxia, neuronal ceroid lipofuscinosis, epilepsy and neuroregression_CE
+GL-000193	Hereditary breast and ovarian cancer predisposition test_WITH STK11
+GL-000194	Ichthyosis_RD
+GL-000195	Menkes disease, microcephaly, intellectual disability and epilepsy_CE
+GL-000196	Coffin-Lowry syndrome_RD
+GL-000198	Tyrosinemia_CE
+GL-000199	Cholestasis and congenital disorder of glycosylation_CE
+GL-000207	Multiple epiphyseal dysplasia and cartilage-hair hypoplasia_CE.
+GL-000208	Hereditary tuberous sclerosis predisposition test
+GL-000209	Hereditary breast and prostate cancer predisposition test
+GL-000210	Hereditary breast cancer and gastrointestinal cancer predisposition test
+GL-000211	Hereditary gynecological cancer predisposition test
+GL-000213	Alexander disease_CE
+GL-000214	Rubinstein-Taybi syndrome_CE
+GL-000217	Alagille syndrome, neonatal cholestasis and congenital hepatic fibrosis_CE
+GL-000218	Perry syndrome_CE
+GL-000219	Charcot-Marie-Tooth disease_NP
+GL-000220	Dilated cardiomyopathy, hypertrophic cardiomyopathies and muscular dystrophies_CE
+GL-000221	Shwachman-Diamond syndrome and severe congenital neutropenias_CE
+GL-000222	Ichthyosis_CE
+GL-000224	Ehlers-Danlos syndrome_CE
+GL-000225	3-M syndrome_CE
+GL-000226	GLUT1 deficiency syndrome_NP
+GL-000228	Conradi-Hünermann-Happle syndrome_CE
+GL-000229	Pseudoaldosteronism_CE
+GL-000233	Skeletal disorders and all neuromuscular disorders_CE
+GL-000234	Hereditary gastrointestinal and renal cancer predisposition test
+GL-000235	Microcephaly and lissencephaly_CE
+GL-000236	Fragile X syndrome, intellectual disability and autism spectrum disorders_CE
+GL-000237	Ataxia-telangiectasia_CE
+GL-000238	Sengers syndrome, congenital cataract and hypertrophic cardiomyopathies_CE
+GL-000239	ACMG_CE
+GL-000241	Liver cirrhosis and hepatosplenomegaly_CE
+GL-000242	Lowe syndrome_RD
+GL-000243	Neurological disorders_STRAN-3679_CE
+GL-000245	Hereditary neurological cancer and inherited cancer syndrome predisposition test
+GL-000246	Skeletal dysplasias and hydrops fetalis_CE
+GL-000248	Skeletal dysplasias and hydrops fetalis-v2_CE
+GL-000249	Neurocognitive disorders and hypothyroidism_for STRAN-000003679_CE
+GL-000252	Mowat-Wilson syndrome_RD
+GL-000253	Osteopetrosis_RD
+GL-000255	Rickets and skeletal dysplasia_CE
+GL-000257	Enlarged vestibular aqueduct_CE
+GL-000258	Hereditary breast cancer predisposition test (12 gene test for male patients)
+GL-000259	Hereditary fructose intolerance and glycogen storage diseases_CE
+GL-000260	Prostrate cancer and ACMG cardio genes_CE
+GL-000261	Hemophilia and muscular dystrophies_CE
+GL-000262	Swyer syndrome, ovarian dysgenesis and deafness_CE
+GL-000263	Hereditary breast, ovarian, gynecological, nervous system cancers and inherited cancer syndrome predisposition test
+GL-000266	Diamond-Blackfan syndrome_CE
+GL-000268	Hyperoxaluria_CE
+GL-000269	Hereditary breast, ovarian and renal cancer predisposition test
+GL-000270	Bardet-Biedl syndrome-differential diagnosis_CE
+GL-000271	Bronchiectasis and respiratory tract infections_CE
+GL-000273	Inborn errors of metabolism, primary immunodeficiency and related disorders_CE
+GL-000275	Multiple acyl CoA dehydrogenase deficiency_CE
+GL-000276	Mucolipidosis_CE
+GL-000277	Splastic paraplegia associated ataxia_CE
+GL-000284	Nephrotic syndrome and focal segmental glomerulosclerosis_RD
+GL-000285	Hereditary breast, ovarian and gynecological cancer predisposition test_without STK11
+GL-000286	Tay-Sachs disease_RD
+GL-000287	Phenylketonuria_RD
+GL-000288	Inborn errors of metabolism and CFTR related disorders_CE
+GL-000289	NPHS2-related focal segmental glomerulosclerosis_RD
+GL-000290	Inborn errors of metabolism, primary immunodeficiency and CFTR related disorders_CE_suspended
+GL-000291	Marfan syndrome_CE
+GL-000292	Joubert syndrome_NP
+GL-000293	Hereditary prostate cancer predisposition test.
+GL-000294	Inborn errors of metabolism, primary immunodeficiency and CFTR-related disorders_CE
+GL-000295	Molybdenum cofactor deficiency_CE
+GL-000296	Leukodystrophies and molybdenum cofactor deficiency_CE
+GL-000298	Choroideremia_CE
+GL-000303	Glutaric acidemia type I_RD
+GL-000305	Hereditary gastrointestinal and endocrine cancer predisposition test
+GL-000308	Hypophosphatemic rickets_CE
+GL-000310	Severe congenital neutropenias_CE_suspended
+GL-000311	Cleidocranial dysplasia_CE
+GL-000312	Very long-chain acyl-CoA dehydrogenase deficiency_CE
+GL-000314	Hereditary breast, ovarian and endocrine cancer predisposition test
+GL-000315	Wolman disease and glycogen storage diseases_CE
+GL-000316	Osteopetrosis_CE
+GL-000318	Nephrotic syndrome and medium chain acyl dehydrogenase deficiency_CE
+GL-000320	Barakat syndrome and nephrotic syndrome_CE
+GL-000322	Retinoschisis_CE
+GL-000323	Alport syndrome_RD
+GL-000324	Addison's disease_CE
+GL-000325	Alacrima_CE
+GL-000327	Krabbe disease, Tay-Sachs disease and hyperekplexia_CE
+GL-000328	Hereditary breast, ovarian, gastrointestinal, endocrine cancer and inherited cancer syndrome predisposition test
+GL-000329	Hereditary breast, ovarian, gynecolgical, endocrine cancer and inherited cancer syndrome predisposition test
+GL-000330	Lissencephaly and microcephaly_CE
+GL-000332	Oculofaciocardiodental syndrome_CE
+GL-000333	Androgen insensitivity syndrome_CE
+GL-000334	Familial exudative vitreoretinopathy_CE
+GL-000335	Sjogren-Larsson syndrome_CE
+GL-000336	Polycystic kidney disease_RD
+GL-000338	Congenital disorders of glycosylation, muscular dystrophies and congenital myopathies_CE
+GL-000341	Neuronal ceroid lipofuscinosis and ataxia_CE
+GL-000343	Alternating hemiplegia of childhood_CE-suspend
+GL-000344	All IEM-v2_CE
+GL-000346	Alpers-Huttenlocher syndrome_RD
+GL-000347	Nijmegen breakage syndrome_CE
+GL-000348	Deafness and organic acidemias_CE
+GL-000352	Congenital myasthenic syndrome_CE
+GL-000353	Wolman disease, glycogen storage diseases and hereditary fructose intolerance_CE
+GL-000354	Microphthalmia and congenital cataract_CE
+GL-000356	Ornithine transcarbamylase deficiency_CE
+GL-000357	Hereditary breast, ovarian, gynecological, gastrointestinal, endocrine, nervous system cancers and cancer syndrome predisposition test
+GL-000358	Microphthalmia and cataract_CE
+GL-000359	Hereditary endocrine, gynecolgical, gastrointestinal cancer and inherited cancer syndrome predisposition test
+GL-000360	Hereditary breast, ovarian and nervous system cancer predisposition test
+GL-000361	Hereditary breast cancer, ovarian cancer, gynecological cancer and inherited cancer syndrome predisposition test
+GL-000362	Hereditary breast, ovarian, gynecological, gastrointestinal, endocrine cancer and inherited cancer syndrome predisposition test
+GL-000363	Hereditary breast, ovarian, gynecological, gastrointestinal, endocrine cancer, melanoma and inherited cancer syndrome predisposition test
+GL-000364	Hereditary gastrointestinal cancer, skin cancer and inherited cancer syndrome predisposition test
+GL-000365	Fatty acid oxidation defects_CE-susp
+GL-000367	Hereditary breast, ovarian, gastrointestinal cancer and inherited cancer syndrome predisposition test
+GL-000370	Bartter syndrome_CE
+GL-000374	Steatosis_CE
+GL-000376	Microcephaly, epilepsy and spastic paraplegia_CE
+GL-000377	GLUT1 deficiency syndrome and epileptic encephalopathy_CE
+GL-000378	Epilepsy and inborn errors of metabolism_CE
+GL-000379	Congenital myasthenic syndrome_RD
+GL-000380	Ciliary dyskinesia_CE
+GL-000381	Ciliary dyskinesia, primary immunodeficiency and related disorders-v4_CE
+GL-000382	Chromosomal breakage syndrome_CE
+GL-000383	CCDC40-related ciliary dyskinesia_CE
+GL-000386	Primary immunodeficiency and related disorders-case specific_CE
+GL-000388	Cataract_RD
+GL-000404	Marfan syndrome and related disorders_CE
+GL-000405	Hereditary prostate and gastrointestinal cancer predisposition test_ATM
+GL-000406	Lowe syndrome_CE
+GL-000407	Waardenburg syndrome_CE-susp
+GL-000408	Macular dystrophy_CE
+GL-000411	3-M syndrome and muscular dystrophies_CE
+GL-000413	Carbohydrate metabolism defects_CE
+GL-000414	Dystonia, dysarthria and ataxia_CE
+GL-000416	Hereditary breast, ovarian, nervous system and inherited cancer syndrome predisposition test_without STK11
+GL-000418	Pulmonary arterial hypertension_CE
+GL-000419	Charcot-Marie-Tooth disease and neuropathies_CE
+GL-000420	Cystinuria_CE
+GL-000423	Microcephalic osteodysplastic primordial dwarfism type II_CE
+GL-000426	Cockayne syndrome_CE
+GL-000427	Microcephaly and cataract_CE
+GL-000428	Seckel syndrome and microcephalic osteodysplastic primordial dwarfism type II_CE
+GL-000429	Ehlers-Danlos syndrome, deafness, vitiligo and hypertriglyceridemia_CE
+GL-000430	Niemann-Pick disease_CE
+GL-000431	Shwachman-Diamond syndrome_CE
+GL-000432	Primary immunodeficiency and related disorders-v3_CE
+GL-000433	GM2-gangliosidosis_CE
+GL-000434	Hereditary breast, ovarian, gastrointestinal and neurological cancer predisposition test
+GL-000435	Hereditary breast, ovarian, gastrointestinal and skin cancer and inherited cancer syndrome predisposition test
+GL-000436	Hereditary gastrointestinal cancer, renal cancer and skin cancer predisposition test
+GL-000437	Oculocutaneous albinism_CE
+GL-000438	Macular dystrophy and retinitis pigmentosa_CE
+GL-000439	Metachromatic leukodystrophy_CE
+GL-000441	GM1 gangliosidosis_CE
+GL-000444	Pontocerebellar hypoplasia and arthrogryposis_CE
+GL-000448	Cataract-microcornea syndrome_CE
+GL-000450	Skeletal dysplasia_v2_CE
+GL-000451	Harlequin ichthyosis_CE
+GL-000457	Long QT syndrome-v2_CE
+GL-000458	CAP-Proficiency testing-Clinical Exome
+GL-000462	Hereditary endocrine and rare cancer predisposition test
+GL-000463	Congenital myasthenic syndrome, muscular dystrophies, congenital myopathies and neuropathies_CE
+GL-000464	Skin and connective tissue related disorders_CE
+GL-000466	Congenital myasthenic syndrome, neuropathies and congenital myopathy_CE
+GL-000467	Congenital bilateral absence of the vas deferens_CE
+GL-000469	Primary immunodeficiency and related disorders-STRAN-000004599_CE
+GL-000471	Hereditary fructose intolerance_RD
+GL-000472	Striatonigral degeneration_RD
+GL-000473	PTEN hamartoma tumor syndrome predisposition test
+GL-000474	Tay-Sachs disease_CE
+GL-000475	Hereditary breast, ovarian, gynecological, gastrointestinal and endocrine cancer predisposition
+GL-000476	Aicardi-Goutieres syndrome, methylmalonic acidemia, glutaric acidemia and mitochondrial disorders_CE
+GL-000477	Hereditary gastrointestinal and rare cancers predisposition test
+GL-000478	Myotonia and congenital myopathies_CE
+GL-000481	Hereditary spastic paraplegia and dystonia_CE
+GL-000482	Wiskott-Aldrich syndrome and hereditary hemorrhagic telangiectasia_CE
+GL-000486	Microphthalmia and microcornea_CE
+GL-000487	Cystic renal disease and skeletal disorders_CE
+GL-000488	Hereditary nervous system cancer and cancer syndrome predisposition test
+GL-000489	Thrombocytopenia and disorders of vitamin B12 deficiency_CE
+GL-000491	Glaucoma_CE_susp
+GL-000492	Amino acid and peptide metabolism_CE
+GL-000493	Malignant hyperthermia_CE
+GL-000494	Cholestasis and malignant hyperthermia_CE
+GL-000495	Moyamoya disease_CE
+GL-000497	Gaucher disease, CDG, GSD, HLH, CF and nephrotic syndrome_CE
+GL-000498	Cardiomyopathies_CE
+GL-000499	Lowe syndrome and related disorders_CE
+GL-000500	Ataxia and related disorders_CE
+GL-000501	Aarskog-Scott syndrome_CE
+GL-000503	Inborn errors of metabolism and cardiac disorders_CE
+GL-000504	Wilson disease_CE
+GL-000505	Kabuki syndrome_CE
+GL-000507	Cerebellar hypoplasia, microcephaly and epilepsy_CE
+GL-000508	Renal tubular acidosis and microcephaly_CE
+GL-000511	Crigler-Najjar syndrome_CE
+GL-000512	WAS, HHT, and primary immunodeficiency and related disorders_CE
+GL-000513	Renal aplasia_CE
+GL-000514	Caudal regression syndrome_CE
+GL-000515	Microcephaly_CE (Case specific-STRAN-000004755) suspended
+GL-000517	Microcephaly_CE (Case specific-STRAN-000004755)
+GL-000518	Cystic hygroma_CE
+GL-000519	Polyhydramnios_CE
+GL-000520	Oligohydramnios_CE
+GL-000524	Enterokinase deficiency, hypothyroidism and other disorders_CE
+GL-000525	Angelman syndrome_RD
+GL-000526	Adrenal hyperplasia and pseudohypoaldosteronism_RD
+GL-000527	Pitt-Hopkins syndrome_CE
+GL-000528	Nephrotic syndrome and focal segmental glomerulosclerosis_CE_case specific
+GL-000529	Joubert syndrome_CE
+GL-000530	Ectodermal dysplasia and trichodontoosseous syndrome_CE
+GL-000532	Nephrotic syndrome and focal segmental glomerulosclerosis-v3_CE
+GL-000534	Cystic renal disease and pulmonary arterial hypertension_CE
+GL-000535	Hyperbilirubinemia_CE
+GL-000536	Cystic renal disease, skeletal disorders and cardiac disorders_CE
+GL-000537	Cerebellar hypoplasia_CE
+GL-000538	Renal aplasia and caudal regression syndrome_CE
+GL-000539	Krabbe disease_CE
+GL-000541	Dyskeratosis congenita-v1_CE
+GL-000542	Spinal muscular atrophy_CE
+GL-000543	Microcephaly, autism spectrum disorders and intellectual disability_CE
+GL-000544	Hereditary gynecological and gastrointestinal cancer predisposition test
+GL-000545	Hereditary breast, ovarian, gastrointestinal and rare cancer predisposition test
+GL-000546	Cone rod dystrophy_CE
+GL-000548	Hereditary breast, ovarian, gynecological and gastrointestinal cancer predisposition test_without STK11
+GL-000550	Combined immunodeficiencies_CE_to be suspended
+GL-000551	Hereditary cancer predisposition test (ACMG genes)_25 genes
+GL-000552	Hereditary spastic paraplegia, epilepsy and neurometabolic disorders_CE
+GL-000553	Holoprosencephaly_CE
+GL-000554	Tyrosinemia and hepatosplenomegaly_CE
+GL-000555	Angelman syndrome, Rett syndrome and Mowat-Wilson syndrome_RD
+GL-000557	Cholestasis-v2_CE
+GL-000558	Floating-Harbor syndrome and microcephalic osteodysplastic dwarfism II_CE
+GL-000559	Sulfite oxidase deficiency_CE
+GL-000560	Brain malformations and neuronal ceroid lipofuscinosis_CE
+GL-000562	Lysosomal storage disorders_CE_suspended
+GL-000563	Rod-cone dystrophy_CE
+GL-000564	Cone-rod dystrophy_CE
+GL-000566	Hereditary ataxia telangiectasia predisposition test
+GL-000567	Glaucoma_CE
+GL-000568	Alström syndrome_CE
+GL-000569	Ellis-van Creveld syndrome_RD
+GL-000571	Muscular dystrophies and mitochondrial DNA depletion syndrome 2, myopathic type_CE
+GL-000573	CFTR gene-related disorders_CE
+GL-000574	Kidney disorders_CE
+GL-000576	Griscelli syndrome_CE
+GL-000577	Autism spectrum disorders and neuropathies_CE
+GL-000578	Ectodermal dysplasia_CE.
+GL-000579	Infantile neuroaxonal dystrophy_RD
+GL-000580	Catecholaminergic polymorphic ventricular tachycardia and long QT syndrome_CE
+GL-000582	Microcephaly, cataract, dystonia and hypomyelinating disorders_CE
+GL-000583	Neurodevelopmental disorders and rickets_CE
+GL-000584	Hereditary gastrointestinal cancer, endocrine cancer and cancer syndrome predisposition test
+GL-000585	von Hippel-Lindau syndrome predisposition test
+GL-000586	Hereditary tuberous sclerosis test
+GL-000587	Epilepsy and neuropathies_CE
+GL-000588	Macrocephaly, hypomyelinating disorders and glutaric acidemia_CE
+GL-000589	Cerebral atrophies_CE
+GL-000590	Hereditary renal cancer and inherited cancer syndrome
+GL-000591	Hereditary breast, ovarian, gynecological and gastrointestinal_without STK11
+GL-000592	Aicardi-Goutieres syndrome_CE
+GL-000593	Hereditary breast, ovarian and gastrointestinal cancer predisposition test_without STK11 and RAD51D
+GL-000594	Allan-Herndon-Dudley syndrome_CE
+GL-000596	Infantile neuroaxonal dystrophy_CE
+GL-000597	Achondroplasia_CE
+GL-000598	Osteolysis related disorders_CE
+GL-000601	Ataxia, epilepsy and cerebral atrophies_CE
+GL-000603	Neurotransmitter disorders-v2_CE
+GL-000604	Osteomyelitis_RD
+GL-000605	Pelizaeus-Merzbacher disease_RD
+GL-000606	AAA syndrome_RD
+GL-000607	Chondrodysplasia punctata and related disorders_CE
+GL-000608	Ectodermal dysplasia and primary ciliary dyskinesia_CE
+GL-000609	Tuberous sclerosis_CE
+GL-000611	Birt-Hogg-Dubé syndrome predisposition test
+GL-000614	Pfeiffer syndrome_CE
+GL-000615	Hereditary colorectal cancer predisposition test
+GL-000616	Hereditary prostate cancer predisposition test
+GL-000617	Hereditary nervous system cancer predisposition test
+GL-000618	X-linked chondrodysplasia punctata_CE
+GL-000619	Hereditary multiple exostoses predisposition test
+GL-000620	Floating-Harbor syndrome_CE
+GL-000621	Cyclic neutropenia and common variable immune deficiency_CE
+GL-000623	Hereditary cancer predisposition test
+GL-000626	Noncirrhotic portal hypertension and skeletal disorders_CE
+GL-000627	Hereditary prostate, colorectal and endocrine cancer predisposition test
+GL-000628	Abetalipoproteinemia_CE
+GL-000631	Hereditary prostate, endocrine and nervous system cancer predisposition test
+GL-000632	Spondyloepiphyseal dysplasia congenita_CE
+GL-000633	Bloom syndrome and Fanconi anemia_CE
+GL-000634	I-cell disease_CE
+GL-000635	Acrodysostosis_CE
+GL-000636	Polycystic kidney disease and tuberous sclerosis_CE
+GL-000637	Beckwith-Wiedemann syndrome_CE
+GL-000638	Hereditary breast, ovarian, renal and nervous system cancer predisposition test
+GL-000639	Epilepsy_CE_STRAN-5300
+GL-000640	GLUT1 deficiency syndrome and pyruvate dehydrogenase deficiency_CE
+GL-000641	Biotinidase deficiency and holocarboxylase synthetase deficiency_CE
+GL-000642	Hereditary breast, ovarian, prostate and nervous system cancer predisposition test
+GL-000643	Hereditary breast, ovarian and colorectal cancer predisposition test
+GL-000644	Hydrocephalus_CE
+GL-000645	Endocrine cancer and hereditary cancer predisposition test
+GL-000646	Congenital heart defects and related disorders_CE
+GL-000647	Propionic acidemia_CE
+GL-000648	Cardiac and related disorders_CE
+GL-000649	Hereditary breast, ovarian and endocrine cancer predisposition test_24Genes
+GL-000650	Intellectual disability_CE_STRAN-5225
+GL-000651	Immunodeficiencies and primary ciliary dyskinesia_CE
+GL-000657	ACMG genes-56_CE
+GL-000659	Osteogenesis imperfecta_CE
+GL-000661	Sudden cardiac death_CE
+GL-000662	Osteogenesis imperfecta and neuropathies_CE
+GL-000664	Hereditary breast, ovarian and cancer syndrome predisposition test_old
+GL-000665	Disorders of fatty acid and energy metabolism_CE
+GL-000666	Mitochondrial myopathy_CE
+GL-000667	Joubert syndrome and mitochondrial disorders_CE
+GL-000668	Sotos syndrome, congenital myopathy, fragile X syndrome, Marfan syndrome and related disorders_CE
+GL-000669	Periodic paralysis_CE
+GL-000670	Hereditary colorectal and endocrine cancer predisposition test
+GL-000671	Hereditary colorectal, endocrine and nervous system cancer predisposition test
+GL-000672	Skeletal disorders and overgrowth syndromes_CE
+GL-000673	Hereditary breast and ovarian cancer and hereditary cancer predisposition test
+GL-000674	21-hydroxylase deficiency_RD
+GL-000675	Rabson-Mendenhall syndrome_RD
+GL-000676	Spinal muscular atrophy_CE_STRAN-000005331
+GL-000678	Niemann-Pick disease and pyridoxine dependent epilepsy_CE
+GL-000679	Hereditary gynecological and hereditary cancer predisposition test
+GL-000680	Hereditary breast and ovarian, colorectal, renal, nervous system cancer and other hereditary cancer predisposition test
+GL-000684	All cardio-v3_CE
+GL-000689	Brugada syndrome and long QT syndrome_CE
+GL-000694	Susceptibility to acute infection-induced encephalopathy_CE
+GL-000695	Retinitis pigmentosa and cone dystrophy_CE
+GL-000696	Epileptic encephalopathy and dystonia_CE
+GL-000701	Holoprosencephaly and hypothyroidism_CE
+GL-000703	Complex dystonia_CE
+GL-000705	Cardiac arrhythmias and related disorders_CE
+GL-000706	Hyperparathyroidism-jaw tumor syndrome predisposition test
+GL-000707	Epilepsy and susceptibility to acute infection-induced encephalopathy_CE
+GL-000710	Hereditary colorectal, endocrine, renal cancer and von Hippel-Lindau syndrome predisposition test
+GL-000712	Megalencephalic leukoencephalopathy with subcortical cysts, Canavan disease and Alexander disease_CE
+GL-000713	Van der Knaap disease, Canavan disease and Alexander disease_CE
+GL-000714	Pantothenate kinase-associated neurodegeneration_RD
+GL-000720	Epilepsy, hydrocephalus and susceptibility to acute infection-induced encephalopathy_CE
+GL-000722	Neuronal ceroid lipofuscinosis and epilepsy_CE
+GL-000723	Dravet syndrome_CE
+GL-000724	Neurological disorders and mitochondrial disorders_CE
+GL-000726	CADASIL_CE
+GL-000727	Merosin deficient congenital muscular dystrophy_CE
+GL-000729	Breast, ovarian and hereditary cancer predisposition test
+GL-000730	Hereditary breast, ovarian, gynecological and hereditary cancer predisposition test
+GL-000731	GNE- related hereditary inclusion body myopathy_CE
+GL-000733	Osteogenesis imperfecta and spondylocostal dysostosis_CE
+GL-000736	Meckel-Gruber syndrome_CE
+GL-000737	Cockayne syndrome and xeroderma pigmentosa_CE
+GL-000740	Usher syndrome_CE
+GL-000741	Hereditary spastic paraplegia and encephalopathy_CE
+GL-000742	Larsen syndrome, hereditary spastic paraplegia and lysosomal storage disorders_CE
+GL-000743	Focal segmental glomerulosclerosis, mitochondrial respiratory chain disorders and neuropathies_CE
+GL-000745	Canavan disease and Pelizaeus-Merzbacher disease_CE
+GL-000746	Dummy_ACMG_test_list
+GL-000747	Arthrogryposis_CE
+GL-000749	Hereditary rare cancer predisposition test_BWS_SGBS_SOTOS
+GL-000750	Hereditary breast, ovarian, gynecological and colorectal cancer predisposition test
+GL-000753	Neuronal ceroid lipofuscinosis_CE
+GL-000754	Floating-Harbor syndrome and Rubinstein-Taybi syndrome_CE
+GL-000756	Polycystic kidney disease, nephrotic syndrome and focal segmental glomerulosclerosis_CE
+GL-000759	Hereditary rare cancer predisposition test_FA_SBDS
+GL-000762	Ophthalmo-acromelic syndrome_CE
+GL-000767	Epilepsy and mitochondrial disorders_CE.
+GL-000768	Wilson disease, organic acidemias, glycogen storage diseases and neurodegeneration with brain iron accumulation_CE
+GL-000769	GNE-related myopathy_CE
+GL-000770	Hereditary prostate and colorectal cancer predisposition test
+GL-000774	Nephrotic syndrome_RD
+GL-000775	Dihydropyrimidine dehydrogenase deficiency_RD
+GL-000776	Polycystic kidney disease, nephrotic syndrome and focal segmental glomerulosclerosis_CE_5743
+GL-000777	Hereditary rare cancer predisposition test_FA_SBDS_WITH RUNX1
+GL-000778	PKD, FSGS and nephrotic syndrome_CE_5743
+GL-000779	Amyotrophic lateral sclerosis_CE
+GL-000780	Xeroderma pigmentosum_CE
+GL-000783	Ataxia and epilepsy_CE_4620
+GL-000784	Omenn syndrome_CE_4620
+GL-000785	MODY_CE
+GL-000787	Bad obstetric history _CE_4620
+GL-000789	Epilepsy, microcephaly and lactic acidemia_CE_4620
+GL-000790	Immunodeficiencies and Krabbe disease_CE_4620
+GL-000792	Autism spectrum disorders, hereditary spastic paraplegia and epilepsy_CE_4620
+GL-000793	Brain malformations and immunodeficiencies_CE_4620
+GL-000794	Familial Mediterranean fever and hyper-IgD syndrome_CE_4620
+GL-000795	Fibrodysplasia ossificans progressiva_CE_4620
+GL-000797	Hereditary breast and colorectal cancer predisposition test (for males)
+GL-000798	Disorders of skin pigmentation, hair and nail_CE_4620
+GL-000801	Disorders of hair, nail and skin pigmentation_CE_4620
+GL-000802	Epilepsy and brain malformations_CE_4620
+GL-000803	Immunodeficiencies and primary ciliary dyskinesia_CE_S5824
+GL-000804	Hereditary breast and ovarian cancer predisposition test_19 genes
+GL-000805	Hereditary breast, ovarian and colorectal cancer predisposition test_19genes
+GL-000809	Tetrahydrobiopterin deficiency_CE_4620
+GL-000811	Epidermolysis bullosa_CE
+GL-000812	Fanconi anemia_CE
+GL-000813	Dystrophin related dystrophy_CE
+GL-000815	Microphthalmia, optic atrophy, skeletal disorders, ichthyosis and neurological disorders_CE_4620
+GL-000817	Hereditary breast, ovarian and gynecological cancer predisposition test_19 genes
+GL-000818	Brachytelephalangic chondrodysplasia punctata_CE_4620
+GL-000819	Atypical hemolytic uremic syndrome_CE
+GL-000820	Hereditary breast, ovarian, colorectal and nervous system cancer predisposition test_19 genes
+GL-000821	Lymphedema, osteopetrosis and ectodermal dysplasia_CE_4620
+GL-000822	Hereditary spastic paraplegia, mitochondrial disorders and epilepsy_CE_4620
+GL-000823	Hereditary breast, ovarian and hereditary cancer predisposition test_19genes
+GL-000826	West syndrome_CE
+GL-000827	Cystinosis_CE
+GL-000830	Glycogen storage diseases and fatty acid oxidation defects_CE_4620
+GL-000831	Inborn errors of metabolism, microcephaly, hereditary spastic paraplegia and brain malformations_CE_4620
+GL-000832	Epileptic encephalopathy_5901
+GL-000833	Argininosuccinic aciduria_RD
+GL-000834	Gaucher disease and Niemann-Pick disease_RD
+GL-000838	Duchenne muscular dystrophy_CE
+GL-000839	Primary hyperoxaluria, hypomagnesemia and retinitis pigmentosa_CE
+GL-000840	Glycogen storage diseases and FBP1 deficiency_CE
+GL-000842	Nephrological disorders_CE
+GL-000843	Multiple epiphyseal dysplasia_CE
+GL-000844	Hereditary cancer predisposition test_86 genes
+GL-000845	Hyperelasticity_CE
+GL-000846	Alport syndrome_CE
+GL-000849	Arthrogryposis, hydrocephalus and congenital heart defects_CE
+GL-000850	Osteogenesis imperfecta and decreased bone density_CE
+GL-000852	Muscle-eye-brain disease_CE
+GL-000853	Krabbe disease_CE_4620
+GL-000856	Stickler syndrome and primordial dwarfism_CE
+GL-000859	Spinocerebellar ataxia_CE_4620
+GL-000860	Primary hyperoxaluria_CE
+GL-000861	Hereditary spastic paraplegia, epilepsy and mitochondrial disorders_CE
+GL-000863	STRAN-6012_CE
+GL-000865	Long QT syndrome_CE
+GL-000866	Thrombotic thrombocytopenic purpura_RD
+GL-000867	Hereditary breast, ovarian, endocrine and nervous system cancer predisposition test.
+GL-000868	Neurocognitive disorders and hypothyroidism_CE_4620
+GL-000869	Pigmentation disorders_CE
+GL-000871	Hereditary breast, ovarian, gynecological and colorectal cancer predisposition test_19 genes
+GL-000872	Hereditary cancer and skin cancer predisposition test
+GL-000873	Dermatologic disorders_CE
+GL-000874	Cerebral palsy, neurocognitive disorders and hypothyroidism_CE
+GL-000875	Mucopolysaccharidosis_CE
+GL-000876	Seckel syndrome_CE
+GL-000877	Hereditary breast, ovarian, gynecological, colorectal and nervous system cancer predisposition test
+GL-000878	ASD and ID_CE
+GL-000879	Crouzon syndrome_CE
+GL-000881	Saethre-Chotzen syndrome_CE
+GL-000882	Mitochondrial disorders, epileptic encephalopathy, autism and intellectual disability_CE
+GL-000883	Tetralogy of fallots and kidney disorders_CE
+GL-000884	Severe combined immunodeficiency_CE
+GL-000885	Hereditary fructose intolerance and glycogen storage diseases_CE_4620
+GL-000886	Lissencephaly_CE_4620
+GL-000888	Glutaric acidemia_CE
+GL-000889	X-linked severe combined immunodeficiency_CE
+GL-000892	Cardiac disorders_CE
+GL-000893	Yunis-Varon syndrome_CE
+GL-000896	Mitochondrial disorders and epilepsy_CE_4620
+GL-000897	Holoprosencephaly, hypothyroidism and microcephaly_CE
+GL-000898	Dyskeratosis congenita_CE
+GL-000899	Focal segmental glomerulosclerosis_CE
+GL-000904	Xeroderma pigmentosa predisposition test
+GL-000905	Lymphedema_CE
+GL-000906	Hereditary breast and colorectal cancer predisposition test_19genes
+GL-000907	Combined immunodeficiencies_CE
+GL-000909	Hereditary motor and sensory neuropathy_CE
+GL-000912	Hereditary motor and sensory neuropathy_CE_4620
+GL-000913	Microcephaly, organic acidemias and nephrological disorders_CE_4620
+GL-000914	Nephrological disorders and tetralogy of fallot_CE
+GL-000915	LIFR-related skeletal dysplasia_CE
+GL-000921	Stuve-Wiedemann syndrome_CE
+GL-000922	Familial hemophagocytic lymphohistiocytosis syndromes_CE
+GL-000923	Severe combined immunodeficiency_CE_S2017-38
+GL-000924	Craniosynostosis_CE-susp
+GL-000925	Mitochondrial disorders, epileptic encephalopathy, microcephaly, autism and intellectual disability_CE
+GL-000926	Nephrotic syndrome_CE
+GL-000927	Leber congenital amaurosis_CE
+GL-000930	Craniosynostosis_CE
+GL-000931	Hereditary gynecological cancer predisposition test_11 genes
+GL-000932	Hereditary breast, ovarian, colorectal and renal cancer predisposition test_19genes
+GL-000933	Birt-Hogg-Dube Syndrome and Tuberous Sclerosis predisposition test
+GL-000934	Familial hemophagocytic lymphohistiocytosis syndromes_RD
+GL-000935	NPHS1-related nephrotic syndrome_RD
+GL-000936	Tyrosinemia and progressive familial intrahepatic cholestasis_RD
+GL-000938	Inborn errors of metabolism and neurodevelopmental disorders_CE_4620
+GL-000939	Skeletal disorders and neurodevelopmental disorders_CE
+GL-000940	Saethre-Chotzen syndrome_CE_S2017-152
+GL-000941	Congenital myopathy_CE
+GL-000942	Hemochromatosis and cholestasis_CE
+GL-000943	Axonal neuropathy_CE
+GL-000944	Robinow syndrome_CE
+GL-000948	Limb girdle muscular dystrophy_CE
+GL-000951	Harmatoneoplastic syndromes_CE
+GL-000952	Ectodermal dysplasia_CE
+GL-000953	Neurocognitive disorders_CE_4620
+GL-000954	Hyperoxaluria and renal tubular acidosis_CE
+GL-000955	Intellectual disability_CE_4620_S5225
+GL-000956	Hereditary breast and prostate cancer predisposition test_19 genes
+GL-000957	Hemophagocytic lymphohistiocytosis_CE
+GL-000959	Short-rib thoracic dysplasia and related disorders_CE
+GL-000960	Chediak-Higashi syndrome_CE
+GL-000962	Gaucher disease and Sandhoff disease_CE
+GL-000963	Lysosomal storage disorders_CE
+GL-000964	GALC deficiency_RD
+GL-000965	Pancreatitis_CE
+GL-000966	Hereditary neurofibromatosis test
+GL-000967	Hereditary breast, ovarian, colorectal and endocrine cancer predisposition test
+GL-000968	Gaucher disease and Niemann-Pick disease_CE
+GL-000970	Hypertriglyceridemia_CE
+GL-000971	Neurodegeneration with brain iron accumulation_CE
+GL-000972	Natural killer cell deficiency_CE
+GL-000973	Ciliopathies_CE
+GL-000975	Storage Disorders_CE
+GL-000977	Leukodystrophies and muscular dystrophies_CE
+GL-000979	Glycogen storage disorders_RD
+GL-000980	Tyrosinemia type I_RD
+GL-000985	Hereditary colorectal, prostate and renal cancer predisposition test
+GL-000986	Brugada syndrome_CE
+GL-000988	Disorders of lipid and lipoprotein metabolism_CE
+GL-000989	Familial lipoprotein lipase deficiency_CE
+GL-000990	Spinocerebellar ataxia_CE
+GL-000993	Kniest dysplasia_CE
+GL-000995	Brachydactyly_CE
+GL-000997	Birt-Hogg-Dube syndrome and tuberous sclerosis test
+GL-000998	Progeria and cutis laxa_CE
+GL-001000	Fanconi anemia and dyskeratosis congenita_CE
+GL-001001	Congenital disorders of glycosylation and ataxia_CE
+GL-001002	Lymphedema and rickets_CE
+GL-001003	Neuromuscular disorders and leukodystrophies_CE
+GL-001004	Neurometabolic disorders, mitochondrial disorders and epilepsy_CE
+GL-001006	Gaucher disease, Sandhoff disease and thrombocytopenia_CE
+GL-001007	Hereditary breast, ovarian, gynecological and renal cancer predisposition test_19 genes
+GL-001008	Hemochromatosis, cholestasis and inborn errors of metabolism_CE
+GL-001009	Hereditary breast, colorectal and renal cancer predisposition test_19genes (for males)
+GL-001011	Neurodevelopmental disorders and muscular dystrophies_CE
+GL-001013	Inborn errors of metabolism, mitochondrial disorders and dystonia_CE
+GL-001014	Primary hyperphosphatemic tumoral calcinosis_CE
+GL-001018	Marinesco-Sjogren syndrome_CE
+GL-001019	Inborn errors of metabolism, sudden cardiac death and FADD deficiency_CE
+GL-001020	Organic acidemias_CE
+GL-001021	Congenital heart defects_CE
+GL-001022	Neuropathies_CE_4620
+GL-001025	Neonatal diabetes mellitus_CE
+GL-001026	Hereditary breast, prostate and nervous system cancer predisposition test
+GL-001027	Craniosynostosis and epilepsy_CE
+GL-001028	IL2RG and JAK3-related severe combined immunodeficiency_CE
+GL-001030	Hereditary rare cancer predisposition test_FA
+GL-001031	Hereditary breast, ovarian and endocrine cancer predisposition test_19genes
+GL-001033	Mitochondrial disorders, congenital disorders of glycosylation and organic acidemias_CE
+GL-001034	Hereditary breast, ovarian, gynecological, colorectal and endocrine cancer predisposition test_19 HBOC genes_old
+GL-001035	Hereditary breast, ovarian, gynecological, colorectal and endocrine cancer predisposition test_19 HBOC genes
+GL-001036	Hereditary breast and endocrine cancer predisposition test_19genes
+GL-001037	Microcephaly and epilepsy_CE
+GL-001038	Microcephaly, epilepsy and oculocutaneous albinism_CE
+GL-001039	Invalid genes_CE
+GL-001040	Hypertrophic cardiomyopathy_CE
+GL-001042	Amyotrophic lateral sclerosis_CE_S2017-609
+GL-001043	Inherited bone marrow failure syndromes_CE
+GL-001045	Chronic granulomatous disease_CE
+GL-001046	Myotonia congenita_CE
+GL-001047	Inborn errors of metabolism, mitochondrial disorders and epilepsy_CE
+GL-001048	Skeletal dysplasia_CE
+GL-001049	Pelizaeus-Merzbacher disease, hereditary spastic paraplegia and spinocerebellar ataxia_CE
+GL-001050	Omenn syndrome, chronic granulomatous disease and severe combined immunodeficiency_CE
+GL-001051	Neurometabolic and mitochondrial disorders_CE
+GL-001052	Skeletal disorders_CE_S2017-152
+GL-001053	Retinal dystrophies_CE
+GL-001054	Disorders of lipid and lipoprotein metabolism and pancreatitis_CE
+GL-001056	Aarskog-Scott syndrome and Kabuki syndrome_CE
+GL-001057	Leukodystrophies_CE_S5966
+GL-001060	Severe congenital neutropenias_CE
+GL-001061	Neonatal diabetes mellitus and MODY_CE
+GL-001062	Microcornea_CE
+GL-001064	Maple syrup urine disease_CE
+GL-001066	Neurometabolic disorders and epilepsy_CE
+GL-001068	Neuropathies_CE
+GL-001069	Emery-Dreifuss muscular dystrophy_CE_4620
+GL-001070	Disorders of amino acid and peptide metabolism and mitochondrial disorders_CE
+GL-001071	Salla disease_CE
+GL-001072	Hypomyelinating disorders_CE
+GL-001074	CHRNE-related congenital myasthenic syndrome_CE
+GL-001075	NPHS1 and NPHS2-related nephrotic syndrome_RD
+GL-001076	Thrombocytopenia_CE
+GL-001077	Best disease_CE
+GL-001078	3-Methylcrotonyl-CoA carboxylase deficiency_CE
+GL-001079	Rubinstein-Taybi syndrome and autism spectrum disorders_CE
+GL-001080	5-alpha reductase deficiency_CE
+GL-001081	Cleft lip_CE
+GL-001082	Disorders of sex development and infertility_CE
+GL-001083	Inborn errors of metabolism_CE_S2017-701
+GL-001084	Retinitis pigmentosa and cone-rod dystrophy_CE
+GL-001085	Autoinflammatory disorders_CE
+GL-001086	Immunodeficiencies and surfactant metabolism dysfunction_CE
+GL-001087	Skeletal disorders and cardiac disorders_CE
+GL-001089	Eye disorders_CE
+GL-001091	Cataract_CE
+GL-001092	Diamond-Blackfan anemia and Seckel syndrome_CE
+GL-001093	Hereditary breast, ovarian, gynecological and endocrine cancer predisposition test_19 HBOC genes
+GL-001094	Hereditary endocrine and nervous system cancer predisposition test
+GL-001095	Hereditary breast, ovarian, gynecological and endocrine cancer predisposition test_19genes
+GL-001096	Brugada syndrome and ARVC_CE
+GL-001097	Hereditary retinoblastoma test
+GL-001098	Arthrogryposis_RD
+GL-001099	Neuromuscular disorders_CE_1053
+GL-001101	Eye disorders_CE_S2017-711
+GL-001102	MCAD deficiency_RD
+GL-001103	Hereditary ataxia telangiectasia test
+GL-001104	Hereditary colorectal and gynecological cancer predisposition test
+GL-001105	Hemophagocytic lymphohistiocytosis_RD
+GL-001106	Collagen related disorders_CE
+GL-001107	Mucolipidosis and skeletal disorders_CE
+GL-001108	Nonketotic hyperglycinemia_CE
+GL-001109	Bronchiectasis and poikiloderma syndromes_CE
+GL-001112	Ehlers-Danlos syndrome and epidermolysis bullosa_CE
+GL-001113	Progressive familial intrahepatic cholestasis_CE
+GL-001114	Cone dystrophy and retinitis pigmentosa_CE
+GL-001115	Disorders of sterol metabolism_CE
+GL-001116	Crigler-Najjar syndrome and Gilbert syndrome_CE
+GL-001117	Smith-Lemli-Opitz syndrome_CE
+GL-001118	Bartsocas-Papas syndrome_CE
+GL-001119	Rett syndrome and leukodystrophies_CE
+GL-001120	Lissencephaly and muscular dystrophies_CE
+GL-001122	Hypomyelinating disorders and leukodystrophies_CE
+GL-001123	Maturity-onset diabetes of the young_CE
+GL-001124	Hereditary breast, prostate, colorectal and nervous system cancer predisposition test_19genes
+GL-001126	Leigh syndrome_CE
+GL-001127	Hereditary spastic paraplegia and leukodystrophies_CE
+GL-001128	Hereditary breast cancer predisposition test_19 genes
+GL-001131	Von Hippel-Lindau Syndrome Test
+GL-001132	Hereditary breast, ovarian and neurological cancer predisposition test_19 HBOC genes
+GL-001134	Cardiac disorders, deafness and epilepsy_CE
+GL-001135	3-M syndrome and Warburg micro syndrome_CE
+GL-001136	Skeletal disorders_CE-S2017-869
+GL-001139	Inborn errors of metabolism and cystic fibrosis_CE
+GL-001140	Congenital disorders of glycosylation and tuberous sclerosis_CE
+GL-001142	Neurocognitive disorders and ataxia_CE
+GL-001143	Medium-chain acyl-CoA dehydrogenase deficiency_CE
+GL-001144	Disorders of carbohydrate metabolism_CE
+GL-001145	Bronchiectasis and dermatologic disorders_CE
+GL-001147	Becker muscular dystrophy_CE
+GL-001148	Blistering diseases_CE
+GL-001149	Collagen related disorders and thrombophilia_CE
+GL-001151	Pompe disease_CE
+GL-001152	Ventricular fibrillation_CE
+GL-001153	Wolfram syndrome_CE
+GL-001154	Cone dystrophy_CE
+GL-001155	Hemophilia_RD
+GL-001156	Dystonia and inborn errors of metabolism_CE
+GL-001158	Muscular dystrophies_CE
+GL-001160	Pituitary disorders_CE
+GL-001167	Dilated cardiomyopathy_CE
+GL-001168	Ullrich congenital muscular dystrophy_CE
+GL-001169	Brain calcification, ataxia and dystonia_CE
+GL-001171	Noonan syndrome_CE
+GL-001172	Ataxia and dystonia_CE
+GL-001173	Rhabdoid tumor predisposition syndrome test
+GL-001174	Duchenne muscular dystrophy_RD
+GL-001175	Disorders of amino acid and peptide metabolism and hypothyroidism_CE
+GL-001176	Urea cycle disorders_CE
+GL-001177	Methylmalonic acidemia_CE
+GL-001183	Infantile neuroaxonal dystrophy, mitochondrial disorders and neuronal ceroid lipofuscinosis_CE
+GL-001189	Hepatosplenomegaly_CE
+GL-001190	Ataxia-Telangiectasia_RD
+GL-001191	Disorders of amino acid and peptide metabolism, hypothyroidism and hepatosplenomegaly_CE
+GL-001193	Kallmann syndrome_CE
+GL-001194	Hereditary spastic paraplegia and urea cycle disorders_CE
+GL-001197	Polycystic kidney disease, polycystic liver disease and pancreatitis_CE
+GL-001198	Skeletal dysplasia_CE_S2017-1051
+GL-001199	Dyskeratosis congenita and skeletal dysplasia_CE
+GL-001201	Frontotemporal dementia_CE
+GL-001202	Deafness_CE
+GL-001203	Arrhythmias_CE
+GL-001204	FGF23-related disorders_CE
+GL-001205	Ocular albinism_CE
+GL-001206	RASopathies_CE
+GL-001207	Wiskott-Aldrich syndrome_CE
+GL-001208	Ataxia, dystonia, celiac disease and ciliopathies_ CE
+GL-001209	Hereditary breast, ovarian, renal and nervous system cancer predisposition test_19 HBOC genes
+GL-001210	Bohring-Opitz syndrome_CE
+GL-001211	Pseudohypoaldosteronism_CE
+GL-001214	Neurological disorders_CE_S2017-1126
+GL-001215	Tyrosinemia_RD
+GL-001217	Joubert syndrome and related disorders_CE
+GL-001218	Hereditary breast, ovarian and renal cancer predisposition test_19 HBOC genes
+GL-001219	Hereditary breast, ovarian cancer and neurofibromatosis predisposition test_19 HBOC genes
+GL-001220	Hereditary Renal Cancer Predisposition Test
+GL-001221	Hereditary breast, ovarian, colorectal cancer and neurofibromatosis predisposition test_19 HBOC genes
+GL-001223	Hereditary renal cancer predisposition test.
+GL-001224	Coffin-Siris syndrome_CE
+GL-001226	Hermansky-Pudlak syndrome and phenylketonuria_CE
+GL-001227	Peroxisome biogenesis disorders_CE
+GL-001228	Ataxia and leukodystrophies_CE
+GL-001230	Dystonia_CE
+GL-001232	Polycystic kidney disease_CE
+GL-001233	Disorders of amino acid and peptide metabolism_CE
+GL-001234	Achondrogenesis_CE
+GL-001235	Disorders of amino acid and peptide metabolism and congenital disorders of glycosylation_CE
+GL-001236	Congenital myasthenic syndrome, myopathies, muscular dystrophies and mitochondrial disorders_CE
+GL-001237	Mitochondrial disorders and Tay-Sachs disease_CE
+GL-001239	Hypercholesterolemia_CE
+GL-001241	Primary microcephaly_CE
+GL-001242	Hepatomegaly and hyperbilirubinemia_CE
+GL-001245	Muscular dystrophies and myopathies_CE
+GL-001246	Adrenal insufficiency_RD
+GL-001247	Inborn errors of metabolism_CE
+GL-001248	Mucolipidosis III gamma_CE
+GL-001249	Disorders of bile acid biosynthesis and progressive familial intrahepatic cholestasis_CE
+GL-001250	Tyrosinemia-RD
+GL-001251	Epilepsy_STRAN-1284
+GL-001252	Hypertension and obesity_CE
+GL-001253	Ectodermal dysplasia, immunodeficiencies and primary ciliary dyskinesia_CE
+GL-001254	Brain malformations_CE
+GL-001260	Retinitis pigmentosa_CE
+GL-001261	Connective tissue disorders and congenital heart defects_CE _STRAN-1306
+GL-001262	Sandhoff disease_RD
+GL-001263	Epilepsy_CE_STRAN-1386
+GL-001264	Attention deficit hyperactivity disorder and skeletal disorders_CE
+GL-001265	Noonan syndrome and Kabuki syndrome_CE
+GL-001266	Deafness, microcephaly and optic atrophy_CE
+GL-001268	Alstrom syndrome, diabetes insipidus and obesity_CE
+GL-001270	Epileptic encephalopathy and mitochondrial disorders_CE
+GL-001271	Congenital myasthenic syndrome and myopathies_CE
+GL-001272	Mitochondrial disorders_CE
+GL-001273	Hyperinsulinemic hypoglycemia_CE
+GL-001274	Charcot-Marie-Tooth disease_CE
+GL-001275	Nephrotic syndrome and focal segmental glomerulosclerosis_CE
+GL-001276	Glutaric acidemia_RD
+GL-001280	Neuromuscular disorders_CE
+GL-001281	Angelman syndrome, congenital disorders of glycosylation and disorders of neurotransmitters metabolism_CE
+GL-001282	Parkinson disease and related disorders_CE
+GL-001283	Neurological disorders, eye disorders and obesity_CE
+GL-001284	Microcephaly_CE
+GL-001285	Neurocognitive disorders and deafness_CE
+GL-001286	Complement deficiencies and systemic lupus erythematosus_CE
+GL-001287	Metaphyseal dysplasia_CE
+GL-001288	Glycogen storage diseases and Gaucher disease_CE
+GL-001289	Wolman disease_CE
+GL-001290	Ataxia, microcephaly and GLUT1 deficiency_CE
+GL-001291	Van der Knaap disease_CE
+GL-001292	Attention deficit hyperactivity disorder_CE
+GL-001293	Epileptic encephalopathy_CE
+GL-001295	ABCB11 and ATP8B1-related progressive familial intrahepatic cholestasis_CE
+GL-001296	Schimke immuno-osseous dysplasia_CE
+GL-001297	Enhanced S-cone syndrome_CE
+GL-001298	Hemochromatosis and spherocytosis_CE
+GL-001299	Congenital hepatic fibrosis and progressive familial intrahepatic cholestasis_CE
+GL-001300	Leukodystrophies_CE
+GL-001302	Hypomagnesemia_CE
+GL-001303	Orofaciodigital syndrome_CE
+GL-001304	Orofaciodigital syndrome_CE-S2017-1621
+GL-001305	Menkes disease_CE
+GL-001306	Denys-Drash syndrome_CE
+GL-001307	Myoclonic epilepsy_CE
+GL-001308	Microphthalmia_CE
+GL-001309	Epileptic encephalopathy, neurotransmitter disorders and oculocutaneous albinism_CE
+GL-001310	Mitochondrial disorders and neurometabolic disorders_CE
+GL-001311	PKD1 and PKD2-related polycystic kidney disease_CE
+GL-001312	Weill-Marchesani syndrome_CE
+GL-001313	Autism spectrum disorders and epilepsy_CE
+GL-001314	Mitochondrial disorders, organic acidemias and urea cycle disorders_CE
+GL-001317	Diabetes insipidus_CE
+GL-001319	Congenital heart defects and Robinow syndrome_CE
+GL-001320	Angelman syndrome and Pitt-Hopkins syndrome_CE
+GL-001321	Polycystic kidney and liver disease, nephronophthisis and pancreatitis_CE
+GL-001322	Congenital heart defects, microphthalmia, renal agenesis and skeletal disorders
+GL-001323	Congenital heart defects and skeletal disorders_CE
+GL-001324	Congenital heart defects, intellectual disability and skeletal disorders_CE
+GL-001326	Cataract and neurodevelopmental disorders_CE
+GL-001327	Brachydactyly and congenital heart defects_CE
+GL-001329	Pseudohypoparathyroidism_CE
+GL-001330	Steroid resistant nephrotic syndrome_CE-S2017-1797
+GL-001332	Glycogen storage diseases_CE
+GL-001333	Multiple congenital anomalies-hypotonia-seizures syndrome 1_CE
+GL-001334	Autism spectrum disorders_CE-STRAN-5831
+GL-001335	Galactosemia and leukodystrophies_CE
+GL-001337	Hereditary motor and sensory neuropathy and mitochondrial disorders_CE
+GL-001338	Ellis-van Creveld syndrome and orofaciodigital syndrome_CE
+GL-001339	Autism spectrum disorders, epilepsy, hyperinsulinemic hypoglycemia and intellectual disability_CE
+GL-001340	Arthrogryposis and related disorders_CE
+GL-001341	Hereditary rare cancer predisposition test_FA and WT1
+GL-001342	Hypertriglyceridemia_CE-STRAN-2017-1568
+GL-001343	Neurodevelopmental disorders, neurometabolic disorders and neurotransmitter disorders_CE
+GL-001344	Hereditary breast, ovarian, gynecological and hereditary cancer predisposition test_19genes
+GL-001345	Hereditary colorectal and nervous system cancer predisposition test_19genes
+GL-001347	Hereditary cancer and nervous system cancer predisposition test
+GL-001348	PLA2G6-associated neurodegeneration_CE
+GL-001350	Dysostosis_CE
+GL-001351	Bardet-Biedl syndrome_CE
+GL-001352	Neurometabolic disorders and inborn errors of metabolism_CE
+GL-001353	Disorders of neurotransmitters metabolism_CE
+GL-001354	Ataxia, mitochondrial disorders and neurodegeneration with brain iron accumulation_CE
+GL-001356	SeSAME syndrome_CE
+GL-001357	Nephrogenic diabetes insipidus_CE
+GL-001358	Neuroaxonal dystrophy_CE
+GL-001359	Steroid resistant nephrotic syndrome_CE
+GL-001360	GM2-gangliosidosis, neuroaxonal dystrophy and neuronal ceroid lipofuscinosis_CE
+GL-001364	Hereditary renal cancer predisposition test_latest
+GL-001365	Hereditary breast, ovarian and nervous system cancer predisposition test_19genes
+GL-001367	Noonan syndrome and RASopathies_CE
+GL-001368	Precocious puberty_CE
+GL-001370	Mitochondrial disorders and neurological disorders_CE
+GL-001371	Inborn errors of metabolism and neurometabolic disorders_CE
+GL-001373	Ellis-van Creveld syndrome_CE
+GL-001375	Arthrogryposis and related disorders, and DSD_CE
+GL-001376	Hereditary colorectal, endocrine and renal cancer predisposition test
+GL-001377	Hereditary colorectal, nervous system cancer and inherited cancer predisposition test
+GL-001378	Skeletal disorders_CE
+GL-001379	Myopathies_CE
+GL-001380	Iron-refractory iron deficiency anemia_CE
+GL-001381	Anemia_CE
+GL-001382	Desbuquois dysplasia, Stickler syndrome and spondyloepimetaphyseal dysplasia_CE
+GL-001383	Obesity_CE
+GL-001384	Epileptic encephalopathy_CE_S-2017-1918
+GL-001386	Attention deficit hyperactivity disorder, autism spectrum disorders and epilepsy_CE
+GL-001388	Epilepsy and encephalopathy_CE
+GL-001390	Neurodevelopmental and neurocognitive disorders_CE
+GL-001391	Nephronophthisis_CE
+GL-001392	Hereditary breast, ovarian, gynecological and nervous system cancer predisposition test_27 genes
+GL-001393	Nephronophthisis and polycystic kidney disease_CE
+GL-001394	Arthrogryposis and microcephaly_CE
+GL-001395	Neurometabolic disorders, inborn errors of metabolism and dermatologic disorders_CE
+GL-001396	Thrombocytopenia and lymphadenopathy_CE
+GL-001397	Epilepsy, encephalopathy and neurometabolic disorders_CE
+GL-001398	Hereditary breast, ovarian and rare cancer predisposition test_HBOC and FA
+GL-001401	Encephalopathy_CE
+GL-001402	Hereditary breast, ovarian, nervous system and hereditary cancer predisposition test_19HBOC genes
+GL-001403	Hereditary colorectal, endocrine and hereditary cancer predisposition test_19HBOC genes
+GL-001405	Kabuki syndrome and Rubinstein-Taybi syndrome_CE
+GL-001406	Hyper-IgM syndrome_CE
+GL-001407	Osteopetrosis and related disorders_CE
+GL-001408	Hereditary breast, prostate and endocrine cancer predisposition test_19HBOC genes
+GL-001409	Atypical hemolytic uremic syndrome and nephrotic syndrome_CE
+GL-001411	Hyperpigmentation disorders, microcephaly and neurocognitive disorders_CE
+GL-001412	Attention deficit hyperactivity disorder and autism spectrum disorders_CE
+GL-001413	Autism spectrum disorders and microcephaly_CE
+GL-001414	Cutis laxa and Ehlers-Danlos syndrome_CE
+GL-001415	Hereditary breast, prostate, endocrine and nervous system cancer predisposition test_19genes
+GL-001416	Andersen syndrome and Leigh syndrome_CE
+GL-001417	Precocious puberty and obesity_CE
+GL-001418	Andersen-Tawil syndrome and Leigh syndrome_CE
+GL-001421	Epilepsy and neurocognitive disorders_CE
+GL-001422	Amyotrophic lateral sclerosis and epilepsy_CE
+GL-001423	Thiamine-responsive megaloblastic anemia syndrome_CE
+GL-001424	Disorders of vitamins and cofactor metabolism_CE
+GL-001425	Opthalmic migraine_CE
+GL-001427	3-Methylcrotonyl-CoA carboxylase deficiency and very long-chain acyl-CoA dehydrogenase deficiency_CE
+GL-001428	Brain malformations and hypomyelinating disorders_CE
+GL-001429	Alagille Syndrome_CE
+GL-001430	Autism spectrum disorders and epilepsy _CE
+GL-001431	Mucopolysaccharidosis type III A/B_CE
+GL-001432	Waardenburg syndrome_CE
+GL-001433	Autism spectrum disorders, epilepsy and intellectual disability_CE
+GL-001434	Focal dermal hypoplasia_CE
+GL-001436	Mucopolysaccharidosis type IV_CE
+GL-001437	Hereditary nervous system cancer and cancer syndrome predisposition test_35 genes
+GL-001438	Acromelic and acromesomelic dysplasia_CE
+GL-001439	Leukodystrophies and macrocephaly_CE
+GL-001440	Hereditary breast, ovarian, gynecological, colorectal and hereditary cancer predisposition test_19 HBOC genes
+GL-001441	Hereditary colorectal and renal cancer predisposition test
+GL-001442	Brain malformations and epilepsy_CE
+GL-001443	Hydrops fetalis_CE
+GL-001444	Megalencephalic leukoencephalopathy with subcortical cysts_CE
+GL-001445	Homocystinuria _CE
+GL-001446	Citrullinemia_CE
+GL-001447	CYP21A2-related adrenal hyperplasia_CE
+GL-001448	3-Methylcrotonyl-CoA carboxylase deficiency and fatty acid oxidation defects_CE
+GL-001449	Maturity-onset diabetes of the young and neonatal diabetes mellitus_CE
+GL-001450	Alternating hemiplegia of childhood_CE
+GL-001451	Storage disorders and hepatosplenomegaly_CE
+GL-001453	Inborn errors of metabolism, mitochondrial disorders and neurological disorders_CE
+GL-001454	Craniosynostosis and Loeys-Dietz syndrome_CE
+GL-001455	Ataxia, POLG-spectrum disorders and neurodegeneration with brain iron accumulation_CE
+GL-001456	ABCD1-related adrenoleukodystrophy_CE
+GL-001459	Neurocognitive and neuromuscular disorders_CE
+GL-001460	X-linked adrenoleukodystrophy_CE
+GL-001461	Neurocognitive disorders and epilepsy_CE
+GL-001462	CAP-2017-clinical exome
+GL-001463	CAP-Proficiency testing-Clinical Exome-2017
+GL-001464	Congenital heart defects, microcephaly, microphthalmia and skeletal disorders_CE
+GL-001465	Hereditary breast and ovarian cancer predisposition and neurofibromatosis test_19 genes
+GL-001466	Alexander disease and leukodystrophies_CE
+GL-001467	Fatty acid oxidation defects and glycogen storage diseases_CE
+GL-001468	Attention deficit hyperactivity disorder, intellectual disability and microcephaly_CE
+GL-001470	Raine syndrome_CE
+GL-001471	Renal tubular acidosis_CE
+GL-001472	Perrault syndrome_CE
+GL-001473	Congenital heart defects and epileptic encephalopathy_CE
+GL-001474	Neurocognitive disorders and microcephaly_CE
+GL-001476	Hereditary spastic paraplegia, leukodystrophy and mitochondrial disorders_CE
+GL-001477	Lesch-Nyhan syndrome_CE
+GL-001479	TOR1A-related dystonia_CE
+GL-001481	Disorders of cornification_CE
+GL-001482	Epilepsy_CE
+GL-001483	Cerebellar ataxia_CE
+GL-001485	Epilepsy_CE-STRAN-2017-1255
+GL-001486	Epilepsy and mitochondrial disorders_CE-STRAN-2017-1255
+GL-001487	Autism specturm disorders, ataxia, epilepsy and inborn errors of metabolism_CE
+GL-001488	Dermatologic disorders, hirschsprung disease and neurological disorders_CE
+GL-001489	Alexander disease, epilepsy and hereditary spastic paraplegia_CE
+GL-001491	Diamond-Blackfan syndrome, Thiamine-responsive megaloblastic anemia syndrome and Wolfram syndrome_CE
+GL-001492	Autoinflammatory disorders and mevalonate kinase deficiency_CE
+GL-001493	Autism spectrum disorders, ataxia, epilepsy and inborn errors of metabolism_CE
+GL-001494	Lujan-Fryns syndrome_CE
+GL-001495	Neurodevelopmental and neuromuscular disorders_CE
+GL-001496	Neurodevelopmental disorders_CE
+GL-001497	Skeletal disorders and intellectual disability_CE
+GL-001498	Hereditary colorectal and renal cancer predisposition test_19genes
+GL-001500	GPC3 related-Simpson-Golabi-Behmel syndrome_CE
+GL-001501	Mitochondrial respiratory chain disorders_CE
+GL-001503	Hereditary breast, ovarian and gastrointestinal cancer predisposition test_19 genes
+GL-001504	Neurometabolic disorders_CE
+GL-001505	Hereditary gynecological and nervous system cancer predisposition test_STK11
+GL-001506	Encephalopathy and hepatomegaly_CE
+GL-001507	Cataract, intellectual disability, microcephaly and pigmentation disorders_CE
+GL-001508	Hereditary gynecological and nervous system cancer predisposition test
+GL-001509	lycogen storage disorders, fatty acid oxidation defects and glutaric acidemia_CE
+GL-001510	Glycogen storage disorders, fatty acid oxidation defects and glutaric acidemia_CE
+GL-001512	Hereditary nervous system and cancer predisposition test
+GL-001513	Glycogen storage disease, glutaric acidemia and fatty acid oxidation defects_CE
+GL-001514	Neuronal ceroid lipofuscinosis and Leber congenital amaurosis_CE
+GL-001516	Disorders of sex development_CE
+GL-001519	Cholestasis_CE
+GL-001520	Hereditary nervous system cancer and hereditary cancer predisposition test
+GL-001521	Autism spectrum disorders, attention deficit hyperactivity disorder and intellectual disability_CE
+GL-001522	Factor XIII deficiency_CE
+GL-001523	CYP11B1 and CYP21A2-related adrenal hyperplasia_CE
+GL-001524	Inborn errors of metabolism and neuromuscular disorders_CE
+GL-001525	Cardiac and skeletal disorders_CE
+GL-001527	Neurodevelopmental disorders and dystonia_CE
+GL-001528	Autism spectrum disorders and intellectual disability_CE
+GL-001529	Neurocognitive and neurodevelopmental disorders_CE
+GL-001530	Pycnodysostosis_CE
+GL-001531	Arthrogrypotic spectrum disorders and skeletal dysplasia_CE
+GL-001532	Skeletal dysplasia, and arthrogryposis and related disorders_CE
+GL-001533	Hereditary gynecological, colorectal and nervous system cancer predisposition test
+GL-001534	Inborn errors of metabolism, neurological disorders and skeletal disorders_CE
+GL-001535	Disorders of collagen, elastin and dermal matrix_CE
+GL-001536	Ataxia and neuropathies_CE
+GL-001537	Common variable immunodeficiency_CE-STRAN-2017-2569
+GL-001538	Hereditary colorectal and cancer predisposition test_33 genes
+GL-001539	Lissencephaly_CE
+GL-001540	Autism spectrum disorders, epilepsy and microcephaly_CE
+GL-001542	Neurodevelopmental, neurocognitive and skeletal disorders_CE
+GL-001543	Neurometabolic disorders, ataxia and epilepsy_CE
+GL-001544	Congenital central hypoventilation syndrome_CE
+GL-001545	Restrictive dermopathy_CE
+GL-001546	Epilepsy and hereditary spastic paraplegia_CE
+GL-001547	Congenital central hypoventilation syndrome and hereditary motor and sensory neuropathy_CE
+GL-001549	Dystonia, epilepsy and neurocognitive disorders_CE
+GL-001553	Ataxia_CE
+GL-001554	Isolated retinal detachment_CE
+GL-001555	Hereditary motor and sensory neuropathy and ataxia_CE
+GL-001556	Mowat-Wilson and Angelman syndromes_CE
+GL-001557	HHH syndrome and dihydropyrimidine dehydrogenase deficiency_CE
+GL-001558	GCK- related disorders_CE
+GL-001559	Thalassemia_CE
+GL-001560	Leukodystrophies_CE-STRAN-2017-2754
+GL-001561	IL7R and JAK3 related severe combined immunodeficiency_CE
+GL-001562	Neurodevelopmental disorders and hereditary spastic paraplegia_CE
+GL-001563	Trichothiodystrophy and encephalopathy_CE
+GL-001564	Leigh syndrome and Wilson disease_CE
+GL-001565	Attention deficit hyperactivity disorder, autism spectrum disorders, neurodevelopmental disorders and skeletal disorders_CE
+GL-001566	Hyperbilirubinemia, hepatosplenomegaly and liver cirrhosis_CE
+GL-001568	Beta-thalassemia_CE
+GL-001569	POLG-spectrum disorders and congenital myasthenic syndrome_CE
+GL-001570	Hirschsprung disease and Rett syndrome_CE
+GL-001571	Vitreoretinopathy_CE
+GL-001572	Congenital disorders of glycosylation_CE
+GL-001573	Dandy-Walker malformation and microcephaly_CE
+GL-001574	Hereditary colorectal, prostate, renal and endocrine cancer and hereditary cancer predisposition test
+GL-001575	Microcephalic osteodysplastic primordial dwarfism_CE
+GL-001576	Autism spectrum disorders, intellectual disability and microcephaly_CE
+GL-001578	Epilepsy and neurometabolic disorders_CE
+GL-001580	Mucopolysaccharidosis type I_CE
+GL-001581	Hamartoneoplastic syndrome_CE
+GL-001582	Hyperornithinemia-hyperammonemia-homocitrullinuria syndrome and dihydropyrimidine dehydrogenase deficiency_CE
+GL-001583	Mendelian susceptibility to mycobacterial disease_CE
+GL-001584	Eye disorders and neurological disorders_CE
+GL-001585	Intellectual disability and macrocephaly_CE
+GL-001586	Attention deficit hyperactivity disorder and intellectual disability_CE
+GL-001587	Ataxia and microcephaly_CE
+GL-001588	Acute necrotizing encephalopathy and trichothiodystrophy_CE
+GL-001589	Autism spectrum disorders, attention deficit hyperactivity disorder, obesity and precocious puberty_CE
+GL-001590	Hereditary rare cancer predisposition test_BHDS
+GL-001591	Attention deficit hyperactivity disorder, autism spectrum disorders, epilepsy and microcephaly_CE
+GL-001592	Friedreich ataxia and spinocerebellar ataxia_CE
+GL-001593	Neuromuscular and neurotransmitter disorders_CE
+GL-001594	Dystrophinopathy_CE
+GL-001595	Attention deficit hyperactivity disorders, neuromuscular disorders and ichthyosis_CE
+GL-001596	Hereditary breast, ovarian and skin cancer predisposition test_19 HBOC genes
+GL-001597	Hereditary Peutz-Jeghers syndrome test
+GL-001598	Hereditary neurofibromatosis and rare cancer predisposition test_Schwannomatosis
+GL-001599	Segmental overgrwoth syndromes_CE
+GL-001600	Mucopolysaccharidosis and mucolipidosis_CE
+GL-001601	Apert syndrome and Pfeiffer syndrome_CE
+GL-001602	Autism spectrum disorders, Mowat-Wilson syndrome and Rett syndrome_CE
+GL-001604	Macrocephaly and Simpson-Golabi-Behmel syndrome_CE
+GL-001605	Alexander disease and Krabbe disease_CE
+GL-001606	Hyperekplexia_CE
+GL-001607	Neurodevelopmental disorders and retinal dystrophies_CE
+GL-001608	Neurological disorders and deafness_CE
+GL-001609	Alexander disease, Krabbe disease and Leigh syndrome_CE
+GL-001610	Neurodevelopmental and skeletal disorders_CE
+GL-001611	Autism spectrum disorders, neurodevelopmental disorders and neurometabolic disorders_CE
+GL-001612	Attention deficit hyperactivity disorder and microcephaly_CE
+GL-001613	Attention deficit hyperactivity disorder and neurodevelopmental disorders_CE
+GL-001615	Congenital heart defects and mitochondrial disorders_CE
+GL-001616	Hemophagocytic lymphohistiocytosis and inborn errors of metabolism_CE
+GL-001617	Sialidosis, galactosialidosis and myoclonic epilepsy_CE
+GL-001618	Leukodystrophies, mitochondrial disorders, molybdenum cofactor deficiency and sulfite oxidase deficiency_CE
+GL-001619	Congenital dyserythropoietic anemia_CE
+GL-001620	Intellectual disability, microcephaly and epilepsy_CE
+GL-001621	Hereditary breast cancer and hereditary cancer predisposition test
+GL-001622	Hereditary breast, ovarian, colorectal and skin cancer predisposition test_19 HBOC genes
+GL-001623	Hereditary breast, ovarian, colorectal and hereditary cancer predisposition test
+GL-001624	Congenital insensitivity to pain_CE
+GL-001625	Neuromuscular and mitochondrial disorders_CE
+GL-001626	Alpha-1-antitrypsin deficiency, congenital hepatic fibrosis, cholestasis and tyrosinemia_CE
+GL-001627	Fanconi anemia and skeletal disorders_CE
+GL-001628	Hemophilia_CE
+GL-001631	Fatty acid oxidation defects_CE
+GL-001632	Myotonic dystrophy and Rieger syndrome_CE
+GL-001633	Cystic renal disease_CE
+GL-001634	Chediak-Higashi syndrome and Griscelli syndrome_CE
+GL-001635	Intellectual disability_CE
+GL-001637	Neurological disorders_CE
+GL-001639	Neurodevelopmental disorders and intellectual disability_CE
+GL-001640	Attention deficit hyperactivity disorder, epilepsy, ichthyosis and inborn errors of metabolism_CE
+GL-001641	Channelopathies, epilepsy and neurometabolic disorders_CE
+GL-001643	Rett syndrome_CE
+GL-001644	Glutaric acidemia and Leigh syndrome_CE
+GL-001645	Somatic 152
+GL-001646	Disorders of vitamins and co-factor metabolism_CE
+GL-001647	Venous thrombosis_CE
+GL-001648	Diabetes mellitus and liver cirrhosis_CE
+GL-001650	Intellectual disability and neuromuscular disorders_CE
+GL-001651	Bartter syndrome and cystic fibrosis_CE
+GL-001652	Neuromuscular disorders and neurodegeneration with brain iron accumulation_CE
+GL-001654	Inborn errors of metabolism and mitochondrial disorders_CE
+GL-001656	Hereditary gynecological and renal cancer predisposition test
+GL-001657	Idiopathic pulmonary fibrosis_CE
+GL-001658	Disorders of phenylalanine or tyrosine metabolism_CE
+GL-001663	Warburg micro syndrome_CE
+GL-001664	Hereditary spastic paraplegia and microcephaly_CE
+GL-001665	Inborn errors of metabolism and neurodevelopmental disorders_CE
+GL-001666	Congenital heart defects, dermatologic disorders and neurodevelopmental disorders_CE
+GL-001667	Pigmentation disorders_CE_STRAN-2018-3995
+GL-001668	Hereditary breast, colorectal and nervous system cancer predisposition test_19 genes
+GL-001669	EFEMP2 and FBLN5-related disorders_CE
+GL-001671	Intellectual disability and microcephaly_CE
+GL-001672	Immunodeficiencies and propionic acidemia_CE
+GL-001673	Disorders of sterol metabolism and cholestasis_CE
+GL-001674	Disorders of vitamin B12 deficiency and anemia_CE
+GL-001675	Epilepsy_CE-STRAN-2018-3827
+GL-001676	Epilepsy and neuromuscular disorders_CE
+GL-001677	Dystonia, inborn errors of metabolism, mitochondrial and neurotransmitter disorders_CE
+GL-001678	Neurodevelopmental disorders and skeletal disorders_CE
+GL-001679	Autism spectrum disorders_CE
+GL-001680	Neurocognitive disorders_CE
+GL-001681	Cholestasis, Costello syndrome and Niemann-Pick disease_CE
+GL-001682	Epilepsy and neuronal ceroid lipofuscinosis_CE
+GL-001683	Anemia, immunodeficiencies and nephrological disorders_CE
+GL-001684	Deafness and eye disorders_CE
+GL-001685	Autism spectrum disorders, epilepsy and inborn errors of metabolism_CE
+GL-001686	Arrhythmias and cardiomyopathies_CE
+GL-001687	Hemophagocytic lymphohistiocytosis and X-linked lymphoproliferative syndromes_CE
+GL-001688	Dystonia and muscular dystrophies_CE
+GL-001689	Hereditary spastic paraplegia and neuropathies_CE
+GL-001690	Hereditary colorectal, breast, skin and nervous system cancer predisposition test (for male patients)
+GL-001691	Immunodeficiency and cystic fibrosis_CE
+GL-001692	Epilepsy and microcephaly_CE
+GL-001693	Epilepsy, ataxia and microcephaly_CE
+GL-001694	Hemophagocytic lymphohistiocytosis, X-linked lymphoproliferative syndromes and X-linked neutropenia_CE
+GL-001695	Cockayne syndrome and peroxisome biogenesis disorders_CE
+GL-001696	Macrocephaly_CE
+GL-001697	Neurological disorders_CE-STRAN-2017-3202
+GL-001698	Acromesomelic dysplasia_CE
+GL-001699	Mitochondrial and neurological disorders_CE
+GL-001700	Biotinidase deficiency and Phenylketonuria_CE
+GL-001701	Inborn errors of metabolism, mitochondrial, neurotransmitter and neurological disorders_CE
+GL-001704	Multiple epiphyseal dysplasia and pseudoachondroplasia_CE
+GL-001705	Hereditary gynecological, endocrine and nervous system cancer predisposition test
+GL-001706	Nephrological disorders_CE-STRAN-2018-4244
+GL-001707	Neuromuscular disorders and overgrowth syndromes_CE
+GL-001708	Hereditary breast, skin and nervous system cancer predisposition test (for male patients)
+GL-001709	Neurodevelopmental and mitochondrial disorders_CE
+GL-001711	Eye, neurodevelopmental and skeletal disorders_CE
+GL-001713	Channelopathies, epilepsy and inborn errors of metabolism_CE
+GL-001714	Hereditary breast, ovarian, prostate, colorectal and hereditary cancer predisposition test
+GL-001716	Atrioventricular septal defects_CE
+GL-001723	Hereditary colorectal cancer and von Hippel-Lindau syndrome predisposition test
+GL-001724	Test genelist
+GL-001725	Storage disorders, hyperpigmentation and hypertriglyceridemia_CE
+GL-001726	Neurocutaneous syndromes_CE
+GL-001727	Arginase deficiency_CE
+GL-001728	Congenital heart defects, neurodevelopmental and neuromuscular disorders_CE
+GL-001730	Ataxia and epilepsy_CE
+GL-001731	Arginosuccinic aciduria and citrullinemia_CE
+GL-001732	Gangliosidosis and leukodystrophies_CE
+GL-001733	Stargardt disease_CE
+GL-001734	Epilepsy and hyperinsulinemic hypoglycemia_CE
+GL-001735	Cardiac disorders and epilepsy_CE
+GL-001736	Leukocyte adhesion deficiency_CE
+GL-001737	Pyogenic sterile arthritis, pyoderma gangrenosum and acne_CE
+GL-001738	Epilepsy and intellectual disability_CE
+GL-001739	Mitochondrial, neurodevelopmental and neurometabolic disorders_CE
+GL-001740	Immunological disorders_CE
+GL-001742	Inborn errors of metabolism and neurological disorders_CE
+GL-001744	Tst genelist ce_
+GL-001745	Neuromuscular disorders_CE-S3778
+GL-001746	Congenital myasthenic syndrome, muscular dystrophies and myopathies_CE
+GL-001747	Organic acidemias and severe combined immunodeficiency_CE
+GL-001749	Epilepsy and hypoglycemia_CE
+GL-001750	Cockayne syndrome_CE-STRAN-2018-4517
+GL-001751	Leigh syndrome, neurodevelopmental and neuromuscular disorders_CE
+GL-001752	Epilepsy and leukodystrophies_CE
+GL-001753	Ataxia and Leigh syndrome_CE
+GL-001754	Pelizaeus-Merzbacher disease_CE
+GL-001756	CHARGE syndrome and skeletal disorders_CE
+GL-001757	Spastic paraplegia_CE
+GL-001758	Focal segmental glomerulosclerosis and nephrotic syndrome_CE
+GL-001759	Hereditary colorectal, breast, prostate and endocrine cancer predisposition test (male patients)
+GL-001760	test_Ce
+GL-001761	Neurotransmitter disorders_CE
+GL-001762	Lipodystrophy and muscular dystrophies_CE
+GL-001763	Fetal akinesia deformation sequence and skeletal disorders_CE
+GL-001764	Fetal akinesia deformation sequence and skeletal dysplasia_CE
+GL-001765	Lipodystrophy_CE
+GL-001766	Skeletal dysplasias and osteogenesis imperfecta_CE
+GL-001767	Bardet-Biedl syndrome and Duane syndrome_CE
+GL-001768	Neurodevelopmental, neurocognitive and neurotransmitter disorders_CE
+GL-001769	Nephropathies_CE
+GL-001770	Ataxia, Leigh syndrome and mitochondrial disorders_CE
+GL-001771	Ataxia and mitochondrial disorders_CE
+GL-001772	Andersen-Tawil syndrome, myotonia congenita and myotonic dystrophy_CE
+GL-001773	Otospondylomegaepiphyseal dysplasia_CE
+GL-001774	Hereditary breast, prostate and colorectal cancer predisposition test_19 genes (male patients)
+GL-001775	Liver cirrhosis_CE
+GL-001776	Deafness and nephrological disorders_CE
+GL-001777	Dystonia and mitochondrial disorders_CE
+GL-001778	Holt-Oram syndrome_CE
+GL-001780	Keratosis pilaris and neurocutaneous syndromes_CE
+GL-001781	Anophthalmia and microphthalmia_CE
+GL-001782	Autism spectrum disorder, epilepsy and intellectual disability_CE
+GL-001783	Abnormal minerelization disorders and osteogenesis imperfecta_CE
+GL-001784	Leukodystrophies and neuropathies_CE
+GL-001785	Autism spectrum disorders and skeletal dysplasia_CE

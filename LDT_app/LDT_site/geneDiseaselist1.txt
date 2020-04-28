@@ -1,0 +1,1616 @@
+NSCLC SOC Genes	ALK	2400
+Colon SOC Genes	APC	6000
+Breast Gene List	BRCA1	20400
+Glycogen storage diseases.	AGL	1200
+Retinitis pigmentosa.	ABCA4	1200
+Ectodermal dysplasia.	AXIN2	20400
+Mitochondrial disorders	ABCB7	27600
+Neuronal ceroid lipofuscinosis	ATP13A2	1200
+Disorders of sex development	AKR1C2	12000
+Iichthyosis.	ABCA12	2400
+Long QT syndrome.	AKAP9	8400
+Long QT syndrome	AKAP9	8400
+Ectodermal dysplasia	AXIN2	20400
+Mitochondrial disorders	ABCB7	27600
+Ichthyosis	ABCA12	2400
+Disorders of sex development	AKR1C2	12000
+Glycogen Storage Diseases	AGL	1200
+Neuronal ceroid lipofuscinosis	ATP13A2	1200
+Retinitis pigmentosa	ABCA4	1200
+Neuromuscular disorders and non-syndromic intellectual disability	AAAS	14400
+Hereditary breast and ovarian cancer predisposition test	ATM	13200
+Neurological disorders	AAAS	14400
+Hereditary breast cancer, ovarian cancer and inherited cancer syndrome predisposition test	APC	6000
+Hereditary gastrointestinal cancer predisposition test	APC	6000
+Hereditary cancer predisposition test (BRCA1, BRCA2 and TP53)	BRCA1	20400
+Hereditary inherited cancer syndrome predisposition test	APC	6000
+Hereditary neurofibromatosis predisposition test	NF1	20400
+Sandhoff disease	HEXB	6000
+Tay-Sachs disease	HEXA	18000
+Hereditary breast, ovarian and gastrointestinal cancer predisposition test	APC	6000
+Muscular dystrophies and congenital myopathies	ACTA1	1200
+Cardiomyopathy	AARS2	7200
+Microcephaly	ADAR	1200
+Inborn errors of metabolism	ABCB11	2400
+Eye disorders	ABCA4	1200
+Menkes disease	ATP7A	27600
+HMG CoA deficiency	HMGCL	1200
+Deafness	ACTG1	20400
+Hereditary breast, ovarian, nervous system and inherited cancer syndrome predisposition test	ALK	2400
+Cardiac disorders	ABCA1	10800
+Disorders of sex development	AKR1C2	12000
+Neurological disorders	AAAS	14400
+Hereditary endocrine cancer predisposition test	AIP	13200
+Trichothiodystrophy	ERCC2	22800
+Primary microcephaly	ASPM	1200
+Best dystrophy	BEST1	13200
+Adrenal hyperplasia	CYP11A1	18000
+Arrhythmias	ABCC9	14400
+Nephrotic syndrome	ACTN4	22800
+Neurodevelopmental disorder	AARS	19200
+Lissencephaly	ACTB	8400
+Cystic fibrosis	CFTR	8400
+Hyper-IgE syndrome	DOCK8	10800
+Tay-Sachs and Sandhoff disease	HEXA	18000
+Ataxia and retinitis pigmentosa	ABCA4	1200
+Intellectual disability and epilepsy	AARS	19200
+Arrhythmias and adrenal hyperplasia	ABCC9	14400
+Immunodeficiency and related disorders	ACP5	22800
+Leber congenital amaurosis and achromatopsia	AIPL1	20400
+Organic acidemias and Leigh syndrome	ABCD4	16800
+Neurodevelopmental disorders and lissencephaly	AARS	19200
+Hyper-IgE syndrome and cystic fibrosis	CFTR	8400
+Nephrotic syndrome	ACTN4	22800
+Cardiomyopathies	ABCC9	14400
+Hereditary breast, ovarian, gynecological and gastrointestinal cancer predisposition test	APC	6000
+Hereditary breast, ovarian, gastrointestinal and renal cancer predisposition test	APC	6000
+Hereditary gastrointestinal cancer, gynecological cancer and inherited cancer syndrome predisposition test	APC	6000
+Hereditary breast, ovarian, gastrointestinal and endocrine cancer predisposition test	AIP	13200
+Congenital heart defects	ABCC9	14400
+Hereditary retinoblastoma predisposition test	RB1	15600
+Mowat Wilson syndrome, multiple epiphyseal dysplasia, Al-Gazali-Bakalinova syndrome and all neurological disorders&nbsp;	AAAS	14400
+Adrenal hyperplasia and polycystic kidney disease	CYP11A1	18000
+Nemaline myopathy	NEB	2400
+Epidermolysis bullosa	BFSP2	3600
+Hereditary gastrointestinal cancer, endocrine cancer and rare cancer predisposition test	AIP	13200
+Ataxia and epilepsy	AARS	19200
+Hereditary gynecological cancer and inherited cancer syndrome predisposition test	APC	6000
+Eye disorders	ABCA4	1200
+Primary immunodeficiency and related disorders	ACP5	22800
+Cornelia de Lange syndrome	HDAC8	27600
+Osteopetrosis	AMER1	27600
+Brugada syndrome	CACNA1C	14400
+Muscular dystrophies	ANO5	13200
+Surfactant metabolism dysfunction and CFTR gene	ABCA3	19200
+Neuromuscular disorders	AAAS	14400
+Primary immunodeficiency and related disorders	ACP5	22800
+Inborn errors of metabolism	ABCB11	2400
+Inborn errors of metabolism, primary immunodeficiency and related disorders	ABCB11	2400
+Hereditary cancer predisposition test	APC	6000
+Epilepsy	AARS	19200
+Neurological disorders	AAAS	14400
+Eye disorder	ABCA4	1200
+Cardiac disorders	ABCA1	10800
+Inherited bone disorders	ACADM	1200
+Neurological disorders	AAAS	14400
+HMG-CoA deficiency and neurological disorders	AAAS	14400
+ACMG genes	ACTA2	12000
+Hereditary rare cancers predisposition test	BLM	18000
+Hereditary breast, ovarian and gynecological cancer predisposition test	ATM	13200
+Glycogen storage disease	AGL	1200
+Retinitis pigmentosa and choroideremia	ABCA4	1200
+Inherited bone marrow failure syndromes	BRCA2	15600
+Cutis laxa syndrome	ALDH18A1	12000
+Polycystic kidney disease	MKS1	20400
+Hereditary cancer syndrome predisposition test	APC	6000
+Myotonia	CLCN1	8400
+Retinitis pigmentosa	CLRN1	3600
+Eye disorders	CDH23	12000
+Adrenal hyperplasia	CYP11A1	18000
+Ataxia	ABCB7	27600
+Biotinidase deficiency	BTD	3600
+Leukodystrophies	AARS2	7200
+Costello syndrome	HRAS	13200
+Noonan syndrome	BRAF	8400
+Noonan syndrome and Costello syndrome	BRAF	8400
+Congenital heart defects	ABCC9	14400
+Organic acidemias	ABCD4	16800
+Myotoni	CLCN1	8400
+Myotonia	CLCN1	8400
+Gorlin syndrome test	PTCH1	10800
+Epidermolysis bullosa and Ichthyosis	ABCA12	2400
+Sotos syndrome	NSD1	6000
+Overgrowth syndromes	AIP	13200
+AAA syndrome	AAAS	14400
+Adrenal insufficiency	ABCD1	27600
+Neuropathies	AAAS	14400
+Nephrotic syndrome	ACTN4	22800
+Premature ovarian failure	AARS2	7200
+Autism spectrum disorders	ADNP	24000
+Infertility and related disorders	AARS2	7200
+Deafness	ACTG1	20400
+Anophthalmia and microphthalmia	ABCB6	2400
+Hirschsprung disease	ARL6	3600
+Muscular dystrophies, congenital myopathies and congenital myasthenic syndromes	ACTA1	1200
+Neurological disorders	AAAS	14400
+Multiple epiphyseal dysplasia	COL2A1	14400
+Hereditary gastrointestinal and prostate cancer predisposition test	APC	6000
+Cystic fibrosis	CFTR	8400
+Wilson disease	ATP7B	15600
+Methylmalonic acidemia	MMAA	4800
+Plagiocephaly, neuroregression and neurological disorders	AAAS	14400
+Spinocerebellar ataxia, neuronal ceroid lipofuscinosis, epilepsy and neuroregression	AARS	19200
+Autism spectrum disorders and intellectual disability	ACSL4	27600
+Neuromuscular disorders	AAAS	14400
+Citrullinemia	ASS1	10800
+Pompe disease	GAA	20400
+CHARGE syndrome	CHD7	9600
+Rickets	ABCC6	19200
+Maturity onset diabetes of the young (MODY)	BLK	9600
+Sotos syndrome and overgrowth syndrome	AIP	13200
+Muscular dystrophies	ANO5	13200
+Meckel-Gruber syndrome	B9D1	20400
+Ivemark syndrome	ACVR2B	3600
+Cholestasis	ABCB11	2400
+Storage disorders	ABHD5	3600
+Mitochondrial disorders	ABCB7	27600
+GLUT1 deficiency syndrome	SLC2A1	1200
+Hereditary cancer syndrome predisposition test	NBN	9600
+Spinocerebellar ataxia, neuronal ceroid lipofuscinosis, epilepsy and neuroregression	AARS	19200
+Hereditary breast and ovarian cancer predisposition test.	ATM	13200
+Ichthyosis	ABCA12	2400
+Menkes disease, microcephaly, intellectual disability and epilepsy	AARS	19200
+Coffin-Lowry syndrome	RPS6KA3	27600
+Dystonia	ACTB	8400
+Tyrosinemia	FAH	18000
+Cholestasis and congenital disorder of glycosylation	ABCB11	2400
+Encephalopathy	AARS	19200
+Autism spectrum disorders, epilepsy and Intellectual disability	AARS	19200
+Dilated cardiomyopathy	ABCC9	14400
+Leber congenital amaurosis	AIPL1	20400
+Multiple epiphyseal dysplasia and Cartilage-Hair Hypoplasia_CE	COL2A1	14400
+Multiple epiphyseal dysplasia and cartilage-hair hypoplasia_CE	COL2A1	14400
+Hereditary tuberous sclerosis predisposition test	TSC1	10800
+Hereditary breast and prostate cancer predisposition test	ATM	13200
+Hereditary breast cancer and gastrointestinal cancer predisposition test	APC	6000
+Hereditary gynecological cancer predisposition test	BRCA1	20400
+Stargardt disease	ABCA4	1200
+Alexander disease	GFAP	20400
+Rubinstein-Taybi syndrome	CREBBP	19200
+Charcot-Marie-Tooth disease	AARS	19200
+Microcephaly	ADAR	1200
+Alagille syndrome, neonatal cholestasis and congenital hepatic fibrosis	ABCB11	2400
+Perry syndrome	DCTN1	2400
+Charcot-Marie-Tooth disease	AARS	19200
+Dilated cardiomyopathy, hypertrophic cardiomyopathies and muscular dystrophies	ABCC9	14400
+Shwachman-Diamond syndrome and severe congenital neutropenias	ELANE	22800
+Ichthyosis	ABCA12	2400
+Skin and connective tissu	ABCA12	2400
+Ehlers-Danlos syndrome	ADAMTS2	6000
+3-M syndrome	CCDC8	22800
+GLUT1 deficiency syndrome	SLC2A1	1200
+Skeletal disorders	ABCC6	19200
+Conradi-Hünermann-Happle syndrome	AGPS	2400
+Pseudoaldosteronism	CUL3	2400
+Leber congenital amaurosis	AIPL1	20400
+Skeletal disorders and all neuromuscular disorders	AAAS	14400
+Hereditary gastrointestinal and renal cancer predisposition test	APC	6000
+Microcephaly and lissencephaly	ACTB	8400
+Fragile X syndrome, intellectual disability and autism spectrum disorders	ACSL4	27600
+Ataxia-telangiectasia	ATM	13200
+Sengers syndrome, congenital cataract and hypertrophic cardiomyopathies	ABHD12	24000
+ACMG recommended genes	ACTA2	12000
+Neurological disorder	AAAS	14400
+Liver cirrhosis and hepatosplenomegaly	ABCA1	10800
+Lowe syndrome	OCRL	27600
+Neurological disorders	AAAS	14400
+Hereditary neurological cancer and inherited cancer syndrome predisposition test	WT1	13200
+Hereditary neurological cancer and inherited cancer syndrome predisposition test	ALK	2400
+Skeletal dysplasias and hydrops fetalis	ABCC6	19200
+Stargardt diseas	ABCA4	1200
+Skeletal dysplasias and hydrops fetalis	ABCC6	19200
+Neurocognitive disorders and hypothyroidism	AARS2	7200
+Neurocognitive disorders	AARS2	7200
+Stargardt disease	ABCA4	1200
+Mowat-Wilson syndrome	ZEB2	2400
+Osteopetrosis	CA2	9600
+Bardet-Biedl syndrome	ARL6	3600
+Rickets and skeletal dysplasia	ABCC6	19200
+Hyperoxaluria_CE	AGXT	2400
+Enlarged vestibular aqueduct	FOXI1	6000
+Hereditary breast cancer predisposition test	ATM	13200
+Hereditary fructose intolerance and glycogen storage diseases	AGL	1200
+Prostrate cancer and ACMG cardio genes_CE	ACTA2	12000
+Hemophilia and muscular dystrophies	ANO5	13200
+Swyer syndrome, ovarian dysgenesis and deafness	ACTG1	20400
+&nbsp;Hereditary breast, ovarian, gynecological, nervous system cancers and inherited cancer syndrome predisposition test	ALK	2400
+Epileptic encephalopathy	AARS	19200
+Marfan syndrome	FBN1	18000
+Diamond-Blackfan syndrome	GATA1	27600
+Neurological disorders	AAAS	14400
+Hyperoxaluria	AGXT	2400
+Hereditary breast, ovarian and renal cancer predisposition test	ATM	13200
+Bardet-Biedl syndrome-differential diagnosis	AHI1	7200
+Bronchiectasis and respiratory tract infections	ACP5	22800
+Inborn errors of metabolism, primary immunodeficiency and related disorders	ABCB11	2400
+Congenital myopathy&nbsp;	ACTA1	1200
+Multiple acyl CoA dehydrogenase deficiency	ETFA	18000
+Mucolipidosis	GNPTAB	14400
+Splastic paraplegia associated ataxia	KIF1A	2400
+Congenital myopathy	ACTA1	1200
+Primary immunodeficiency and related disorders	ACP5	22800
+All neuromuscular disorders	AAAS	14400
+Spastic Paraplegia	ABCD1	27600
+NPHS2 related focal segmental glomerulosclerosis	NPHS2	1200
+Nephrotic syndrome and focal segmental glomerulosclerosis	ACTN4	22800
+Nephrotic syndrome and focal segmental glomerulosclerosis	ALG1	19200
+Hereditary breast, ovarian and gynecological cancer predisposition test	ATM	13200
+Tay-Sachs disease	HEXA	18000
+Phenylketonuria	PAH	14400
+Inborn errors of metabolism and CFTR related disorders	ABCB11	2400
+NPHS2-related focal segmental glomerulosclerosis	NPHS2	1200
+Inborn errors of metabolism, primary immunodeficiency and CFTR related disorders	ABCB11	2400
+Marfan syndrome	FBN1	18000
+Joubert syndrome	AHI1	7200
+Hereditary prostate cancer predisposition test	ATM	13200
+Inborn errors of metabolism, primary immunodeficiency and CFTR-related disorders	ABCB11	2400
+Molybdenum cofactor deficiency	GPHN	16800
+Leukodystrophies and molybdenum cofactor deficiency	AARS2	7200
+Ataxia	ABCB7	27600
+Choroideremia	CHM	27600
+Retinitis pigmentosa	ABCA4	1200
+Glutaric acidemia type I	GCDH	22800
+Hereditary breast cancer, ovarian cancer, gynecolgical cancer and inherited cancer syndrome predisposition test	APC	6000
+Hereditary gastrointestinal and endocrine cancer predisposition test	AIP	13200
+Hypertrophic cardiomyopathy	ACE	20400
+Cone-rod dystrophy	ABCA4	1200
+Hypophosphatemic rickets	ABCC6	19200
+Methylmalonic acidemia	ABCD4	16800
+Severe congenital neutropenias	ELANE	22800
+Cleidocranial dysplasia	FIG4	7200
+Very long-chain acyl-CoA dehydrogenase deficiency	ACADVL	20400
+Spastic paraplegia	ABCD1	27600
+Hereditary breast, ovarian and endocrine cancer predisposition test	AIP	13200
+Wolman disease and glycogen storage diseases&nbsp;	AGL	1200
+Osteopetrosis	AMER1	27600
+Familial exudative vitreoretinopathy_CE&nbsp;	LRP5	13200
+Medium chain acyl dehydrogenase deficiency and nephrotic syndrome	ACADM	1200
+Epilepsy and microcephaly	AARS	19200
+Barakat syndrome and nephrotic syndrome	ACTN4	22800
+Brugada syndrome	CACNA1C	14400
+Retinoschisis	NR2E3	18000
+Alport syndrome	COL4A3	2400
+Addison's disease	AAAS	14400
+Alacrima	AAAS	14400
+Osteogenesis imperfecta	BMP1	9600
+Krabbe disease, Tay-Sachs disease and hyperekplexia	ASNS	8400
+Hereditary breast, ovarian, gastrointestinal, endocrine cancer and inherited cancer syndrome predisposition test	AIP	13200
+Hereditary breast, ovarian, gynecolgical, endocrine cancer and inherited cancer syndrome predisposition test	AIP	13200
+Lissencephaly and microcephaly	ACTB	8400
+Microphthalmia	ABCB6	2400
+Oculofaciocardiodental syndrome	BCOR	27600
+Androgen insensitivity syndrome	AR	27600
+Familial exudative vitreoretinopathy	LRP5	13200
+Sjogren-Larsson syndrome	ALDH3A2	20400
+Polycystic kidney disease	PKHD1	7200
+Congenital disorder of glycosylation	ALG1	19200
+Congenital disorders of glycosylation, muscular dystrophies and congenital myopathies	ACTA1	1200
+Hereditary breast, ovarian, gynocological, gastrointestinal, endocrine, nervous system cancers and cancer syndrome predisposition test	AIP	13200
+Ataxia	ABCB7	27600
+Neuronal ceroid lipofuscinosis and ataxia	ABCB7	27600
+Epidermolysis bullosa	BFSP2	3600
+Alternating hemiplegia of childhood	ATP1A2	1200
+Inborn errors of metabolism	ABCB11	2400
+Microcephaly	ADAR	1200
+Alpers-Huttenlocher syndrome	POLG	18000
+Nijmegen breakage syndrome	NBN	9600
+Deafness and organic acidemias	ABCD4	16800
+Hereditary breast, ovarian, gynecolgical, gastrointestinal, endocrine cancer and inherited cancer syndrome predisposition test	AIP	13200
+Hereditary breast, ovarian, gynecolgical, gastrointesinal, endocrine cancer, melanoma and inherited cancer syndrome predisposition test	AIP	13200
+Neurotransmitter disorders	ABAT	19200
+Congenital myasthenic syndrome	AGRN	1200
+Wolman disease, glycogen storage diseases and hereditary fructose intolerance	AGL	1200
+Microphthalmia and congenital cataract	ABCB6	2400
+Ornithine transcarbamylase deficiency	OTC	27600
+Hereditary breast, ovarian, gynecological, gastrointestinal, endocrine, nervous system cancers and cancer syndrome predisposition test	AIP	13200
+Microphthalmia and cataract	ABCB6	2400
+Hereditary endocrine, gynecolgical, gastrointestinal cancer and inherited cancer syndrome predisposition test	AIP	13200
+Hereditary breast, ovarian and nervous system cancer predisposition test	ALK	2400
+Hereditary breast cancer, ovarian cancer, gynecological cancer and inherited cancer syndrome predisposition test	APC	6000
+Hereditary breast, ovarian, gynecological, gastrointestinal, endocrine cancer and inherited cancer syndrome predisposition test	AIP	13200
+Hereditary breast, ovarian, gynecological, gastrointestinal, endocrine cancer, melanoma and inherited cancer syndrome predisposition test	AIP	13200
+Hereditary gastrointestinal cancer, skin cancer and inherited cancer syndrome predisposition test	APC	6000
+Fatty acid oxidation defects	ACADL	2400
+Neuropathies	AAAS	14400
+Hereditary breast, ovarian, gastrointestinal cancer and inherited cancer syndrome predisposition test	APC	6000
+Congenital myasthenic syndrome	ALG2	10800
+Epileptic encephalopathy	AARS	19200
+Bartter syndrome	BSND	1200
+Deafness	ACTG1	20400
+Microcephalic osteodysplastic dwarfism II	PCNT	25200
+Seckel syndrome and microcephalic osteodysplastic dwarfism II	ASPM	1200
+Steatosis	ABHD5	3600
+Charcot-Marie-Tooth disease	AARS	19200
+Microcephaly, epilepsy and spastic paraplegia	AARS	19200
+GLUT1 deficiency syndrome and epileptic encephalopathy	AARS	19200
+Epilepsy and inborn errors of metabolism	AANAT	20400
+Congenital myasthenic syndrome	ALG2	10800
+Ciliary dyskinesia	CCDC40	20400
+Ciliary dyskinesia, primary immunodeficiency and related disorders	ACP5	22800
+Chromosomal breakage syndrome	ATM	13200
+CCDC40-related ciliary dyskinesia&nbsp;	CCDC40	20400
+Primary immunodeficiency and related disorders	ACP5	22800
+Primary immunodeficiency and related disorders	ACP5	22800
+Cataract	BCOR	27600
+Neuromuscular disorders	AAAS	14400
+Ataxia	ABCB7	27600
+Neurocognitive disorders	AARS2	7200
+Neurodevelopmental disorders	AARS	19200
+Neurological disorders	AAAS	14400
+Marfan syndrome and related disorders	ACTA2	12000
+Hereditary prostate and gastrointestinal cancer predisposition test	APC	6000
+Lowe syndrome	OCRL	27600
+Waardenburg syndrome	EDN3	24000
+Macular dystrophy	ABCA4	1200
+Hereditary spastic paraplegia	ABCD1	27600
+Muscular dystrophies	ANO5	13200
+3-M syndrome and muscular dystrophies	ANO5	13200
+Carbohydrate metabolism defects	AGL	1200
+Carbohydrate metabolism defects	AGL	1200
+Dystonia, dysarthria and ataxia	ABCB7	27600
+Skeletal disorders	ACP5	22800
+Hereditary breast, ovarian, nervous system and inherited cancer syndrome predisposition test	ALK	2400
+Urea cycle disorders	ARG1	7200
+Pulmonary arterial hypertension	ACVRL1	14400
+Charcot-Marie-Tooth disease and neuropathies	AAAS	14400
+Cystinuria	ARG1	7200
+Urea cycle disorders	ARG1	7200
+Polycystic kidney disease	PKD1	19200
+Microcephalic osteodysplastic primordial dwarfism type II	PCNT	25200
+Hypertrophic cardiomyopathy	AARS2	7200
+Inborn errors of metabolism	AANAT	20400
+Cockayne syndrome	ERCC6	12000
+Microcephaly and cataract	ABHD12	24000
+Seckel syndrome and microcephalic osteodysplastic primordial dwarfism type II	ASPM	1200
+Ehlers-Danlos syndrome, deafness, vitiligo and hypertriglyceridemia	ABCA1	10800
+Niemann-Pick disease	NPC1	21600
+Shwachman-Diamond syndrome	SBDS	8400
+Primary immunodeficiency and related disorders	ACP5	22800
+GM2-gangliosidosis	GM2A	6000
+Hereditary breast, ovarian, gastrointestinal and neurological cancer predisposition test	ALK	2400
+Hereditary breast, ovarian, gastrointestinal and skin cancer and inherited cancer syndrome predisposition test	APC	6000
+Hereditary gastrointestinal cancer, renal cancer and skin cancer predisposition test	APC	6000
+Oculocutaneous albinism	C10ORF11	12000
+Macular dystrophy and retinitis pigmentosa	ABCA4	1200
+Metachromatic leukodystrophy	ARSA	26400
+Joubert syndrome and related disorders	AHI1	7200
+GM1 gangliosidosis	GLB1	3600
+Inborn errors of metabolism and mitochondrial disorders	AANAT	20400
+Inborn errors of metabolism and mitochondrial disorders	AANAT	20400
+Pontocerebellar hypoplasia and arthrogryposis	CHST14	18000
+Mitochondrial disorders	AARS2	7200
+Intellectual disability	ACSL4	27600
+Leigh syndrome	ACAD9	3600
+Cataract-microcornea syndrome	ABCA3	19200
+Inborn errors of metabolism and mitochondrial disorders	AANAT	20400
+Skeletal dysplasia	ACP5	22800
+Harlequin ichthyosis	ABCA12	2400
+Neurodevelopmental and neurocognitive disorders	AARS	19200
+Long QT syndrome	AKAP9	8400
+CAP-Proficiency testing-Clinical Exome	AARS2	7200
+Neuromuscular disorders	AAAS	14400
+Neurocognitive disorders	AARS2	7200
+Inborn errors of metabolism	AANAT	20400
+Hereditary endocrine and rare cancer predisposition test	AIP	13200
+Congenital myasthenic syndrome, muscular dystrophies, congenital myopathies and neuropathies	AAAS	14400
+Skin and connective tissue related disorders	ABCA12	2400
+Hypertriglyceridemia	AGL	1200
+Congenital myasthenic syndrome, neuropathies and congenital myopathy	AAAS	14400
+Congenital bilateral absence of the vas deferens	CFTR	8400
+Leukodystrophies	AARS2	7200
+Primary immunodeficiency and related disorders	ACADS	14400
+Hereditary fructose intolerance_RD	ALDOB	10800
+Hereditary fructose intolerance	ALDOB	10800
+Striatonigral degeneration	NUP62	22800
+PTEN hamartoma tumor syndrome predisposition test	PTEN	12000
+Tay-Sachs disease	GM2A	6000
+Hereditary breast, ovarian, gynecological, gastrointestinal and endocrine cancer predisposition	AIP	13200
+Aicardi-Goutieres syndrome, methylmalonic acidemia, glutaric acidemia and mitochondrial disorders	AARS2	7200
+Hereditary gastrointestinal and rare cancers predisposition test	APC	6000
+Myotonia and congenital myopathies	ACTA1	1200
+Cholestasis	ABCB11	2400
+Brain malformations	ACTB	8400
+Hereditary spastic paraplegia and dystonia	ABCD1	27600
+Wiskott-Aldrich syndrome and hereditary hemorrhagic telangiectasia	ACVRL1	14400
+Neurocognitive disorders and ataxia	AARS2	7200
+Severe congenital neutropenias	AP3B1	6000
+Microphthalmia and microcornea	ABCA3	19200
+Cystic renal disease and skeletal disorders	ACP5	22800
+Hereditary nervous system cancer and cancer syndrome predisposition test	ALK	2400
+Thrombocytopenia and disorders of vitamin B12 deficiency	ABCD4	16800
+Glaucoma	ASB10	8400
+Glaucoma	ASB10	8400
+Amino acid and peptide metabolism	AASS	8400
+Malignant hyperthermia	CACNA1S	1200
+Cholestasis and malignant hyperthermia	ABCB11	2400
+Moyamoya disease	ACTA2	12000
+Neurometabolic disorders	A2M	14400
+Gaucher disease, CDG, GSD, HLH, CF and nephrotic syndrome	ACP5	22800
+Cardiomyopathies	ABCC9	14400
+Lowe syndrome and related disorders	ACTA1	1200
+Ataxia and related disorders	ABCB7	27600
+Aarskog-Scott syndrome	FGD1	27600
+Arthrogryposis	CHST14	18000
+Inborn errors of metabolism and cardiac disorders	AANAT	20400
+Wilson disease	ATP7B	15600
+Kabuki syndrome	KDM6A	27600
+Microcephaly and intellectual disability	ACSL4	27600
+Cerebellar hypoplasia, microcephaly and epilepsy	AARS	19200
+Renal tubular acidosis and microcephaly	ADAR	1200
+Organic acidemias	ABCD4	16800
+Neonatal diabetes mellitus	ABCC8	13200
+Crigler-Najjar syndrome	UGT1A1	2400
+WAS, HHT, and primary immunodeficiency and related disorders	ACP5	22800
+Renal aplasia	CHD7	9600
+Caudal regression syndrome.	FUZ	22800
+Microcephaly_CE	ADAR	1200
+Enterokinase deficiency, hypothyroidism and other related disorders	ACP5	22800
+Microcephaly	ADAR	1200
+Cystic hygroma	BRAF	8400
+Polyhydramnios	ACTA1	1200
+Oligohydramnios	ACE	20400
+Neurocognitive disorders	AARS2	7200
+Enterokinase deficiency, hypothyroidism and other disorders	ACP5	22800
+Angelman syndrome	UBE3A	18000
+Adrenal hyperplasia and pseudohypoaldosteronism	CYP11A1	18000
+Pitt-Hopkins syndrome	CNTNAP2	8400
+Nephrotic syndrome and focal segmental glomerulosclerosis	ACTN4	22800
+Joubert syndrome	AHI1	7200
+Ectodermal dysplasia and trichodontoosseous syndrome	AXIN2	20400
+Neurodevelopmental and neurocognitive disorders	AARS	19200
+Nephrotic syndrome and focal segmental glomerulosclerosis	ACTN4	22800
+Maple syrup urine disease	BCKDHA	22800
+Cystic renal disease and pulmonary arterial hypertension	ACVRL1	14400
+Hyperbilirubinemia	ABCB11	2400
+Cystic renal disease, skeletal disorders and cardiac disorders	A2M	14400
+Cerebellar hypoplasia	AHI1	7200
+Renal aplasia and caudal regression syndrome	CHD7	9600
+Krabbe disease	GALC	16800
+Epilepsy and neurometabolic disorders	A2M	14400
+Dyskeratosis congenita	CTC1	20400
+Spinal muscular atrophy	ASAH1	9600
+Microcephaly, autism spectrum disorders and intellectual disability	ACSL4	27600
+Hereditary gynecological and gastrointestinal cancer predisposition test	APC	6000
+Hereditary breast, ovarian, gastrointestinal and rare cancer predisposition test	APC	6000
+Cone-rod dystrophy	ABCA4	1200
+Ectodermal dysplasia	AXIN2	20400
+Hereditary breast, ovarian, gynecological and gastrointestinal cancer predisposition test	APC	6000
+Ataxia	ABCB7	27600
+Combined immunodeficiencies	ACP5	22800
+Hereditary cancer predisposition test (ACMG genes)	APC	6000
+Hereditary spastic paraplegia, epilepsy and neurometabolic disorders	A2M	14400
+Holoprosencephaly	AMER1	27600
+Tyrosinemia and hepatosplenomegaly	ABCA1	10800
+Angelman syndrome, Rett syndrome and Mowat-Wilson syndrome	MECP2	27600
+Cholestasis	ABCB11	2400
+Floating-Harbor syndrome and microcephalic osteodysplastic dwarfism II	PCNT	25200
+Sulfite oxidase deficiency	SUOX	14400
+Brain malformations and neuronal ceroid lipofuscinosis	ACTB	8400
+Autism spectrum disorders	ADNP	24000
+Lysosomal storage disorders	ABCD4	16800
+Rod-cone dystrophy	BEST1	13200
+Cone-rod dystrophy	ABCA4	1200
+Cardiac disorders	ABCB1	8400
+Hereditary ataxia telangiectasia predisposition test	ATM	13200
+Glaucoma	ACVR1	2400
+Alström syndrome	ALMS1	2400
+Ellis-van Creveld syndrome	EVC	4800
+Disorders of amino acid and peptide metabolism	AASS	8400
+Muscular dystrophies and mitochondrial DNA depletion syndrome 2, myopathic type	ANO5	13200
+Retinitis pigmentosa	ABCA4	1200
+CFTR gene-related disorders	CFTR	8400
+Kidney disorders	ABCG2	4800
+Osteogenesis imperfecta	ANO5	13200
+Griscelli syndrome	MLPH	2400
+Autism spectrum disorders and neuropathies	AAAS	14400
+Ectodermal dysplasia	AXIN2	20400
+Infantile neuroaxonal dystrophy	PLA2G6	26400
+Catecholaminergic polymorphic ventricular tachycardia and long QT syndrome	AKAP9	8400
+Neurodevelopmental disorders and dystonia	AARS	19200
+Microcephaly, cataract, dystonia and hypomyelinating disorders	ABHD12	24000
+Neurodevelopmental disorders and rickets	AARS	19200
+Hereditary gastrointestinal cancer, endocrine cancer and cancer syndrome predisposition test	AIP	13200
+von Hippel-Lindau syndrome predisposition test	VHL	3600
+Hereditary tuberous sclerosis test	TSC1	10800
+Epilepsy and neuropathies	AAAS	14400
+Macrocephaly, hypomyelinating disorders and glutaric acidemia	ABCC9	14400
+Cerebral atrophies	AARS	19200
+Hereditary renal cancer and inherited cancer syndrome predisposition test	APC	6000
+Hereditary breast, ovarian, gynecological and gastrointestinal cancer predisposition test_without STK11	APC	6000
+Aicardi-Goutieres syndrome	ADAR	1200
+Hereditary breast, ovarian and gastrointestinal cancer predisposition test	APC	6000
+Allan-Herndon-Dudley syndrome	SLC16A2	27600
+Hereditary Birt-Hogg-Dubé syndrome predisposition test	FLCN	20400
+Infantile neuroaxonal dystrophy	PLA2G6	26400
+Achondroplasia	FGFR3	4800
+Osteolysis related disorders	ANTXR2	4800
+Cone dystrophy	CACNA2D4	14400
+Cone dystrophy	CACNA2D4	14400
+Ataxia, epilepsy and cerebral atrophies	AARS	19200
+Neurotransmitter disorders	AANAT	20400
+Osteomyelitis	IL1RN	2400
+Pelizaeus-Merzbacher disease	PLP1	27600
+AAA syndrome	AAAS	14400
+Chondrodysplasia punctata and related disorders	AGPS	2400
+Ectodermal dysplasia and primary ciliary dyskinesia	AXIN2	20400
+Tuberous sclerosis	TSC1	10800
+Hydrocephaly	AKT3	1200
+Birt-Hogg-Dubé syndrome predisposition test	FLCN	20400
+Neurometabolic disorders	AANAT	20400
+Glycogen storage diseases	AGL	1200
+Pfeiffer syndrome	FGFR1	9600
+Hereditary colorectal cancer predisposition test	APC	6000
+Hereditary prostate cancer predisposition test	ATM	13200
+Hereditary nervous system cancer predisposition test	ALK	2400
+X-linked chondrodysplasia punctata	ARSE	27600
+Hereditary multiple exostoses predisposition test	EXT1	9600
+Floating-Harbor syndrome	SRCAP	19200
+Cyclic neutropenia and common variable immune deficiency	CD19	19200
+Hereditary breast, ovarian, prostate and nervous system cancer predisposition	ALK	2400
+Hereditary cancer predisposition test	APC	6000
+Ataxia and epilepsy	AARS	19200
+Noncirrhotic portal hypertension and skeletal disorders	ACP5	22800
+Hereditary prostate, colorectal and endocrine cancer predisposition test	AIP	13200
+Abetalipoproteinemia	ANGPTL3	1200
+Cone dystrophy	ATF6	1200
+Hereditary prostate, endocrine and nervous system cancer predisposition test	AIP	13200
+Spondyloepiphyseal dysplasia congenita	COL2A1	14400
+Bloom syndrome and Fanconi anemia	BLM	18000
+I-cell disease	GNPTAB	14400
+Acrodysostosis	PDE4D	6000
+Polycystic kidney disease and tuberous sclerosis	PKD1	19200
+Beckwith-Wiedemann syndrome	IGF2	13200
+Hereditary breast, ovarian, renal and nervous system cancer predisposition test	ALK	2400
+Epilepsy_CE	AARS	19200
+GLUT1 deficiency syndrome and pyruvate dehydrogenase deficiency	DLAT	13200
+Biotinidase deficiency and holocarboxylase synthetase deficiency	BTD	3600
+Hereditary breast, ovarian, prostate and nervous system cancer predisposition test	ALK	2400
+Hereditary breast, ovarian and colorectal cancer predisposition test	APC	6000
+Hydrocephalus	AKT3	1200
+Endocrine cancer and hereditary cancer predisposition test	AIP	13200
+Congenital heart defects and related disorders	ABCC9	14400
+Propionic acidemia	PCCA	15600
+Cardiac and related disorders	A2M	14400
+Hereditary breast, ovarian and endocrine cancer predisposition test	AIP	13200
+Intellectual disability	ACSL4	27600
+Immunodeficiencies and primary ciliary dyskinesia	ACP5	22800
+Neurological disorders	AAAS	14400
+Microcephaly	ADAR	1200
+ACMG-Genelist	ACTA2	12000
+Disorders of sterol metabolism	ABCB11	2400
+Osteogenesis imperfecta	ANO5	13200
+Skeletal disorders	ACP5	22800
+Sudden cardiac death	ACADVL	20400
+Osteogenesis imperfecta and neuropathies	AAAS	14400
+Macrocephaly	ABCC9	14400
+Hereditary breast, ovarian and cancer syndrome predisposition test	APC	6000
+Disorders of fatty acid and energy metabolism	ACACA	20400
+Mitochondrial myopathy	AARS2	7200
+Joubert syndrome and mitochondrial disorders	AARS2	7200
+Sotos syndrome, congenital myopathy, fragile X syndrome, Marfan syndrome and related disorders	ACTA1	1200
+&nbsp;Periodic paralysis	CACNA1S	1200
+Hereditary colorectal and endocrine cancer predisposition test	AIP	13200
+Hereditary colorectal, endocrine and nervous system cancer predisposition test	AIP	13200
+Skeletal disorders and overgrowth syndromes	ACP5	22800
+Hereditary breast and ovarian cancer and hereditary cancer predisposition test	APC	6000
+21-hydroxylase deficiency	CYP21A2	7200
+Rabson-Mendenhall syndrome	INSR	22800
+Spinal muscular atrophy	ASAH1	9600
+Neuronal ceroid lipofuscinosis and epilepsy	AARS	19200
+Niemann-Pick disease and pyridoxine dependent epilepsy	ALDH7A1	6000
+Hereditary gynecological and hereditary cancer predisposition test	APC	6000
+Hereditary breast and ovarian, colorectal, renal, nervous system cancer and other hereditary cancer predisposition test	ALK	2400
+Inborn errors of metablosim	AANAT	20400
+Inborn errors of metabolism	AANAT	20400
+Dystonia	ACTB	8400
+Cardiac disorders	ABCA1	10800
+Epilepsy	AARS	19200
+Inborn errors of metablosim and cardiac disorders	AANAT	20400
+Inborn errors of metablosim and cardiac disorders	AANAT	20400
+Retinitis pigmentosa and cone dystrophy	ABCA4	1200
+Brugada syndrome and long QT syndrome	AKAP9	8400
+Susceptibility to acute infection-induced encephalopathy	CPT2	1200
+Retinitis pigmentosa and cone dystrophy	ABCA4	1200
+Epileptic encephalopathy and dystonia	AARS	19200
+Retinitis pigmentosa	ABCA4	1200
+Retinitis pigmentosa	ABCA4	1200
+Holoprosencephaly and hypothyroidism	ACP5	22800
+Inborn errors of metabolism	AANAT	20400
+Complex dystonia	ARSA	26400
+Long QT syndrome and cardiac arrhythmias	ABCC9	14400
+Cardiac arrhythmias and related disorders	ABCC9	14400
+Hyperparathyroidism-jaw tumor syndrome predisposition test	CDC73	1200
+Epilepsy and susceptibility to acute infection-induced encephalopathy	AARS	19200
+Otospondylomegaepiphyseal dysplasia	COL11A2	7200
+Disorders of carbohydrate metabolism	AGL	1200
+Hereditary colorectal, endocrine, renal cancer and von Hippel-Lindau syndrome predisposition test	AIP	13200
+Neurological disorders	AAAS	14400
+Megalencephalic leukoencephalopathy with subcortical cysts, Canavan disease and Alexander disease	ASPA	20400
+Van der Knaap disease, Canavan disease and Alexander disease	ASPA	20400
+Pantothenate kinase-associated neurodegeneration	PANK2	24000
+Epilepsy	AARS	19200
+Ataxia and epilepsy	AARS	19200
+Hereditary breast, ovarian, gynecological and nervous system cancer predisposition test	ALK	2400
+Ataxia and epilepsy	AARS	19200
+Epilepsy, hydrocephalus and susceptibility to acute infection-induced encephalopathy	AARS	19200
+Neuronal ceroid lipofuscinosis and epilepsy	AARS	19200
+Dravet syndrome	GABRA1	6000
+Neurological disorders and mitochondrial disorders	AAAS	14400
+CADASIL	NOTCH3	22800
+CADASIL	HTRA1	12000
+Merosin deficient congenital muscular dystrophy	LAMA2	7200
+Myoclonic epilepsy	ADRA2B	2400
+Breast, ovarian and hereditary cancer predisposition test	APC	6000
+Hereditary breast, ovarian, gynecological and hereditary cancer predisposition test	APC	6000
+<i>GNE</i>- related hereditary inclusion body myopathy	GNE	10800
+Neurodevelopmental and neurocognitive disorders	AARS	19200
+Osteogenesis imperfecta and spondylocostal dysostosis	ANO5	13200
+Neurodevelopmental and neuromuscular disorders	AAAS	14400
+Meckel-Gruber syndrome	B9D1	20400
+Cockayne syndrome and xeroderma pigmentosa	DDB2	13200
+Neuromuscular disorders	AAAS	14400
+Neuropathies	AAAS	14400
+Usher syndrome	ABHD12	24000
+Hereditary spastic paraplegia and encephalopathy	AARS	19200
+Larsen syndrome, hereditary spastic paraplegia and lysosomal storage disorders	ABCD1	27600
+Focal segmental glomerulosclerosis, mitochondrial respiratory chain disorders and neuropathies	AAAS	14400
+Leukodystrophies	AARS2	7200
+Canavan disease and Pelizaeus-Merzbacher disease	ASPA	20400
+Dummy_ACMG_test_list	ACTA2	12000
+Arthrogryposis	ADCY6	14400
+Hydrops fetalis	ALG1	19200
+Hereditary rare cancer predisposition test	GPC3	27600
+Hereditary breast, ovarian, gynecological and colorectal cancer predisposition test	APC	6000
+Neuronal ceroid lipofuscinosis	ATP13A2	1200
+Floating-Harbor syndrome and Rubinstein-Taybi syndrome	CREBBP	19200
+Polycystic kidney disease, nephrotic syndrome and focal segmental glomerulosclerosis	ACTN4	22800
+Polycystic kidney disease, nephrotic syndrome and focal segmental glomerulosclerosis	ACTN4	22800
+Mitochondrial disorders and epilepsy	AARS	19200
+Hereditary rare cancer predisposition test	BRCA2	15600
+Hereditary rare cancer predisposition test	BRCA2	15600
+Neuronal ceroid lipofuscinosis	ATP13A2	1200
+Ophthalmo-acromelic syndrome	SMOC1	16800
+Skeletal dysplasia	ACP5	22800
+Skeletal dysplasia	ACP5	22800
+Epidermolysis bullosa	BFSP2	3600
+Epilepsy and mitochondrial disorders	AARS	19200
+Wilson disease, organic acidemias, glycogen storage diseases and neurodegeneration with brain iron accumulation	ABCD4	16800
+<i>GNE</i>-related myopathy	GNE	10800
+Hereditary prostate and colorectal cancer predisposition test	APC	6000
+Dermatologic disorders	ABCA12	2400
+Dermatologic disorders	ABCA12	2400
+Anophthalmia and microphthalmia	ABCB6	2400
+Nephrotic syndrome	ALG1	19200
+Dihydropyrimidine dehydrogenase deficiency	DPYD	1200
+Polycystic kidney disease, nephrotic syndrome and focal segmental glomerulosclerosis	ACTN4	22800
+Hereditary rare cancer predisposition test	BRCA2	15600
+PKD, FSGS and nephrotic syndrome	ACTN4	22800
+Amyotrophic lateral sclerosis	ALS2	2400
+Xeroderma pigmentosum	DDB2	13200
+Epilepsy	AARS	19200
+Pigmentation disorders and disorders of hair and nail	ABCB6	2400
+Ataxia and epilepsy	AARS	19200
+Omenn syndrome	DCLRE1C	12000
+MODY	ABCC8	13200
+Epilepsy	AARS	19200
+Bad obstetric history	ABCA12	2400
+Immunodeficiencies and primary ciliary dyskinesia	ACP5	22800
+Epilepsy, microcephaly and lactic acidemia	AARS	19200
+Immunodeficiencies and Krabbe disease	ACP5	22800
+Hypomyelinating disorders	AIMP1	4800
+Autism spectrum disorders, hereditary spastic paraplegia and epilepsy	AARS	19200
+Brain malformations and immunodeficiencies	ACP5	22800
+Familial Mediterranean fever and hyper-IgD syndrome	MEFV	19200
+Fibrodysplasia ossificans progressiva	ACVR1	2400
+Hereditary breast and colorectal cancer predisposition test	APC	6000
+Disorders of skin pigmentation, hair and nail	ABCB6	2400
+Immunodeficiencies	ACP5	22800
+Immunodeficiencies	ACP5	22800
+&nbsp;Disorders of hair, nail and skin pigmentation	ABCB6	2400
+Epilepsy and brain malformations	AARS	19200
+Immunodeficiencies and primary ciliary dyskinesia	ACP5	22800
+Hereditary breast and ovarian cancer predisposition test	ATM	13200
+Hereditary breast, ovarian and colorectal cancer predisposition test	APC	6000
+Epileptic encephalopathy	AARS	19200
+Spinocerebellar ataxia	ABCB7	27600
+Tetrahydrobiopterin deficiency	GCH1	16800
+Epidermolysis bullosa	CD151	13200
+Fanconi anemia	BRCA2	15600
+Dystrophin related dystrophy	DMD	27600
+Ataxia	ABCB7	27600
+Microphthalmia, optic atrophy, skeletal disorders, ichthyosis and neurological disorders	AAAS	14400
+Microcephaly, organic acidemias and kidney disorders	ABCD4	16800
+Hereditary breast, ovarian and gynecological cancer predisposition test	ATM	13200
+Brachytelephalangic chondrodysplasia punctata	ARSE	27600
+Atypical hemolytic uremic syndrome	C3	22800
+Hereditary breast, ovarian, colorectal and nervous system cancer predisposition test	ALK	2400
+Lymphedema, osteopetrosis and ectodermal dysplasia	AMER1	27600
+Hereditary spastic paraplegia, mitochondrial disorders and epilepsy	AARS	19200
+Hereditary breast, ovarian and hereditary cancer predisposition test	APC	6000
+Neurodevelopmental and neuromuscular disorders	AAAS	14400
+Brugada syndrome	CACNA1C	14400
+West syndrome	ADSL	26400
+Cystinosis	CTNS	20400
+Ataxia	ABCB7	27600
+Nephrotic syndrome	COQ2	4800
+Glycogen storage diseases and fatty acid oxidation defects	ACACA	20400
+Inborn errors of metabolism, microcephaly, hereditary spastic paraplegia and brain malformations	AANAT	20400
+Epileptic encephalopathy	AARS	19200
+Argininosuccinic aciduria	ASL	8400
+Gaucher disease and Niemann-Pick disease	GBA	1200
+Skeletal disorders	ACP5	22800
+Neuromuscular disorders	AAAS	14400
+Duchenne muscular dystrophy	DMD	27600
+Primary hyperoxaluria, hypomagnesemia and retinitis pigmentosa.	ABCA4	1200
+Glycogen storage diseases and <i>FBP1 </i>deficiency	AGL	1200
+Epileptic encephalopathy	AARS	19200
+Nephrological disorders	ABCG2	4800
+Multiple epiphyseal dysplasia	COL2A1	14400
+Hereditary cancer predisposition test	AIP	13200
+Hyperelasticity	ADAMTS2	6000
+Alport syndrome	COL4A3	2400
+Arthrogryposis and cardiomyopathies	ABCC9	14400
+Hereditary motor and sensory neuropathy	AARS	19200
+Arthrogryposis, hydrocephalus and congenital heart defects	ABCC9	14400
+Osteogenesis imperfecta and decreased bone density	ALPL	1200
+Disorders of amino acid and peptide metabolism	AASS	8400
+Muscle-eye-brain disease	B3GNT1	13200
+Krabbe disease	GALC	16800
+Neurodevelopmental disorders	AARS	19200
+Skeletal dysplasia	ACP5	22800
+Stickler syndrome and primordial dwarfism	ASPM	1200
+Neurological disorders	AAAS	14400
+Inborn errors of metabolism	AANAT	20400
+Spinocerebellar ataxia	ADCK3	1200
+Primary hyperoxaluria	AGXT	2400
+Hereditary spastic paraplegia, epilepsy and mitochondrial disorders	AARS	19200
+Hereditary skin cancer and hereditary cancer predisposition test	APC	6000
+STRAN-6012	AAAS	14400
+Long QT syndrome	AKAP9	8400
+Thrombotic thrombocytopenic purpura	ADAMTS13	10800
+Hereditary breast, ovarian, endocrine and nervous system cancer predisposition test.	AIP	13200
+Neurocognitive disorders and hypothyroidism	AARS2	7200
+Pigmentation disorders	ABCB6	2400
+Intellectual disability	ACSL4	27600
+Hereditary breast, ovarian, gynecological and colorectal cancer predisposition test	APC	6000
+Hereditary cancer and skin cancer predisposition test	APC	6000
+Dermatologic disorders	ABCA12	2400
+Cerebral palsy, neurocognitive disorders and hypothyroidism	AARS2	7200
+Mucopolysaccharidosis	ARSB	6000
+Seckel syndrome	ASPM	1200
+Hereditary breast, ovarian, gynecological, colorectal and nervous system cancer predisposition test	ALK	2400
+ASD and ID	ACSL4	27600
+Crouzon syndrome	FGFR2	12000
+Disorders of lipid and lipoprotein metabolism	ABCA1	10800
+Saethre-Chotzen syndrome	FGFR2	12000
+Mitochondrial disorders, epileptic encephalopathy, autism and intellectual disability	AARS	19200
+Tetralogy of fallots and kidney disorders	ABCG2	4800
+Severe combined immunodeficiency	ADA	24000
+Hereditary fructose intolerance and glycogen storage diseases	AGL	1200
+Lissencephaly	ACTB	8400
+Combined immunodeficiency	ACP5	22800
+Glutaric acidemia	C7ORF10	8400
+X-linked severe combined immunodeficiency	IL2RG	27600
+Lymphedema	CCBE1	21600
+Cardiac arrhythmias	ABCC9	14400
+Cardiac disorders	ABCB1	8400
+Yunis-Varon syndrome	FIG4	7200
+Mitochondrial disorders and epilepsy	AARS	19200
+Holoprosencephaly, hypothyroidism and microcephaly	ACP5	22800
+Dyskeratosis congenita	CTC1	20400
+Focal segmental glomerulosclerosis	ACTN4	22800
+Skeletal dysplasia_CE	ACP5	22800
+Xeroderma pigmentosa predisposition test	DDB2	13200
+Lymphedema	CCBE1	21600
+Hereditary breast and colorectal cancer predisposition test	APC	6000
+Combined immunodeficiencies	ACP5	22800
+Hereditary motor and sensory neuropathy	AARS	19200
+Skeletal dysplasia	ACP5	22800
+Skeletal dysplasia	ACP5	22800
+Hereditary motor and sensory neuropathy	AARS	19200
+Microcephaly, organic acidemias and nephrological disorders	ABCD4	16800
+Nephrological disorders and tetralogy of fallot	ABCG2	4800
+<i>LIFR</i>-related skeletal dysplasia	LIFR	6000
+Stüve-Wiedemann syndrome	LIFR	6000
+Stuve-Wiedemann Syndrome	LIFR	6000
+Stuve-Wiedemann syndrome	LIFR	6000
+Stuve-Wiedemann syndrome	LIFR	6000
+Familial hemophagocytic lymphohistiocytosis syndromes	AP3B1	6000
+Severe combined immunodeficiency	ADA	24000
+Craniosynostosis	ALX4	13200
+Mitochondrial disorders, epileptic encephalopathy, microcephaly, autism and intellectual disability	AARS	19200
+Nephrotic syndrome	COQ2	4800
+Leber congenital amaurosis	AIPL1	20400
+Neurological disorders	AAAS	14400
+Craniosynostosis	ALX4	13200
+Hereditary gynecological cancer predisposition test	BRCA1	20400
+Hereditary breast, ovarian, colorectal and renal cancer predisposition test	APC	6000
+Birt-Hogg-Dube Syndrome and Tuberous Sclerosis predisposition test	FLCN	20400
+Familial hemophagocytic lymphohistiocytosis syndromes	AP3B1	6000
+<i>NPHS1</i>-related nephrotic syndrome	NPHS1	22800
+Tyrosinemia and progressive familial intrahepatic cholestasis	ABCB11	2400
+Eye disorders	ABCA4	1200
+Inborn errors of metabolism and neurodevelopmental disorders	AAAS	14400
+Skeletal disorders and neurodevelopmental disorders	AARS	19200
+Saethre-Chotzen syndrome	FGFR2	12000
+Congenital myopathy	ACADS	14400
+Hemochromatosis and cholestasis	ABCB11	2400
+Axonal neuropathy	CD59	13200
+Robinow syndrome	ROR2	10800
+Bardet-Biedl syndrome	ARL6	3600
+Neuronal ceroid lipofuscinosis	ATP13A2	1200
+Limb girdle muscular dystrophy	ANO5	13200
+Epilepsy	AARS	19200
+Epilepsy	AARS	19200
+Harmatoneoplastic syndromes	AKT1	16800
+Ectodermal dysplasia	ANTXR1	2400
+Neurocognitive disorders	AARS2	7200
+Hyperoxaluria and renal tubular acidosis	AGXT	2400
+Intellectual disability	ACSL4	27600
+Hereditary breast and prostate cancer predisposition test	ATM	13200
+Hemophagocytic lymphohistiocytosis	AP3B1	6000
+Autism spectrum disorders	ADNP	24000
+Short-rib thoracic dysplasia and related disorders	DYNC2H1	13200
+Chediak-Higashi syndrome	LYST	1200
+Skeletal disorders	ACP5	22800
+Gaucher disease and Sandhoff disease	GBA	1200
+&nbsp;Lysosomal storage disorders	AGA	4800
+GALC deficiency	GALC	16800
+Pancreatitis	ABCB4	8400
+Hereditary neurofibromatosis test	NF1	20400
+Hereditary breast, ovarian, colorectal and endocrine cancer predisposition test	AIP	13200
+Gaucher disease and Niemann-Pick disease	GBA	1200
+Hypertriglyceridemia	AGL	1200
+Neurodegeneration with brain iron accumulation	ATP13A2	1200
+Natural killer cell deficiency	MCM4	9600
+Ciliopathies	AHI1	7200
+Storage Disorders	ABHD5	3600
+Muscular dystrophies	ANO5	13200
+Leukodystrophies and muscular dystrophies	AARS2	7200
+Eye Disorders	ABCA4	1200
+Glycogen storage disorders	AGL	1200
+Tyrosinemia type I	FAH	18000
+Inborn errors of metabolism	AASS	8400
+Neurometabolic disorders	AANAT	20400
+Hereditary colorectal, prostate and renal cancer predisposition test	APC	6000
+Brugada syndrome	ABCC9	14400
+&nbsp;Lissencephaly	ACTB	8400
+Disorders of lipid and lipoprotein metabolism	ABCA1	10800
+Familial lipoprotein lipase deficiency	LPL	9600
+Spinocerebellar ataxia	ADCK3	1200
+Autism spectrum disorders and intellectual disability	ACSL4	27600
+Dystonia	ACTB	8400
+Kniest dysplasia	COL2A1	14400
+Neuromuscular disorders	AAAS	14400
+Brachydactyly	BMP2	24000
+Birt-Hogg-Dube syndrome and tuberous sclerosis test	FLCN	20400
+Progeria and cutis laxa	ALDH18A1	12000
+Steroid resistant nephrotic syndrome	ACTN4	22800
+Fanconi anemia and dyskeratosis congenita	BRCA2	15600
+Congenital disorders of glycosylation and ataxia	ABCB7	27600
+Lymphedema and rickets	ABCC6	19200
+Neuromuscular disorders and leukodystrophies	AARS	19200
+Neurometabolic disorders, mitochondrial disorders and epilepsy	AANAT	20400
+Neuropathies	AARS	19200
+Gaucher disease, Sandhoff disease and thrombocytopenia	ANKRD26	12000
+Hereditary breast, ovarian, gynecological and renal cancer predisposition test	ATM	13200
+Hemochromatosis, cholestasis and inborn errors of metabolism	AASS	8400
+Hereditary breast, colorectal and renal cancer predisposition test	APC	6000
+Neurodevelopmental disorders and muscular dystrophies	AARS	19200
+Neurodevelopmental disorders and muscular dystrophies	AARS	19200
+Arrhythmias	ABCC9	14400
+Inborn errors of metabolism, mitochondrial disorders and dystonia	AARS2	7200
+Primary hyperphosphatemic tumoral calcinosis	FGF23	14400
+Retinitis pigmentosa	ABCA4	1200
+Ataxia	ABCB7	27600
+Marinesco-Sjogren syndrome	SIL1	6000
+Inborn errors of metabolism, sudden cardiac death and FADD deficiency	AASS	8400
+Organic acidemias	ABCD4	16800
+Congenital heart defects	ABCC9	14400
+Neuropathies	AARS	19200
+Microcephaly	ABCD4	16800
+IL2RG and JAK3 related severe combined immunodeficiency	IL2RG	27600
+Neonatal diabetes mellitus	ABCC8	13200
+Hereditary breast, prostate and nervous system cancer predisposition test	ALK	2400
+Craniosynostosis and epilepsy	AARS	19200
+IL2RG and JAK3-related severe combined immunodeficiency	IL2RG	27600
+Disorders of amino acid and peptide metabolism	AASS	8400
+Hereditary rare cancer predisposition test	BRCA2	15600
+Hereditary breast, ovarian and endocrine cancer predisposition test	AIP	13200
+Brugada syndrome and ARVC	ABCC9	14400
+Mitochondrial disorders, congenital disorders of glycosylation and organic acidemias	AARS2	7200
+Hereditary breast, ovarian, gynecological, colorectal and endocrine cancer predisposition test_19 HBOC genes	AIP	13200
+Hereditary breast, ovarian, gynecological, colorectal and endocrine cancer predisposition test	AIP	13200
+Hereditary breast and endocrine cancer predisposition test	AIP	13200
+Microcephaly and epilepsy	AARS	19200
+Microcephaly, epilepsy and oculocutaneous albinism	AARS	19200
+Invalid genes	ABO	10800
+Hypertrophic cardiomyopathy	ACE	20400
+Charcot-Marie-Tooth disease	AARS	19200
+Amyotrophic lateral sclerosis	ALS2	2400
+Inherited bone marrow failure syndromes	BRCA2	15600
+Neurometabolic disorders and epilepsy	AANAT	20400
+Chronic granulomatous disease	CYBA	19200
+Myotonia congenita	CLCN1	8400
+Inborn errors of metabolism, mitochondrial disorders and epilepsy	AARS	19200
+Skeletal dysplasia	ACP5	22800
+Pelizaeus-Merzbacher disease, hereditary spastic paraplegia and spinocerebellar ataxia	ABCB7	27600
+Omenn syndrome, chronic granulomatous disease and severe combined immunodeficiency	ADA	24000
+Neurometabolic and mitochondrial disorders	AANAT	20400
+Skeletal disorders	ACP5	22800
+Retinal dystrophies	ABCA4	1200
+Disorders of lipid and lipoprotein metabolism and pancreatitis	ABCA1	10800
+Muscular dystrophies and myopathies	ACTA1	1200
+Aarskog-Scott syndrome and Kabuki syndrome	FGD1	27600
+Leukodystrophies	AARS2	7200
+Autism spectrum disorders	ADNP	24000
+Autism spectrum disorders	ADNP	24000
+Severe congenital neutropenias	AP3B1	6000
+Neonatal diabetes mellitus and MODY	ABCC8	13200
+Microcornea	ABCA3	19200
+Epilepsy	AARS	19200
+Maple syrup urine disease	BCKDHA	22800
+Neurometabolic disorders and epilepsy	AANAT	20400
+Leukodystrophies	AARS2	7200
+Neuropathies	AARS	19200
+Emery-Dreifuss muscular dystrophy	EMD	27600
+Disorders of amino acid and peptide metabolism and mitochondrial disorders	AARS2	7200
+Salla disease	SLC17A5	7200
+Hypomyelinating disorders	AARS	19200
+Acyl-CoA dehydrogenase deficiency	ACAD9	3600
+CHRNE-related congenital myasthenic syndrome	CHRNE	20400
+NPHS1 and NPHS2-related nephrotic syndrome	NPHS1	22800
+Thrombocytopenia	ANKRD26	12000
+Best disease	BEST1	13200
+3-Methylcrotonyl-CoA carboxylase deficiency	MCCC1	3600
+Rubinstein-Taybi syndrome and autism spectrum disorders	ADNP	24000
+5-alpha reductase deficiency	SRD5A2	2400
+Cleft lip	ACTB	8400
+Disorders of sex development and infertility	AARS2	7200
+Inborn errors of metabolism	AASS	8400
+Retinitis pigmentosa and cone-rod dystrophy	ABCA4	1200
+Autoinflammatory disorders	ADAM17	2400
+Immunodeficiencies and surfactant metabolism dysfunction	ABCA3	19200
+Skeletal disorders and cardiac disorders	ABCB1	8400
+Eye disorders	ABCA4	1200
+Cataract	ABHD12	24000
+Diamond-Blackfan anemia and Seckel syndrome	ASPM	1200
+Hereditary breast, ovarian, gynecological and endocrine cancer predisposition test	AIP	13200
+Hereditary endocrine and nervous system cancer predisposition test	AIP	13200
+Hereditary breast, ovarian, gynecological and endocrine cancer predisposition test	AIP	13200
+Brugada syndrome and ARVC	ABCC9	14400
+Hereditary retinoblastoma test	RB1	15600
+Arthrogryposis	CHRNG	2400
+Neuromuscular disorders	AARS	19200
+Eye disorders	ABCA3	19200
+Eye disorders	ABCA3	19200
+MCAD deficiency	ACAD9	3600
+Hereditary ataxia telangiectasia test	ATM	13200
+Hereditary colorectal and gynecological cancer predisposition test	APC	6000
+Hemophagocytic lymphohistiocytosis	AP3B1	6000
+Collagen related disorders	ABCC6	19200
+Mucolipidosis and skeletal disorders	ACP5	22800
+Nonketotic hyperglycinemia	AMT	3600
+Bronchiectasis and poikiloderma syndromes	ATM	13200
+Epileptic encephalopathy	AARS	19200
+Microcephaly	ABCD4	16800
+Ehlers-Danlos syndrome and epidermolysis bullosa	ADAMTS2	6000
+Progressive familial intrahepatic cholestasis	ABCB11	2400
+Cone dystrophy and retinitis pigmentosa	ABCA4	1200
+Disorders of sterol metabolism	ABCB11	2400
+Crigler-Najjar syndrome and Gilbert syndrome	UGT1A1	2400
+Smith-Lemli-Opitz syndrome	DHCR7	13200
+Bartsocas-Papas syndrome	RIPK4	25200
+Rett syndrome and leukodystrophies	AARS2	7200
+Lissencephaly and muscular dystrophies	ACTB	8400
+Medium chain acyl dehydrogenase deficiency	ACADM	1200
+Hypomyelinating disorders and leukodystrophies	AARS	19200
+Maturity-onset diabetes of the young	ABCC8	13200
+Hereditary breast, prostate, colorectal and nervous system cancer predisposition test	ALK	2400
+Leigh syndrome	ACAD9	3600
+Leigh syndrome	ACAD9	3600
+Hereditary spastic paraplegia and leukodystrophies	AARS2	7200
+Hereditary breast cancer predisposition test	ATM	13200
+Neuromuscular disorders	AARS	19200
+Neuromuscular disorders	AARS	19200
+Von Hippel-Lindau Syndrome Test	VHL	3600
+Hereditary breast, ovarian and neurological cancer predisposition test	ALK	2400
+Diabetes insipidus	AQP2	14400
+Cardiac disorders, deafness and epilepsy	AARS	19200
+3-M syndrome and Warburg micro syndrome	CCDC8	22800
+Skeletal disorders	ACP5	22800
+Leukodystrophies	AARS2	7200
+Mitochondrial disorders and hereditary motor and sensory neuropathy	AARS	19200
+Inborn errors of metabolism and cystic fibrosis	AASS	8400
+Congenital disorders of glycosylation and tuberous sclerosis	ALG1	19200
+Neurocognitive disorders and ataxia	AARS2	7200
+Medium-chain acyl-CoA dehydrogenase deficiency	ACADM	1200
+Disorders of carbohydrate metabolism	AGL	1200
+Bronchiectasis and dermatologic disorders	ABCA12	2400
+Neuromuscular disorders	AARS	19200
+Becker muscular dystrophy	DMD	27600
+Blistering diseases	AQP5	14400
+Collagen related disorders and thrombophilia	ABCC6	19200
+Rett syndrome	CDKL5	27600
+Pompe disease	GAA	20400
+Ventricular fibrillation	ACTN2	1200
+Wolfram syndrome	CISD2	4800
+Cone dystrophy	ABCA4	1200
+Hemophilia	F8	27600
+Dystonia and inborn errors of metabolism	AASS	8400
+Hereditary spastic paraplegia	ALDH18A1	12000
+Muscular dystrophies	ANO5	13200
+Inborn errors of metabolism, mitochondrial disorders and neurological disorders	AARS	19200
+Pituitary disorders	ABCD1	27600
+Skeletal disorders	ACP5	22800
+Frontotemporal dementia	C9ORF72	10800
+Neurodevelopmental disorders	AARS	19200
+Neurodevelopmental disorders	AARS	19200
+Intellectual disability	ACSL4	27600
+Inborn errors of metabolism	AASS	8400
+Dilated cardiomyopathy	ABCC9	14400
+Ullrich congenital muscular dystrophy	COL12A1	7200
+Brain calcification, ataxia and dystonia	ABCB7	27600
+Noonan syndrome	BRAF	8400
+Ataxia and dystonia	ABCB7	27600
+Rhabdoid tumor predisposition syndrome test	SMARCB1	26400
+Duchenne muscular dystrophy	DMD	27600
+Disorders of amino acid and peptide metabolism and hypothyroidism	AASS	8400
+Urea cycle disorders	ARG1	7200
+Methylmalonic acidemia	ABCD4	16800
+Inborn errors of metabolism, mitochondrial disorders and neurological disorders	AARS	19200
+Epilepsy and microcephaly	AARS	19200
+Congenital heart defects and mitochondrial disorders	AARS	19200
+Infantile neuroaxonal dystrophy, mitochondrial disorders and neuronal ceroid lipofuscinosis	AARS	19200
+Inborn errors of metabolism and mitochondrial disorders	AARS	19200
+Inborn errors of metabolism and mitochondrial disorders	AARS	19200
+Neurological disorders	AARS	19200
+Hepatosplenomegaly	ABCA1	10800
+Ataxia-Telangiectasia	ATM	13200
+Disorders of amino acid and peptide metabolism, hypothyroidism and hepatosplenomegaly	AASS	8400
+Neurodevelopmental disorders and intellectual disability	AARS	19200
+Kallmann syndrome	AXL	22800
+Hereditary spastic paraplegia and urea cycle disorders	ALDH18A1	12000
+Neurodevelopmental disorders and neuromuscular disorders	AARS	19200
+Polycystic kidney disease, polycystic liver disease and pancreatitis	ABCB4	8400
+Polycystic kidney disease, polycystic liver disease and pancreatitis	ABCB4	8400
+Skeletal dysplasia	ACP5	22800
+Dyskeratosis congenita and skeletal dysplasia	ACP5	22800
+Frontotemporal dementia	MAPT	20400
+Deafness	ACTG1	20400
+Arrhythmias	ABCC9	14400
+FGF23-related disorders	FGF23	14400
+Ocular albinism	CACNA1F	27600
+RASopathies	BRAF	8400
+Wiskott-Aldrich syndrome	WAS	27600
+Ataxia, dystonia, celiac disease and ciliopathies	ABCB7	27600
+Hereditary breast, ovarian, renal and nervous system cancer predisposition test	ALK	2400
+Bohring-Opitz syndrome	ASXL1	24000
+Pseudohypoaldosteronism	CUL3	2400
+Epilepsy	AARS	19200
+Neurodevelopmental disorders	AARS	19200
+Neurological disorders	AARS	19200
+Tyrosinemia	FAH	18000
+Joubert syndrome and related disorders	AHI1	7200
+Hereditary breast, ovarian and renal cancer predisposition test	ATM	13200
+Hereditary breast, ovarian cancer and neurofibromatosis predisposition test	ATM	13200
+Hereditary Renal Cancer Predisposition Test	FH	1200
+Hereditary breast, ovarian, colorectal cancer and neurofibromatosis predisposition test	APC	6000
+Hereditary renal cancer predisposition test	FH	1200
+Coffin-Siris syndrome	ARID1A	1200
+Autism spectrum disorders	ADNP	24000
+Hermansky-Pudlak syndrome and phenylketonuria	AP3B1	6000
+Peroxisome biogenesis disorders	ABCD1	27600
+Ataxia and leukodystrophies	AARS2	7200
+Obesity	CARTPT	6000
+Dystonia	ACTB	8400
+Polycystic kidney disease	ALG9	13200
+Disorders of amino acid and peptide metabolism	AASS	8400
+Achondrogenesis	COL2A1	14400
+Disorders of amino acid and peptide metabolism and congenital disorders of glycosylation	AASS	8400
+Congenital myasthenic syndrome, myopathies, muscular dystrophies and mitochondrial disorders	AARS	19200
+Mitochondrial disorders and Tay-Sachs disease	AARS	19200
+Hypercholesterolemia	APOB	2400
+Hypercholesterolemia	ABCA1	10800
+Primary microcephaly	ASPM	1200
+Hepatomegaly and hyperbilirubinemia	ABCA1	10800
+Hypertension and obesity	ACVRL1	14400
+Muscular dystrophies and myopathies	ACADS	14400
+Adrenal insufficiency	ABCD1	27600
+Inborn errors of metabolism	AASS	8400
+Mucolipidosis III gamma	GNPTG	19200
+Disorders of bile acid biosynthesis and progressive familial intrahepatic cholestasis	ABCB11	2400
+Tyrosinemia	FAH	18000
+Epilepsy	AARS	19200
+Hypertension and obesity	ACVRL1	14400
+Ectodermal dysplasia, immunodeficiencies and primary ciliary dyskinesia	ACP5	22800
+Brain malformations	ACTB	8400
+Inborn errors of metabolism and neurological disorders	AARS	19200
+Inborn errors of metabolism and neurological disorders	AARS	19200
+Alström syndrome, diabetes insipidus and obesity	ALMS1	2400
+Neurocognitive disorders	AARS2	7200
+Ataxia	ABCB7	27600
+Retinitis pigmentosa	ABCA4	1200
+Connective tissue disorders and congenital heart defects	ABCA12	2400
+Sandhoff disease	HEXB	6000
+Epilepsy	AARS	19200
+Attention deficit hyperactivity disorder and skeletal disorders	ACP5	22800
+Noonan syndrome and Kabuki syndrome	BRAF	8400
+Deafness, microcephaly and optic atrophy	ABCD4	16800
+Alstrom syndrome, diabetes insipidus and obesity	ALMS1	2400
+Neuromuscular disorders	AARS	19200
+Epileptic encephalopathy and mitochondrial disorders	AARS	19200
+Congenital myasthenic syndrome and myopathies	ACADS	14400
+Mitochondrial disorders	AARS	19200
+Hyperinsulinemic hypoglycemia	ABCC8	13200
+Charcot-Marie-Tooth disease	AARS	19200
+Nephrotic syndrome and focal segmental glomerulosclerosis	ACTN4	22800
+Glutaric acidemia	ETFDH	4800
+Neuromuscular disorders	AARS	19200
+Neuromuscular disorders	AARS	19200
+Neuromuscular disorders	AARS	19200
+Angelman syndrome, congenital disorders of glycosylation and disorders of neurotransmitters metabolism	ABAT	19200
+Parkinson disease and related disorders	ADH1C	4800
+Neurological disorders, eye disorders and obesity	AARS	19200
+Microcephaly	ABCD4	16800
+Neurocognitive disorders and deafness	AARS2	7200
+Complement deficiencies and systemic lupus erythematosus	C1QA	1200
+Metaphyseal dysplasia	AIRE	25200
+Glycogen storage diseases and Gaucher disease	AGL	1200
+Wolman disease	LIPA	12000
+Ataxia, microcephaly and GLUT1 deficiency	ABCB7	27600
+Van der Knaap disease	MLC1	26400
+Attention deficit hyperactivity disorder	FGD1	27600
+Epileptic encephalopathy	AARS	19200
+Neurometabolic disorders	AANAT	20400
+ABCB11 and ATP8B1-related progressive familial intrahepatic cholestasis	ABCB11	2400
+Schimke immuno-osseous dysplasia	SMARCAL1	2400
+Enhanced S-cone syndrome	NR2E3	18000
+Hemochromatosis and spherocytosis	ANK1	9600
+Congenital hepatic fibrosis and progressive familial intrahepatic cholestasis	ABCB11	2400
+Leukodystrophies	AARS2	7200
+SESAME syndrome	KCNJ10	1200
+Hypomagnesemia	CLDN16	3600
+Orofaciodigital syndrome	OFD1	27600
+Orofaciodigital syndrome	C5ORF42	6000
+Menkes disease	ATP7A	27600
+Denys-Drash syndrome	WT1	13200
+Myoclonic epilepsy	ADRA2B	2400
+Microphthalmia	ABCB6	2400
+Epileptic encephalopathy, neurotransmitter disorders, oculocutaneous albinism	AANAT	20400
+Mitochondrial disorders and neurometabolic disorders	AANAT	20400
+PKD1 and PKD2-related polycystic kidney disease	PKD1	19200
+Weill-Marchesani syndrome	ADAMTS10	22800
+Autism spectrum disorders and epilepsy	AARS	19200
+Mitochondrial disorders, organic acidemias and urea cycle disorders	AARS	19200
+Diabetes insipidus	AQP2	14400
+Brachydactyly and congenital heart defects	ABCC9	14400
+Congenital heart defects and Robinow syndrome	ABCC9	14400
+Angelman syndrome and Pitt-Hopkins syndrome	ADSL	26400
+Polycystic kidney and liver disease, nephronophthisis and pancreatitis	ABCB4	8400
+Congenital heart defects, microphthalmia, renal agenesis and skeletal disorders	ABCB6	2400
+Congenital heart defects and skeletal disorders	ABCC9	14400
+Congenital heart defects, intellectual disability and skeletal disorders	ABCC9	14400
+Neurocognitive and neurodevelopmental disorders.	AARS	19200
+Cataract and neurodevelopmental disorders	AARS	19200
+Brachydactyly and congenital heart defects	ABCC9	14400
+Atypical hemolytic uremic syndrome and nephrotic syndro	C3	22800
+Pseudohypoparathyroidism	GNAS	24000
+Steroid resistant nephrotic syndrome	ACTN4	22800
+Glycogen storage diseases	AGL	1200
+Multiple congenital anomalies-hypotonia-seizures syndrome 1	PIGN	21600
+Autism spectrum disorders	ADNP	24000
+Galactosemia and leukodystrophies	AARS2	7200
+Hereditary motor and sensory neuropathy and mitochondrial disorders	AARS	19200
+Hereditary motor and sensory neuropathy and mitochondrial disorders	AARS	19200
+Ellis-van Creveld syndrome and orofaciodigital syndrome	EVC	4800
+&nbsp;Autism spectrum disorders, epilepsy, hyperinsulinemic hypoglycemia and intellectual disability	AARS	19200
+Arthrogryposis and related disorders	ADCY6	14400
+Hereditary rare cancer predisposition test	BRCA2	15600
+Hypertriglyceridemia	AGL	1200
+Neurodevelopmental disorders, neurometabolic disorders and neurotransmitter disorders	AANAT	20400
+Hereditary breast, ovarian, gynecological and hereditary cancer predisposition test	APC	6000
+Hereditary colorectal and nervous system cancer predisposition test	ALK	2400
+Storage Disorders and hepatosplenomegaly	ABCA1	10800
+Hereditary cancer and nervous system cancer predisposition test	ALK	2400
+PLA2G6-associated neurodegeneration	PLA2G6	26400
+Dysostosis	ACTB	8400
+Dysostosis	ACTB	8400
+Bardet-Biedl syndrome	ARL6	3600
+Neurometabolic disorders and inborn errors of metabolism	AANAT	20400
+Disorders of neurotransmitters metabolism	ABAT	19200
+Ataxia, mitochondrial disorders and neurodegeneration with brain iron accumulation	AARS	19200
+SeSAME syndrome	KCNJ10	1200
+Nephrogenic diabetes insipidus	AQP2	14400
+Neuroaxonal dystrophy	NAGA	26400
+Steroid resistant nephrotic syndrome	ACTN4	22800
+GM2-gangliosidosis, neuroaxonal dystrophy and neuronal ceroid lipofuscinosis	ATP13A2	1200
+Hereditary renal cancer predisposition test	FH	1200
+Hereditary breast, ovarian and nervous system cancer predisposition test	ALK	2400
+Neurodevelopmental and neuromuscular disorders	AARS	19200
+Noonan syndrome and RASopathies	BRAF	8400
+Precocious puberty	CYP11B1	9600
+Arthrogryposis and related disorders and, DSD	ADCY6	14400
+Mitochondrial disorders and neurological disorders	AARS	19200
+Inborn errors of metabolism and neurometabolic disorders	AANAT	20400
+Arthrogryposis and related disorders and, DSD	ADCY6	14400
+Ellis-van Creveld syndrome	EVC	4800
+Hereditary colorectal and nervous system cancer and inherited cancer syndrome predisposition test	ALK	2400
+Arthrogryposis and related disorders, and DSD	ADCY6	14400
+Hereditary colorectal, endocrine and renal cancer predisposition test	AIP	13200
+Hereditary colorectal, nervous system cancer and inherited cancer predisposition test	ALK	2400
+Skeletal disorders	ACP5	22800
+Myopathies	ACADS	14400
+Iron-refractory iron deficiency anemia	TMPRSS6	26400
+Anemia	ABCB7	27600
+Desbuquois dysplasia, Stickler syndrome and spondyloepimetaphyseal dysplasia	ARSB	6000
+Obesity	CARTPT	6000
+Epileptic encephalopathy	AARS	19200
+Attention deficit hyperactivity disorder, autism spectrum disorders and epilepsy	AARS	19200
+Epilepsy and encephalopathy	AARS	19200
+Neurodevelopmental and neurocognitive disorders	AARS	19200
+Nephronophthisis	CC2D2A	4800
+Hereditary breast, ovarian, gynecological and nervous system cancer predisposition test	ALK	2400
+Nephronophthisis and polycystic kidney disease	ALG9	13200
+Arthrogryposis and microcephaly	ABCD4	16800
+Neurometabolic disorders, inborn errors of metabolism and dermatologic disorders	AANAT	20400
+Thrombocytopenia and lymphadenopathy	ACP5	22800
+Epilepsy, encephalopathy and neurometabolic disorders	AANAT	20400
+Hereditary breast, ovarian and rare cancer predisposition test	ATM	13200
+Hereditary colorectal and endocrine cancer predisposition test	AIP	13200
+Encephalopathy	AARS	19200
+Hereditary breast, ovarian, nervous system and hereditary cancer predisposition test	ALK	2400
+Hereditary colorectal, endocrine and hereditary cancer predisposition test	AIP	13200
+Kabuki syndrome and Rubinstein-Taybi syndrome	CREBBP	19200
+Hyper-IgM syndrome	AICDA	14400
+Osteopetrosis and related disorders	AMER1	27600
+Hereditary breast, prostate and endocrine cancer predisposition test	AIP	13200
+Atypical hemolytic uremic syndrome and nephrotic syndrome	C3	22800
+Epilepsy and neurocognitive disorders	AARS	19200
+Hyperpigmentation disorders, microcephaly and neurocognitive disorders	AARS2	7200
+Attention deficit hyperactivity disorder and autism spectrum disorders	ADNP	24000
+Autism spectrum disorders and microcephaly	ABCD4	16800
+Cutis laxa and Ehlers-Danlos syndrome	ADAMTS2	6000
+Hereditary breast, prostate, endocrine and nervous system cancer predisposition test	AIP	13200
+Andersen syndrome and Leigh syndrome	ACAD9	3600
+Precocious puberty and obesity	CARTPT	6000
+Andersen-Tawil syndrome and Leigh syndrome	ACAD9	3600
+Epilepsy	AARS	19200
+Epilepsy and neurocognitive disorders	AARS	19200
+Amyotrophic lateral sclerosis and epilepsy	AARS	19200
+Thiamine-responsive megaloblastic anemia syndrome	SLC19A2	1200
+Disorders of vitamins and cofactor metabolism	ABCD4	16800
+Opthalmic migraine	ATP1A2	1200
+Mendelian susceptibility to mycobacterial disease	CYBB	27600
+3-Methylcrotonyl-CoA carboxylase deficiency and very long-chain acyl-CoA dehydrogenase deficiency	ACADVL	20400
+Brain malformations and hypomyelinating disorders	AARS	19200
+Alagille Syndrome	JAG1	24000
+Autism spectrum disorders and epilepsy	AARS	19200
+Mucopolysaccharidosis type III A/B	NAGLU	20400
+Waardenburg syndrome	EDN3	24000
+Autism spectrum disorders, epilepsy and intellectual disability	AARS	19200
+Focal dermal hypoplasia&nbsp;	PORCN	27600
+Mucopolysaccharidosis type IV	GALNS	19200
+Hereditary nervous system cancer and cancer syndrome predisposition test	ALK	2400
+Acromelic and acromesomelic dysplasia	ADAMTS10	22800
+Leukodystrophies and macrocephaly	AARS2	7200
+Hereditary breast, ovarian, gynecological, colorectal and hereditary cancer predisposition test	APC	6000
+Hereditary colorectal and renal cancer predisposition test	APC	6000
+Brain malformations and epilepsy	AARS	19200
+Hydrops fetalis	ALG1	19200
+Megalencephalic leukoencephalopathy with subcortical cysts	HEPACAM	13200
+Homocystinuria	ABCD4	16800
+Citrullinemia	ASS1	10800
+CYP21A2-related adrenal hyperplasia	CYP21A2	7200
+3-Methylcrotonyl-CoA carboxylase deficiency and fatty acid oxidation defects	ACACA	20400
+Maturity-onset diabetes of the young and neonatal diabetes mellitus	ABCC8	13200
+Alternating hemiplegia of childhood	ATP1A2	1200
+Storage disorders and hepatosplenomegaly	ABCA1	10800
+Inborn errors of metabolism, mitochondrial disorders and neurological disorders	AARS	19200
+Craniosynostosis and Loeys-Dietz syndrome	ALX4	13200
+Ataxia, POLG-spectrum disorders and neurodegeneration with brain iron accumulation	ABCB7	27600
+ABCD1-related adrenoleukodystrophy	ABCD1	27600
+Neurocognitive and neuromuscular disorders	AARS	19200
+Neurocognitive and neuromuscular disorders	AARS	19200
+X-linked adrenoleukodystrophy	ABCD1	27600
+Neurocognitive disorders and epilepsy	AARS	19200
+CAP-2017-clinical exome	AARS2	7200
+CAP-Proficiency testing-Clinical Exome-2017	AARS2	7200
+Congenital heart defects, microcephaly, microphthalmia and skeletal disorders	ABCB6	2400
+Hereditary breast and ovarian cancer predisposition and neurofibromatosis test	ATM	13200
+Alexander disease and leukodystrophies	AARS2	7200
+Fatty acid oxidation defects and glycogen storage diseases	ACACA	20400
+Attention deficit hyperactivity disorder, intellectual disability and microcephaly	ABCD4	16800
+Raine syndrome	FAM20C	8400
+Renal tubular acidosis	ATP6V0A4	8400
+Perrault syndrome	C10ORF2	12000
+Congenital heart defects and epileptic encephalopathy	AARS	19200
+Neurocognitive disorders and microcephaly	AARS2	7200
+Hereditary spastic paraplegia, leukodystrophy and mitochondrial disorders	AARS	19200
+Lesch-Nyhan syndrome	HPRT1	27600
+TOR1A-related dystonia	TOR1A	10800
+Disorders of cornification	ABCA12	2400
+Epilepsy	AARS	19200
+Cerebellar ataxia	APTX	10800
+Intellectual disability and microcephaly	ABCD4	16800
+Epilepsy	AAAS	14400
+Epilepsy and mitochondrial disorders	AAAS	14400
+Autism specturm disorders, ataxia, epilepsy and inborn errors of metabolism	AARS	19200
+Dermatologic disorders, hirschsprung disease and neurological disorders	AARS	19200
+Alexander disease, epilepsy and hereditary spastic paraplegia	AARS	19200
+Epilepsy and intellectual disability	AARS	19200
+Diamond-Blackfan syndrome, thiamine-responsive megaloblastic anemia syndrome and Wolfram syndrome	CISD2	4800
+Autoinflammatory disorders and mevalonate kinase deficiency	ADAM17	2400
+Autism spectrum disorders, ataxia, epilepsy and inborn errors of metabolism	AARS	19200
+Lujan-Fryns syndrome	MED12	27600
+Neurodevelopmental and neuromuscular disorders	AARS	19200
+Neurodevelopmental disorders	AARS	19200
+Skeletal disorders and intellectual disability	ACP5	22800
+Hereditary colorectal and renal cancer predisposition test	APC	6000
+Leber congenital amaurosis and neuronal ceroid lipofuscinosis	AIPL1	20400
+GPC3 related-Simpson-Golabi-Behmel syndrome	GPC3	27600
+Mitochondrial respiratory chain disorders	AARS2	7200
+Common variable immune deficiency	CD19	19200
+Hereditary breast, ovarian and gastrointestinal cancer predisposition test	APC	6000
+Neurometabolic disorders	AANAT	20400
+Hereditary gynecological and nervous system cancer predisposition test	ALK	2400
+Encephalopathy and hepatomegaly	AARS	19200
+Cataract, intellectual disability, microcephaly and pigmentation disorders	ABCB6	2400
+Hereditary gynecological and nervous system cancer predisposition test	ALK	2400
+lycogen storage disorders, fatty acid oxidation defects and glutaric acidemia	ACACA	20400
+Glycogen storage disorders, fatty acid oxidation defects and glutaric acidemia	ACACA	20400
+Hereditary nervous system and cancer predisposition test	ALK	2400
+Glycogen storage disease, glutaric acidemia and fatty acid oxidation defects	ACACA	20400
+Neuronal ceroid lipofuscinosis and Leber congenital amaurosis	AIPL1	20400
+Disorders of sex development	AKR1C2	12000
+Intellectual disability	ACSL4	27600
+Cholestasis	ABCB11	2400
+Hereditary nervous system cancer and hereditary cancer predisposition test	ALK	2400
+Autism spectrum disorders, attention deficit hyperactivity disorder and intellectual disability	ACSL4	27600
+Factor XIII deficiency	F13A1	7200
+CYP11B1 and CYP21A2-related adrenal hyperplasia	CYP11B1	9600
+Inborn errors of metabolism and neuromuscular disorders	AARS	19200
+Cardiac and skeletal disorders	ABCB1	8400
+Neurodevelopmental disorders and dystonia	AARS	19200
+Autism spectrum disorders and intellectual disability	ACSL4	27600
+Neurocognitive and neurodevelopmental disorders	AARS	19200
+Pycnodysostosis	CTSK	1200
+Arthrogrypotic spectrum disorders and skeletal dysplasia	ACP5	22800
+Skeletal dysplasia, and arthrogryposis and related disorders	ACP5	22800
+Hereditary gynecological, colorectal and nervous system cancer predisposition test	ALK	2400
+Inborn errors of metabolism, neurological disorders and skeletal disorders	AARS	19200
+Disorders of collagen, elastin and dermal matrix	ATP7A	27600
+Ataxia and neuropathies	AARS	19200
+Common variable immunodeficiency	CD19	19200
+Hereditary colorectal and cancer predisposition test	APC	6000
+Lissencephaly	ACTB	8400
+Autism spectrum disorders, epilepsy and microcephaly	AARS	19200
+Beta thalassemia	GATA1	27600
+Neurodevelopmental, neurocognitive and skeletal disorders	AARS	19200
+Neurometabolic disorders, ataxia and epilepsy	AANAT	20400
+Congenital central hypoventilation syndrome	ASCL1	14400
+Restrictive dermopathy	LMNA	1200
+Epilepsy and hereditary spastic paraplegia	AARS	19200
+Congenital central hypoventilation syndrome and hereditary motor and sensory neuropathy	AARS	19200
+Congenital disorders of glycosylation	ALG1	19200
+Dystonia, epilepsy and neurocognitive disorders	AARS	19200
+Ataxia	ABCB7	27600
+Isolated retinal detachment	COL2A1	14400
+Hereditary motor and sensory neuropathy and ataxia	AARS	19200
+Mowat-Wilson and Angelman syndromes	UBE3A	18000
+HHH syndrome and dihydropyrimidine dehydrogenase deficiency	DPYD	1200
+<i>GCK</i>- related disorders	GCK	8400
+Thalassemia	ATRX	27600
+Leukodystrophies	AARS2	7200
+IL7R and JAK3 related severe combined immunodeficiency	IL7R	6000
+Neurodevelopmental disorders and hereditary spastic paraplegia	AARS	19200
+Trichothiodystrophy and encephalopathy	AARS	19200
+Leigh syndrome and Wilson disease	ACAD9	3600
+Attention deficit hyperactivity disorder, autism spectrum disorders, neurodevelopmental disorders and skeletal disorders	AARS	19200
+Hyperbilirubinemia, hepatosplenomegaly and liver cirrhosis	ABCA1	10800
+Dandy-Walker malformation and microcephaly	ABCD4	16800
+Beta-thalassemia	HBB	13200
+POLG-spectrum disorders and congenital myasthenic syndrome	AGRN	1200
+Hirschsprung disease and Rett syndrome	ARL6	3600
+Vitreoretinopathy	BEST1	13200
+Congenital disorders of glycosylation	ALG1	19200
+Dandy-Walker malformation and microcephaly	ABCD4	16800
+Hereditary colorectal, prostate, renal and endocrine cancer and hereditary cancer predisposition test	AIP	13200
+Microcephalic osteodysplastic primordial dwarfism	PCNT	25200
+Autism spectrum disorders, intellectual disability and microcephaly	ABCD4	16800
+Epilepsy and neurometabolic disorders	AANAT	20400
+Mucopolysaccharidosis type 1	IDUA	4800
+Mucopolysaccharidosis type I	IDUA	4800
+Hamartoneoplastic syndrome	AKT1	16800
+Hyperornithinemia-hyperammonemia-homocitrullinuria syndrome and dihydropyrimidine dehydrogenase deficiency	DPYD	1200
+Mendelian susceptibility to mycobacterial disease	CYBB	27600
+Eye disorders and neurological disorders	AARS	19200
+Intellectual disability and macrocephaly	ABCC9	14400
+Attention deficit hyperactivity disorder and intellectual disability	ACSL4	27600
+Ataxia and microcephaly	ABCB7	27600
+Acute necrotizing encephalopathy and trichothiodystrophy	CPT2	1200
+Autism spectrum disorders, attention deficit hyperactivity disorder, obesity and precocious puberty	ADNP	24000
+Hereditary rare cancer predisposition test	FLCN	20400
+Attention deficit hyperactivity disorder, autism spectrum disorders, epilepsy and microcephaly	AARS	19200
+Friedreich ataxia and spinocerebellar ataxia	ABCB7	27600
+Neuromuscular and neurotransmitter disorders	AANAT	20400
+Dystrophinopathy	DMD	27600
+Attention deficit hyperactivity disorders, neuromuscular disorders and ichthyosis	AARS	19200
+Hereditary breast, ovarian and skin cancer predisposition test	ATM	13200
+Hereditary Peutz-Jeghers syndrome test	STK11	22800
+Hereditary neurofibromatosis and rare cancer predisposition test	NF1	20400
+Segmental overgrwoth syndromes	AKT1	16800
+Mucopolysaccharidosis and mucolipidosis	ARSA	26400
+Apert syndrome and Pfeiffer syndrome	FGFR1	9600
+Autism spectrum disorders, Mowat-Wilson syndrome and Rett syndrome	ADNP	24000
+Macrocephaly and Simpson-Golabi-Behmel syndrome	ABCC9	14400
+Alexander disease and Krabbe disease	GALC	16800
+Hyperekplexia	ASNS	8400
+Neurodevelopmental disorders and retinal dystrophies	AARS	19200
+Neurological disorders and deafness	AARS	19200
+Alexander disease, Krabbe disease and Leigh syndrome	ACAD9	3600
+Neurodevelopmental and skeletal disorders	AARS	19200
+Autism spectrum disorders, neurodevelopmental disorders and neurometabolic disorders	AANAT	20400
+Attention deficit hyperactivity disorder and microcephaly	ABCD4	16800
+Attention deficit hyperactivity disorder and neurodevelopmental disorders	AARS	19200
+Congenital heart defects and mitochondrial disorders	AARS	19200
+Hemophagocytic lymphohistiocytosis and inborn errors of metabolism	AASS	8400
+Sialidosis, galactosialidosis and myoclonic epilepsy	ADRA2B	2400
+Leukodystrophies, mitochondrial disorders, molybdenum cofactor deficiency and sulfite oxidase deficiency	AARS	19200
+Congenital dyserythropoietic anemia	CDAN1	18000
+Intellectual disability, microcephaly and epilepsy	AARS	19200
+Hereditary breast cancer and hereditary cancer predisposition test	APC	6000
+Hereditary breast, ovarian, colorectal and skin cancer predisposition test	APC	6000
+Hereditary breast, ovarian, colorectal and hereditary cancer predisposition test	APC	6000
+Congenital insensitivity to pain	NGF	1200
+Neuromuscular and mitochondrial disorders	AARS	19200
+Alpha-1-antitrypsin deficiency, congenital hepatic fibrosis, cholestasis and tyrosinemia	ABCB11	2400
+Fanconi anemia and skeletal disorders	ACP5	22800
+Hemophilia	F8	27600
+Rett syndrome	MECP2	27600
+Fatty acid oxidation defects	ACACA	20400
+Myotonic dystrophy and Rieger syndrome	CNBP	3600
+Cystic renal disease	AHI1	7200
+Chediak-Higashi syndrome and Griscelli syndrome	LYST	1200
+Intellectual disability	ACSL4	27600
+Neurocognitive disorders	AARS2	7200
+Neurological disorders	AARS	19200
+Neurodevelopmental disorders and intellectual disability	AARS	19200
+Attention deficit hyperactivity disorder, epilepsy, ichthyosis and inborn errors of metabolism	AARS	19200
+Channelopathies, epilepsy and neurometabolic disorders	AANAT	20400
+Rett syndrome	CDKL5	27600
+Glutaric acidemia and Leigh syndrome	ACAD9	3600
+Somatic 152	ABCB1	8400
+Disorders of vitamins and co-factor metabolism	ABCD4	16800
+Venous thrombosis	CBS	25200
+Diabetes mellitus and liver cirrhosis	ABCB11	2400
+Intellectual disability and neuromuscular disorders	AARS	19200
+Bartter syndrome and cystic fibrosis	BSND	1200
+Neuromuscular disorders and neurodegeneration with brain iron accumulation	AARS	19200
+Inborn errors of metabolism and mitochondrial disorders	AARS	19200
+Idiopathic pulmonary fibrosis	MUC5B	13200
+Hereditary gynecological and renal cancer predisposition test	BRCA1	20400
+Idiopathic pulmonary fibrosis	MICA	7200
+Disorders of phenylalanine or tyrosine metabolism	FAH	18000
+Warburg micro syndrome	RAB18	12000
+Hereditary spastic paraplegia and microcephaly	ABCD4	16800
+Inborn errors of metabolism and neurodevelopmental disorders	AARS	19200
+Congenital heart defects, dermatologic disorders and neurodevelopmental disorders	AARS	19200
+Pigmentation disorders	ABCB6	2400
+Hereditary breast, colorectal and nervous system cancer predisposition test	ALK	2400
+<i>EFEMP2</i> and <i>FBLN5</i>-related disorders	EFEMP2	13200
+Intellectual disability and microcephaly	ABCD4	16800
+Immunodeficiencies and propionic acidemia	ACP5	22800
+Disorders of sterol metabolism and cholestasis	ABCB11	2400
+Disorders of vitamin B12 deficiency and anemia	ABCB7	27600
+Epilepsy	AARS	19200
+Epilepsy and neuromuscular disorders	AARS	19200
+Dystonia, inborn errors of metabolism, mitochondrial and neurotransmitter disorders	AANAT	20400
+Neurodevelopmental disorders and skeletal disorders	AARS	19200
+Autism spectrum disorders	ADNP	24000
+Neurocognitive disorders	AARS2	7200
+Cholestasis, Costello syndrome and Niemann-Pick disease	ABCB11	2400
+Epilepsy and neuronal ceroid lipofuscinosis	AARS	19200
+Anemia, immunodeficiencies and nephrological disorders	ABCB7	27600
+Deafness and eye disorders	ABCA4	1200
+Autism spectrum disorders, epilepsy and inborn errors of metabolism	AARS	19200
+Arrhythmias and cardiomyopathies	ABCC9	14400
+Hemophagocytic lymphohistiocytosis and X-linked lymphoproliferative syndromes	AP3B1	6000
+Dystonia and muscular dystrophies	ACTB	8400
+Hereditary spastic paraplegia and neuropathies	AARS	19200
+Hereditary colorectal, breast, skin and nervous system cancer predisposition test<br>	ALK	2400
+Immunodeficiency and cystic fibrosis	ACP5	22800
+Epilepsy and microcephaly	AARS	19200
+Epilepsy, ataxia and microcephaly	AARS	19200
+Hemophagocytic lymphohistiocytosis, X-linked lymphoproliferative syndromes and X-linked neutropenia	AP3B1	6000
+Cockayne syndrome and peroxisome biogenesis disorders	ABCD1	27600
+Macrocephaly	ABCC9	14400
+Neurological disorders	AARS	19200
+Acromesomelic dysplasia	BMPR1B	4800
+Mitochondrial and neurological disorders	AARS	19200
+Biotinidase deficiency and phenylketonuria	BTD	3600
+Inborn errors of metabolism, mitochondrial, neurotransmitter and neurological disorders	AANAT	20400
+Channelopathies, epilepsy and inborn erros of metabolism	AARS	19200
+Nephropathies	APRT	19200
+Multiple epiphyseal dysplasia and pseudoachondroplasia	COL9A1	7200
+Hereditary gynecological, endocrine and nervous system cancer predisposition test	AIP	13200
+Nephrological disorders	ABCG2	4800
+Neuromuscular disorders and overgrowth syndromes	AARS	19200
+Hereditary breast, skin and nervous system cancer predisposition test	ALK	2400
+Neurodevelopmental and mitochondrial disorders	AARS	19200
+Hereditary colorectal and Von Hippel-Lindau syndrome predisposition test	APC	6000
+Eye, neurodevelopmental and skeletal disorders	AARS	19200
+Channelopathies, epilepsy and inborn errors of metabolism	AARS	19200
+Hereditary breast, ovarian, prostate, colorectal and hereditary cancer predisposition test	APC	6000
+PrimBio Breast and Ovarian Cancer Predisposition test	RB1	15600
+Atrioventricular septal defects	ACTC1	18000
+Hereditary colorectal cancer and von Hippel-Lindau syndrome predisposition test	APC	6000
+TEst genelist	AARS	19200
+Storage disorders, hyperpigmentation and hypertriglyceridemia	ABCB6	2400
+Neurocutaneous syndromes	ACVRL1	14400
+Arginase deficiency	ARG1	7200
+Congenital heart defects, neurodevelopmental and neuromuscular disorders	AARS	19200
+Ataxia and epilepsy	AARS	19200
+Arginosuccinic aciduria and citrullinemia	ASL	8400
+Gangliosidosis and leukodystrophies	AARS2	7200
+Stargardt disease	ABCA4	1200
+Epilepsy and hyperinsulinemic hypoglycemia	AARS	19200
+Cardiac disorders and epilepsy	AARS	19200
+Leukocyte adhesion deficiency	FERMT3	13200
+Pyogenic sterile arthritis, pyoderma gangrenosum and acne	PSTPIP1	18000
+Epilepsy and intellectual disability	AARS	19200
+Mitochondrial, neurodevelopmental and neurometabolic disorders	AANAT	20400
+Immunological disorders	ACP5	22800
+Inborn errors of metabolism and neurological disorders	AARS	19200
+Neuromuscular disorders	AARS	19200
+clinical	ACP5	22800
+Neuromuscular disorders	AARS	19200
+Congenital myasthenic syndrome, muscular dystrophies and myopathies	ACADS	14400
+Organic acidemias and severe combined immunodeficiency	ABCD4	16800
+Andersen-Tawil syndrome, myotonic congenita and myotonic dystrophy	CLCN1	8400
+Epilepsy and hypoglycemia	AARS	19200
+Cockayne syndrome	ERCC5	15600
+Leigh syndrome, neurodevelopmental and neuromuscular disorders	AARS	19200
+Epilepsy and leukodystrophies	AARS	19200
+Ataxia and Leigh syndrome	ABCB7	27600
+Pelizaeus-Merzbacher disease	PLP1	27600
+Charge syndrome and skeletal disorders	ACP5	22800
+CHARGE syndrome and skeletal disorders	ACP5	22800
+Spastic paraplegia	ALDH18A1	12000
+Focal segmental glomerulosclerosis and nephrotic syndrome	ACTN4	22800
+Hereditary colorectal, breast, prostate and endocrine cancer predisposition test&nbsp;	AIP	13200
+TEst	ABCB4	8400
+Neurotransmitter disorders	AANAT	20400
+Lipodystrophy and muscular dystrophies	AGPAT2	10800
+Fetal akinesia deformation sequence and skeletal disorders	ACP5	22800
+Fetal akinesia deformation sequence and skeletal dysplasia	ACP5	22800
+Lipodystrophy	AGPAT2	10800
+Skeletal dysplasias and osteogenesis imperfecta	ACP5	22800
+Bardet-Biedl syndrome and Duane syndrome	ARL6	3600
+Neurodevelopmental, neurocognitive and neurotransmitter disorders	AANAT	20400
+Nephropathies	APRT	19200
+Ataxia, Leigh syndrome and mitochondrial disorders	AARS	19200
+Ataxia and mitochondrial disorders	AARS	19200
+Andersen-Tawil syndrome, myotonia congenita and myotonic dystrophy	CLCN1	8400
+Otospondylomegaepiphyseal dysplasia	COL11A2	7200
+Hereditary breast, prostate and colorectal cancer predisposition test	APC	6000
+Liver cirrhosis	ABCB11	2400
+Deafness and nephrological disorders	ABCG2	4800
+Dystonia and mitochondrial disorders	AARS	19200
+Holt-Oram syndrome	TBX5	14400
+Keratosis pilaris and neurocutaneous syndromes	ACVRL1	14400
+Anophthalmia and microphthalmia	ABCB6	2400
+Autism spectrum disorder, epilepsy and intellectual disability	AARS	19200
+Abnormal minerelization disorders and osteogenesis imperfecta	ABCC6	19200
+Leukodystrophies and neuropathies	AARS	19200
+Autism spectrum disorders and skeletal dysplasia	ACP5	22800

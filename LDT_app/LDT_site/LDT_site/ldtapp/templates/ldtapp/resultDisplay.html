@@ -1,0 +1,110 @@
+{% extends 'base.html' %}
+<!-- Header -->
+{% block head %}
+    <title>Cost Breakdown</title>
+{% endblock %}
+
+<!-- Main Body -->
+{% block body %}
+<!-- Header Bar -->
+<nav class="navbar navbar-expand-lg bg-light static-top">
+  <div class="container">
+    <a class="navbar-brand" href="https://strandls.com/">
+          {% load static %}
+          <img src='{% static "ldtapp/img/strandls_logo.png" %}' alt="">
+        </a>
+  </div>
+</nav>
+
+<!-- Page Content -->
+<div class="container">
+  
+  <!-- Page heading -->
+  <h2 class="mt-4">Cost Calculated</h2>
+  
+  <!-- table 1 -->
+  <div class="col-md-12">
+    <h4>Given:-</h4>
+    <table class="table" id="given">
+      <thead>
+        <tr>
+          <th class= "w-25">Subject</th>
+          <th class= "w-25">Value</th>
+        </tr>
+      </thead>
+       <tbody>
+       	<tr><td class= "w-25">Number of genes</td><td> {{ totNumberGenes}} </td></tr>
+       	<tr><td class= "w-25">Gene list</td><td> {{ genelist }} </td></tr>
+       	<tr><td class= "w-25">Number of samples</td><td>{{ totalFreqSmp }} samples/week X {{ actualTime }} weeks = {{ labProcessBatchSize }}</td></tr>
+       	<tr><td class= "w-25">Panel size</td><td id="panelLength">{{ panelLength }}</td></tr>
+       </tbody>
+    </table>
+  </div>
+  <hr>
+  <br>
+  <!-- table 2 -->
+  <div class="col-md-12">
+    <h4>Cost Breakdown:- </h4>
+    <table class="table" id="breakdown">
+      <thead>
+        <tr>
+          <th>Subject</th>
+          <th>Value</th>
+        </tr>
+      </thead>
+       <tbody>
+       	<tr><td>DNA extraction cost per sample</td><td> {{ dnaExtCst }} USD</td></tr>
+       	<tr><td>Library preparation cost per sample</td><td> {{ libPrpCst }} USD</td></tr>
+       	<tr><td>{{ batchSize }}-plex hybridization cost</td><td id="hybKitCst">{{ hybKitCst }} USD</td></tr>
+       	<tr><td>{{ batchSize }}-plex hybridization cost per reaction</td><td id="hybKitCstPerRxn">{{ hybKitCstPerRxn }} USD</td></tr>
+       	<tr><td>{{ batchSize }}-plex hybridization cost per sample</td><td id="hybKitCstPerSample">{{ hybKitCstPerSample }} USD</td></tr>
+       	<tr><td>Sequencing kit used</td><td>{{ kitType }}</td></tr>
+       	<tr><td>Sequencing kit cost</td><td id="kit_cost">{{ kit_cost }} USD</td></tr>
+       	<tr><td>Sequencing kit cost per samples</td><td id="seqCostPerSample">{{ seqCostPerSample }} USD</td></tr>
+       	<tr><td>Total overall cost</td><td id="netCost">{{ netCost }} USD</td></tr>
+       	<tr><td>Overall cost per sample</td><td id="netCostPerSample">{{ netCostPerSample }} USD</td></tr>
+       </tbody>
+    </table>
+  </div>
+  <br><br><br>
+
+</div>
+
+
+{% endblock %}
+
+<!-- Fotter -->
+{% block footer %}
+<script type="text/javascript">
+	$(document).ready(function() {
+		var valBases = $('#panelLength').text()
+		var netCostPerSample = $('#netCostPerSample').text()
+		var netCost = $('#netCost').text()
+		var kit_cost = $('#kit_cost').text()
+		var hybKitCst = $('#hybKitCst').text()
+		var hybKitCstPerRxn = $('#hybKitCstPerRxn').text()
+		var hybKitCstPerSample = $('#hybKitCstPerSample').text()
+		var seqCostPerSample = $('#seqCostPerSample').text()
+		commaNumber = parseInt((valBases),10).toLocaleString('en', {useGrouping:true})
+		console.log(commaNumber)
+		netCostPerSample = parseFloat((netCostPerSample),10).toLocaleString('en', {useGrouping:true})
+		netCost = parseFloat((netCost),10).toLocaleString('en', {useGrouping:true})
+		kit_cost = parseFloat((kit_cost),10).toLocaleString('en', {useGrouping:true})
+		hybKitCst = parseFloat((hybKitCst),10).toLocaleString('en', {useGrouping:true})
+		hybKitCstPerRxn = parseFloat((hybKitCstPerRxn),10).toLocaleString('en', {useGrouping:true})
+		hybKitCstPerSample = parseFloat((hybKitCstPerSample),10).toLocaleString('en', {useGrouping:true})
+		seqCostPerSample = parseFloat((seqCostPerSample),10).toLocaleString('en', {useGrouping:true})
+		$("#panelLength").html(commaNumber+" Bases")
+		$("#netCostPerSample").html(netCostPerSample+" USD")
+		$("#netCost").html(netCost+" USD")
+		$("#kit_cost").html(kit_cost+" USD")
+		$("#hybKitCst").html(hybKitCst+" USD")
+		$("#hybKitCstPerRxn").html(hybKitCstPerRxn+" USD")
+		$("#hybKitCstPerSample").html(hybKitCstPerSample+" USD")
+		$("#seqCostPerSample").html(seqCostPerSample+" USD")
+	});
+
+</script>
+
+
+{% endblock %}
